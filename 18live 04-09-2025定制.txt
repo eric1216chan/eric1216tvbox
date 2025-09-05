@@ -50,7 +50,7 @@ CTV Kitchener,http://panelguys.top:8080/txd7Fd/030774/58557
 CTV Montreal HD,http://panelguys.top:8080/txd7Fd/030774/47234
 CTV NEWS CHANNEL,http://panelguys.top:8080/txd7Fd/030774/57350
 CTV OTTAWA,http://panelguys.top:8080/txd7Fd/030774/47237
-CTV Regina  ,http://panelguys.top:8080/txd7Fd/030774/66381
+CTV Regina,http://panelguys.top:8080/txd7Fd/030774/66381
 CTV Toronto HD,http://panelguys.top:8080/txd7Fd/030774/47296
 CTV Two Atlantic,http://panelguys.top:8080/txd7Fd/030774/79547
 CTV2 Vancouver,http://panelguys.top:8080/txd7Fd/030774/57316
@@ -155,12 +155,12 @@ NFL NETWORK HD,http://panelguys.top:8080/txd7Fd/030774/47346
 NFL RED ZONE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
 NICKELODEON,http://panelguys.top:8080/txd7Fd/030774/53728
 OAN,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
-OLN ,http://panelguys.top:8080/txd7Fd/030774/57366
+OLN,http://panelguys.top:8080/txd7Fd/030774/57366
 One America News,http://panelguys.top:8080/txd7Fd/030774/21752
 OUTSIDE TV,http://panelguys.top:8080/txd7Fd/030774/20865
 OWN,http://panelguys.top:8080/txd7Fd/030774/46698
 OWN,http://panelguys.top:8080/txd7Fd/030774/57277
-Oxygen ,http://panelguys.top:8080/txd7Fd/030774/46695
+Oxygen,http://panelguys.top:8080/txd7Fd/030774/46695
 PARAMOUNT NETWORK,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
 Paramount Network,http://panelguys.top:8080/txd7Fd/030774/46694
 PBS HD,http://panelguys.top:8080/txd7Fd/030774/57276
@@ -178,11 +178,11 @@ SCREENPIX WESTERNS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/2828
 Showcase HD,http://panelguys.top:8080/txd7Fd/030774/47366
 Showtime 2,http://panelguys.top:8080/txd7Fd/030774/13219
 Showtime East,http://panelguys.top:8080/txd7Fd/030774/46214
-Showtime Extreme ,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
+Showtime Extreme,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
 Showtime Family Zone,http://panelguys.top:8080/txd7Fd/030774/13481
-Showtime Next  ,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
-Showtime Showcase  ,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
-Showtime West  ,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
+Showtime Next,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
+Showtime Showcase,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
+Showtime West,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
 Showtime Women,http://panelguys.top:8080/txd7Fd/030774/17778
 SKY CINEMA ACTION,http://panelguys.top:8080/txd7Fd/030774/35254
 Sky Cinema Animation,http://panelguys.top:8080/txd7Fd/030774/53698
@@ -217,7 +217,7 @@ Sportsnet West,http://panelguys.top:8080/txd7Fd/030774/20975
 Sportsnet World HD,http://panelguys.top:8080/txd7Fd/030774/75675
 StarMax,http://panelguys.top:8080/txd7Fd/030774/13381
 Starz Encore Westerns,http://panelguys.top:8080/txd7Fd/030774/16263
-Stories by AMC  ,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+Stories by AMC,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 STV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
 SYFY,https://fl3.moveonjoy.com/SYFY/index.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
