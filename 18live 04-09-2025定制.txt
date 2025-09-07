@@ -15994,37 +15994,78 @@ viu劇集,http://iptv.4666888.xyz/iptv.php?id=20070
 💎香港(BXTV)🇭🇰,#genre#
 Astro AEC,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=AEC
 Astro AOD,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Aodhd
-Astro歡喜颱,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Huahee
+Astro QJ,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Quanjia
+Astro歡喜台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Huahee
+CCTV1,https://jackcdn6.946985.qzz.io/live/cctv1/stream.m3u8
 CCTV13,https://jackcdn3.946985.qzz.io/live/cctv13/stream.m3u8
+CH5,https://jackcdn6.946985.qzz.io/live/ch5/stream.m3u8
+CH8,https://jackcdn6.946985.qzz.io/live/ch8/stream.m3u8
+CHU,https://jackcdn6.946985.qzz.io/live/chu/stream.m3u8
 HOY TV,https://jackcdn.946985.qzz.io/live/hoy/stream.m3u8
-myTV SUPER 18颱,http://bxtv.3a.ink/api.php?id=18
+HOY TV,https://jackcdn6.946985.qzz.io/live/hoy/stream.m3u8
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 NOW新聞,http://bxtv.3a.ink/api.php?id=now
-NOW新聞颱,https://jackcdn.946985.qzz.io/live/now/stream.m3u8
+NOW新聞台,https://jackcdn.946985.qzz.io/live/now/stream.m3u8
 PopC,http://bxtv.3a.ink/api.php?id=popc
 RTHK31,https://jackcdn.946985.qzz.io/live/rthk31/stream.m3u8
 RTHK32,https://jackcdn.946985.qzz.io/live/rthk32/stream.m3u8
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+TVB PLUS,https://jackcdn6.946985.qzz.io/live/tvbp/stream.m3u8
+TVB1,https://jackcdn6.946985.qzz.io/live/tvb1/stream.m3u8
+TVBJ1,https://jackcdn6.946985.qzz.io/live/j1/stream.m3u8
+TVB亞洲武俠,https://jackv2h.946985.qzz.io/live/yzwx/stream.m3u8
+TVB星河,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Xinhe
+TVB星河,https://jackv2h.946985.qzz.io/live/tvbxh/stream.m3u8
+TVB娛樂新聞台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbentertainment
+TVB娛樂新聞台,https://jackv2h.946985.qzz.io/live/ylxw/stream.m3u8
+TVB華麗翡翠台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbjade
+TVB華麗翡翠台,https://jackv2h.946985.qzz.io/live/hlfct/stream.m3u8
 VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 ViuTV,https://jackcdn.946985.qzz.io/live/viu/stream.m3u8
-千禧經典颱,http://bxtv.3a.ink/api.php?id=qxjd
-中天新聞颱,http://bxtv.3a.ink/api.php?id=ztxw
+ViuTVSix,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=viusix_twn
+八度空間,https://jackcdn6.946985.qzz.io/live/8tv/stream.m3u8
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+千禧經典台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbclassic
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 五星體育,https://jackcdn3.946985.qzz.io/live/wxty/stream.m3u8
 天映經典,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Celestial2
 天映頻道,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Celestial
-明珠颱,http://bxtv.3a.ink/api.php?id=mz
-美亞電影颱,http://bxtv.3a.ink/api.php?id=meiya
-美亞電影颱,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=meiyamovie_twn
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+明珠台,https://jackcdn6.946985.qzz.io/live/mzt/stream.m3u8
+明珠台,https://jacko12.946985.qzz.io/hls/mzt/playlist.m3u8
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+美亞電影台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=meiyamovie_twn
+重溫經典,https://jackcdn6.946985.qzz.io/live/cwjd/stream.m3u8
 深圳財經生活,https://jackcdn3.946985.qzz.io/live/szcjsh/stream.m3u8
 深圳衛視4K,https://jackcdn3.946985.qzz.io/live/szws4k/stream.m3u8
 第一財經,https://jackcdn3.946985.qzz.io/live/dycj/stream.m3u8
-無線新聞颱,http://bxtv.3a.ink/api.php?id=wxxw
-翡翠颱,http://bxtv.3a.ink/api.php?id=fct
-翡翠颱,https://jackmytv.946985.qzz.io/hls/fct/playlist.m3u8
-鳳凰衛視中文颱,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視香港颱,http://bxtv.3a.ink/api.php?id=fhhk
-鳳凰衛視資訊颱,http://bxtv.3a.ink/api.php?id=fhzx
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+無線新聞台,https://jackcdn6.946985.qzz.io/live/wxxw/stream.m3u8
+愛奇藝,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Qiyi
+翡翠台(廣電),https://jackcdn6.946985.qzz.io/live/fct/stream.m3u8
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+翡翠台,https://jackmytv.946985.qzz.io/hls/fct/playlist.m3u8
+翡翠台4K,https://jackcdn6.946985.qzz.io/live/fct4k/stream.m3u8
+翡翠劇集台,https://jackcdn6.946985.qzz.io/live/tvbd/stream.m3u8
+鳳凰中文,https://jackcdn6.946985.qzz.io/live/fhzw/stream.m3u8
+鳳凰香港,https://jackcdn6.946985.qzz.io/live/fhhk/stream.m3u8
+鳳凰資訊,https://jackcdn6.946985.qzz.io/live/fhzx/stream.m3u8
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
 廣東珠江,http://bxtv.3a.ink/api.php?id=gdzj
 廣東體育,http://bxtv.3a.ink/api.php?id=gdty
+澳視衛星,https://jackcdn6.946985.qzz.io/live/as/stream.m3u8
+澳視澳門,https://jackcdn6.946985.qzz.io/live/asam/stream.m3u8
+龍華日韓,https://jackcdn8.946985.qzz.io/live/lhrh/stream.m3u8
+龍華卡通,https://jackcdn8.946985.qzz.io/live/lhkt/stream.m3u8
+龍華洋片,https://jackcdn8.946985.qzz.io/live/lhyp/stream.m3u8
+龍華偶像,https://jackcdn8.946985.qzz.io/live/lhox/stream.m3u8
+龍華經典,https://jackcdn8.946985.qzz.io/live/lhjd/stream.m3u8
+龍華電影,https://jackcdn8.946985.qzz.io/live/lhdy/stream.m3u8
+龍華戲劇,https://jackcdn8.946985.qzz.io/live/lhxj/stream.m3u8
+
+
 
 
 
