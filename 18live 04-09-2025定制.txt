@@ -1,7 +1,8 @@
 🇭🇰更新8-9-2025🇭🇰,#genre#
 如看不到,http://
-請左右換網源,http://
-每天盡力修護,http://
+左右換網源,http://
+盡力修復,http://
+多謝支持,http://
 
 
 
@@ -17288,23 +17289,13 @@ CGTN西語,https://0472.org/hls/cgtnx.m3u8
 
 
 🍎中國精選🍎,#genre#
-
-
-genre西藏衛視,http://php.jdshipin.com:8880/xztv.php?id=ws
 genre西藏衛視,http://php.jdshipin.com:8880/xztv.php?id=ws
 七臺河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-七臺河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-七臺河新聞綜合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 七臺河新聞綜合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 十堰新聞,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-十堰新聞,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 三明新聞綜合,http://ls.qingting.fm/live/4885.m3u8
-三明新聞綜合,http://ls.qingting.fm/live/4885.m3u8
-三明新聞綜合,https://ls.qingting.fm/live/5022100/64k.m3u8
 三明新聞綜合,https://ls.qingting.fm/live/5022100/64k.m3u8
 上海第一財經,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=7c61765857deba36348b33b70960be142ad01112a576887cba46c30e7069797b60d888f8f8dde583e0fd4fc58620a1fe2e530a64d73661591405b25881e40fcc2c1fe608d3cc0e259c8c00d297
-上海第一財經,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-上海第一財經,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一財經,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海都市,https://migu.188766.xyz/?migutoken=25fca555af4be46a9744edda1dbd024d&id=ds&type=sz
 上海新聞綜合,https://migu.188766.xyz/?migutoken=ab52e6b62ed5785f357e5b5f07f64dda&id=xwzh&type=sz
@@ -17313,28 +17304,16 @@ genre西藏衛視,http://php.jdshipin.com:8880/xztv.php?id=ws
 上虞3新商都 (720p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-上虞新聞綜合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞新聞綜合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞經濟文化 (720p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 大通電視臺,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
 大通電視臺,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
 大寧綜合,http://live.daningtv.com/aac_dngb/playlist.m3u8
-大寧綜合,http://live.daningtv.com/aac_dngb/playlist.m3u8
 山東少兒,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
 山東文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
-山東文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
-山東文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 山東生活,http://ls.qingting.fm/live/60260.m3u8
-山東生活,http://ls.qingting.fm/live/60260.m3u8
-山東生活,http://ls.qingting.fm/live/60260.m3u8
-山東新聞,http://ls.qingting.fm/live/60180.m3u8
-山東新聞,http://ls.qingting.fm/live/60180.m3u8
 山東新聞,http://ls.qingting.fm/live/60180.m3u8
 山東綜藝,http://111.14.181.15:9901/tsfile/live/1004_1.m3u8
 山東齊魯,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
@@ -17344,25 +17323,13 @@ genre西藏衛視,http://php.jdshipin.com:8880/xztv.php?id=ws
 中國藍新聞臺,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 中國藍新聞臺,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 中華美食,http://nas.hssvm.com:8888/udp/225.1.1.218:5002
-中華美食,http://nas.hssvm.com:8888/udp/225.1.1.218:5002
-中華特產,http://120.76.248.139/live/bfgd/4200000158.m3u8
 中華特產,http://120.76.248.139/live/bfgd/4200000158.m3u8
 之江紀錄,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-之江紀錄,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-五家渠綜合頻道,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 五家渠綜合頻道,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 五師綜合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
-五師綜合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 五師雙河,http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
-五師雙河,http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
-五華綜合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
 五華綜合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
 五華綜合,http://pull-hsbj.vzan.com/v/slowlive_621139761151691240.flv
 五華綜合,http://pull-hsbj.vzan.com/v/slowlive_621139761151691240.flv
