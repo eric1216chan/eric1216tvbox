@@ -5142,6 +5142,10 @@ Zylo ScreamIN,https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/ra
 Ингушетия ТВ,https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 Индия,http://31.148.48.15/Zee_TV_Russia/index.m3u8
 
+
+
+
+
 💎國際频道3🇭🇰,#genre#
 #039; But 90s (1080p),https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #039; L,https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
@@ -15401,14 +15405,14 @@ HOY77,http://iptv.4666888.xyz/iptv.php?id=20078
 HOY78,http://iptv.4666888.xyz/iptv.php?id=20079
 Hub娛家,http://iptv.4666888.xyz/iptv.php?id=20287
 Hub都會,http://iptv.4666888.xyz/iptv.php?id=20288
-MYTV_SUPER_FREE,http://iptv.4666888.xyz/iptv.php?id=20111
-MYTV_SUPER少兒,http://iptv.4666888.xyz/iptv.php?id=20110
-MYTV_SUPER亞洲劇,http://iptv.4666888.xyz/iptv.php?id=20109
-MYTV_SUPER黃金華劇,http://iptv.4666888.xyz/iptv.php?id=20108
-MYTV_SUPER黃金翡翠,http://iptv.4666888.xyz/iptv.php?id=20106
-MYTV_SUPER粵語片,http://iptv.4666888.xyz/iptv.php?id=20112
-MYTV_SUPER經典,http://iptv.4666888.xyz/iptv.php?id=20107
-MYTV_SUPER戲曲,http://iptv.4666888.xyz/iptv.php?id=20113
+Mytv_FREE,http://iptv.4666888.xyz/iptv.php?id=20111
+Mytv少兒,http://iptv.4666888.xyz/iptv.php?id=20110
+Mytv亞洲劇,http://iptv.4666888.xyz/iptv.php?id=20109
+Mytv黃金華劇,http://iptv.4666888.xyz/iptv.php?id=20108
+Mytv黃金翡翠,http://iptv.4666888.xyz/iptv.php?id=20106
+Mytv粵語片,http://iptv.4666888.xyz/iptv.php?id=20112
+Mytv經典,http://iptv.4666888.xyz/iptv.php?id=20107
+Mytv戲曲,http://iptv.4666888.xyz/iptv.php?id=20113
 Now668賽馬,http://iptv.4666888.xyz/iptv.php?id=20094
 Now直播,http://iptv.4666888.xyz/iptv.php?id=20093
 Now星影(國),http://iptv.4666888.xyz/iptv.php?id=20088
