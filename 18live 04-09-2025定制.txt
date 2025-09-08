@@ -16316,20 +16316,21 @@ Now_sport3,http://iptv.4666888.xyz/iptv.php?id=20084
 
 
 💎MyTV Super🇭🇰,#genre#
-MYTV_SUPER_FREE,http://iptv.4666888.xyz/iptv.php?id=20111
-MYTV_SUPER少兒,http://iptv.4666888.xyz/iptv.php?id=20110
-MYTV_SUPER亞洲劇,http://iptv.4666888.xyz/iptv.php?id=20109
-MYTV_SUPER黃金華劇,http://iptv.4666888.xyz/iptv.php?id=20108
-MYTV_SUPER黃金翡翠,http://iptv.4666888.xyz/iptv.php?id=20106
-MYTV_SUPER粵語片,http://iptv.4666888.xyz/iptv.php?id=20112
-MYTV_SUPER經典,http://iptv.4666888.xyz/iptv.php?id=20107
-MYTV_SUPER戲曲,http://iptv.4666888.xyz/iptv.php?id=20113
+MYTV FREE,http://iptv.4666888.xyz/iptv.php?id=20111
+SUPER Kids Channel,https://live.tvfix.org/live/kid/index.m3u8
+MYTV 少兒,http://iptv.4666888.xyz/iptv.php?id=20110
+MYTV 亞洲劇,http://iptv.4666888.xyz/iptv.php?id=20109
+MYTV 黃金華劇,http://iptv.4666888.xyz/iptv.php?id=20108
+MYTV 黃金翡翠,http://iptv.4666888.xyz/iptv.php?id=20106
+MYTV 粵語片,http://iptv.4666888.xyz/iptv.php?id=20112
+MYTV 經典,http://iptv.4666888.xyz/iptv.php?id=20107
+MYTV 戲曲,http://iptv.4666888.xyz/iptv.php?id=20113
 mytv直播-2,http://t.061899.xyz/tl/js/api.php?id=2mysuperzbzqt
 mytv直播-3,http://t.061899.xyz/tl/js/api.php?id=3mysuperzbzqt
 mytv直播-4,http://t.061899.xyz/tl/js/api.php?id=4mysuperzbzqt
 mytv直播-5,http://t.061899.xyz/tl/js/api.php?id=5mysuperzbzqt
 mytv直播-6,http://t.061899.xyz/tl/js/api.php?id=6mysuperzbzqt
-SUPER Kids Channel,https://live.tvfix.org/live/kid/index.m3u8
+
 
 
 
