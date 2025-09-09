@@ -8,6 +8,13 @@
 
 💎秒播频道💎,#genre#
 Now英超1,http://iptv.4666888.xyz/iptv.php?id=20092
+Now_sport1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
+Now_sport2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
+Now_sport3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
+NowSports4,http://iptv.4666888.xyz/iptv2.php?id=33
+NowSports5,http://iptv.4666888.xyz/iptv2.php?id=34
+NowSports6,http://iptv.4666888.xyz/iptv2.php?id=35
+NowSports7,http://iptv.4666888.xyz/iptv2.php?id=36
 
 
 💎【Gobla】国际频道1🇭🇰,#genre#
@@ -15426,6 +15433,13 @@ Now新聞,http://iptv.4666888.xyz/iptv.php?id=20084
 Now劇集,http://iptv.4666888.xyz/iptv.php?id=20091
 Now爆谷(國),http://iptv.4666888.xyz/iptv.php?id=20089
 Now爆谷(粵),http://iptv.4666888.xyz/iptv.php?id=20087
+Now_sport1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
+Now_sport2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
+Now_sport3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
+NowSports4,http://iptv.4666888.xyz/iptv2.php?id=33
+NowSports5,http://iptv.4666888.xyz/iptv2.php?id=34
+NowSports6,http://iptv.4666888.xyz/iptv2.php?id=35
+NowSports7,http://iptv.4666888.xyz/iptv2.php?id=36
 PopC電影,http://iptv.4666888.xyz/iptv.php?id=20118
 RTHK31,http://iptv.4666888.xyz/iptv.php?id=20080
 RTHK32,http://iptv.4666888.xyz/iptv.php?id=20081
@@ -16316,6 +16330,13 @@ Now英超1,http://iptv.4666888.xyz/iptv.php?id=20092
 Now_sport1,http://iptv.4666888.xyz/iptv.php?id=20092
 Now_sport2,http://iptv.4666888.xyz/iptv.php?id=20093
 Now_sport3,http://iptv.4666888.xyz/iptv.php?id=20084
+Now_sport1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
+Now_sport2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
+Now_sport3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
+NowSports4,http://iptv.4666888.xyz/iptv2.php?id=33
+NowSports5,http://iptv.4666888.xyz/iptv2.php?id=34
+NowSports6,http://iptv.4666888.xyz/iptv2.php?id=35
+NowSports7,http://iptv.4666888.xyz/iptv2.php?id=36
 
 
 
