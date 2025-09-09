@@ -8,13 +8,13 @@
 
 💎秒播频道💎,#genre#
 Now英超1,http://iptv.4666888.xyz/iptv.php?id=20092
-Now Sport1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
-Now Sport2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
-Now Sport3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
-Now Sports4,http://iptv.4666888.xyz/iptv2.php?id=33
-Now Sports5,http://iptv.4666888.xyz/iptv2.php?id=34
-Now Sports6,http://iptv.4666888.xyz/iptv2.php?id=35
-Now Sports7,http://iptv.4666888.xyz/iptv2.php?id=36
+Now Sport 1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
+Now Sport 2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
+Now Sport 3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
+Now Sport 4,http://iptv.4666888.xyz/iptv2.php?id=33
+Now Sport 5,http://iptv.4666888.xyz/iptv2.php?id=34
+Now Sport 6,http://iptv.4666888.xyz/iptv2.php?id=35
+Now Sport 7,http://iptv.4666888.xyz/iptv2.php?id=36
 
 
 💎【Gobla】国际频道1🇭🇰,#genre#
@@ -15433,13 +15433,14 @@ Now新聞,http://iptv.4666888.xyz/iptv.php?id=20084
 Now劇集,http://iptv.4666888.xyz/iptv.php?id=20091
 Now爆谷(國),http://iptv.4666888.xyz/iptv.php?id=20089
 Now爆谷(粵),http://iptv.4666888.xyz/iptv.php?id=20087
-Now_sport1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
-Now_sport2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
-Now_sport3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
-NowSports4,http://iptv.4666888.xyz/iptv2.php?id=33
-NowSports5,http://iptv.4666888.xyz/iptv2.php?id=34
-NowSports6,http://iptv.4666888.xyz/iptv2.php?id=35
-NowSports7,http://iptv.4666888.xyz/iptv2.php?id=36
+Now英超1,http://iptv.4666888.xyz/iptv.php?id=20092
+Now Sport 1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
+Now Sport 2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
+Now Sport 3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
+Now Sport 4,http://iptv.4666888.xyz/iptv2.php?id=33
+Now Sport 5,http://iptv.4666888.xyz/iptv2.php?id=34
+Now Sport 6,http://iptv.4666888.xyz/iptv2.php?id=35
+Now Sport 7,http://iptv.4666888.xyz/iptv2.php?id=36
 PopC電影,http://iptv.4666888.xyz/iptv.php?id=20118
 RTHK31,http://iptv.4666888.xyz/iptv.php?id=20080
 RTHK32,http://iptv.4666888.xyz/iptv.php?id=20081
@@ -15939,9 +15940,16 @@ MYTV_SUPER黃金翡翠,http://iptv.4666888.xyz/iptv.php?id=20106
 MYTV_SUPER粵語片,http://iptv.4666888.xyz/iptv.php?id=20112
 MYTV_SUPER經典,http://iptv.4666888.xyz/iptv.php?id=20107
 MYTV_SUPER戲曲,http://iptv.4666888.xyz/iptv.php?id=20113
-Now_sport1,http://iptv.4666888.xyz/iptv.php?id=20092
-Now_sport2,http://iptv.4666888.xyz/iptv.php?id=20093
-Now_sport3,http://iptv.4666888.xyz/iptv.php?id=20084
+Now sport 1,http://iptv.4666888.xyz/iptv.php?id=20092
+Now sport 2,http://iptv.4666888.xyz/iptv.php?id=20093
+Now sport 3,http://iptv.4666888.xyz/iptv.php?id=20084
+Now Sport 1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
+Now Sport 2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
+Now Sport 3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
+Now Sport 4,http://iptv.4666888.xyz/iptv2.php?id=33
+Now Sport 5,http://iptv.4666888.xyz/iptv2.php?id=34
+Now Sport 6,http://iptv.4666888.xyz/iptv2.php?id=35
+Now Sport 7,http://iptv.4666888.xyz/iptv2.php?id=36
 Now668賽馬,http://iptv.4666888.xyz/iptv.php?id=20094
 Now星影(國),http://iptv.4666888.xyz/iptv.php?id=20088
 Now星影(粵),http://iptv.4666888.xyz/iptv.php?id=20086
@@ -16327,17 +16335,16 @@ Now紫金國際,http://iptv.4666888.xyz/iptv.php?id=20090
 Now劇集,http://iptv.4666888.xyz/iptv.php?id=20091
 Now直播,http://iptv.4666888.xyz/iptv.php?id=20093
 Now英超1,http://iptv.4666888.xyz/iptv.php?id=20092
-Now_sport1,http://iptv.4666888.xyz/iptv.php?id=20092
-Now_sport2,http://iptv.4666888.xyz/iptv.php?id=20093
-Now_sport3,http://iptv.4666888.xyz/iptv.php?id=20084
-Now_sport1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
-Now_sport2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
-Now_sport3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
-NowSports4,http://iptv.4666888.xyz/iptv2.php?id=33
-NowSports5,http://iptv.4666888.xyz/iptv2.php?id=34
-NowSports6,http://iptv.4666888.xyz/iptv2.php?id=35
-NowSports7,http://iptv.4666888.xyz/iptv2.php?id=36
-
+Now sport 1,http://iptv.4666888.xyz/iptv.php?id=20092
+Now sport 1,http://link3.813555.xyz/qyzby/TGJK.php?id=20092
+Now sport 2,http://link3.813555.xyz/qyzby/TGJK.php?id=20093
+Now sport 2,http://iptv.4666888.xyz/iptv.php?id=20093
+Now sport 3,http://iptv.4666888.xyz/iptv.php?id=20084
+Now sport 3,http://link3.813555.xyz/qyzby/TGJK.php?id=20084
+Now Sport 4,http://iptv.4666888.xyz/iptv2.php?id=33
+Now Sport 5,http://iptv.4666888.xyz/iptv2.php?id=34
+Now Sport 6,http://iptv.4666888.xyz/iptv2.php?id=35
+Now Sport 7,http://iptv.4666888.xyz/iptv2.php?id=36
 
 
 💎MyTV Super🇭🇰,#genre#
