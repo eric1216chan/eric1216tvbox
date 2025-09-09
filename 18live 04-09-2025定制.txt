@@ -2,7 +2,7 @@
 如看不到,http://
 左右換網源,http://
 盡力修復,http://
-多謝支持,https://github.com/eric1216chan/eric1216tvbox/blob/main/thanks%20logo.gif
+多謝支持,https://raw.githubusercontent.com/eric1216chan/eric1216tvbox/8fa0ca0449a0b450f0332bd2cede96a8ae848f4a/thanks%20logo.gif
 
 
 
