@@ -15637,7 +15637,8 @@ KTSF26(美),http://iptv.4666888.xyz/iptv.php?id=20290
 
 
 
-💎香港(寶盒TV１)🇭🇰,#genre#
+💎香港(寶盒TV１)🇭🇰,#gen
+
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2

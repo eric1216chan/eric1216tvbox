@@ -1,3 +1,93 @@
+💎香港(寶盒TV１)🇭🇰,#gen
+
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
+Astro歡喜台,http://php.jdshipin.com/smt.php?id=Huahee
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+八度空間,http://php.jdshipin.com/smt.php?id=TV8
+TVB娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+華麗翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+澳視衛星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+重溫經典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+廣東珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+鳳凰衛視,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+寶盒沒寶,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+臨夏市台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+鳳凰電影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+星空衛視,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龍華經典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龍華卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龍華偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龍華日韓,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龍華戲劇,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+亞洲衛視,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+
+
+💎香港(寶盒TV２)🇭🇰,#genre#
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro歡喜台,http://php.jdshipin.com/smt.php?id=Huahee
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+八度空間,http://php.jdshipin.com/smt.php?id=TV8
+天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+重溫經典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+華麗翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+廣東珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+澳視衛星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+
+
+
 鳳凰頻道,#genre#
 鳳凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
 鳳凰資訊,http://iptv.4666888.xyz/iptv.php?id=20061
