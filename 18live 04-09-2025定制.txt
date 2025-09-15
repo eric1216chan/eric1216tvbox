@@ -15363,49 +15363,50 @@ Wonder (720p),https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 YAAAS! (720p) [Geo-blocked],https://jmp2.uk/stvp-GB340000289
 
 💎香港(Sky channel)🇭🇰,#genre#
-sky sport f1,https://stream1.freetv.fun/37ede1d2ae4abbc8ef66508a96af56f55605d0c05462f4158a303d93d1f11528.ctv
-sky sport main event,https://stream1.freetv.fun/5ce6adb20ce44b4b2083a43f03b73042c6ca00cd4b38dce2ec6bbd8a30525b7d.ctv
-sky sport mix,https://stream1.freetv.fun/6728f2592883850f6a9d5598ed4185e6852fc8cdf0f8fa67f525ef43232b768e.ctv
-sky sports arena,https://stream1.freetv.fun/1b389debd948f96390dd5551b0a1fc4069e6142495fe16dcd997085cc4e84c81.ctv
-sky sports arena =,https://stream1.freetv.fun/7491df8b8673c191997a0a5aeb1d92e1af2edfd5c23c9a4ccb8fb7759f8b6ec5.ctv
-sky sports arena ==,https://stream1.freetv.fun/c28f90b64b47598b575b715153bfa6bdff1295e978768fa00eceb01fcdacf654.ctv
-sky sports f1,https://stream1.freetv.fun/774dd9a5a7defe8fbffd501f2fcb8aaf52cde474855b7c5fd447a29725c4b82a.ctv
-sky sports f1-,https://stream1.freetv.fun/ba9614d980eb61f7d2240671bec3e60453e3c47e2da4f84618c3ecff3638e628.ctv
-sky sports f1 =,https://stream1.freetv.fun/48104b1e27ec69be1e948d4be230df677a1ff0baa2dc4900646aa29a5fa65c68.ctv
-sky sports f1 ==,https://stream1.freetv.fun/02567ba326dbf09bd368ac23800f01a546d4579387fd63c8a6ed8fa2ff2d1d79.ctv
-sky sports football,https://stream1.freetv.fun/854da26a25e867f990ce3337f19a20720ac5d42b6807c614e7e1252066467697.ctv
-sky sports main event,https://stream1.freetv.fun/1d083dccfc959a8d50ba7919c0b448811b0de14ff6fad7cc4fe933a239ecb648.ctv
-sky sports mix ==,https://stream1.freetv.fun/8f5d0b3d06dc04cb16715196f7d6db92eb65523c4922a7cb3030eb8f43b761d3.ctv
-sky sports mix=,https://stream1.freetv.fun/5b7c9d37ca697ba606c7fd0e8d3e474731863aacdec6bfa6630b5e8c89389a11.ctv
-sky sports news,https://stream1.freetv.fun/02eb0687284b4c21455ba22edb27c2edae5b50db7936a6024fd553f3a377fbd8.ctv
-sky sports news ==,https://stream1.freetv.fun/62bab478ec0d79a5a309d528afd310012ed1dd35eeca9eca9d3ff42f8a6a86ff.ctv
-sky sports premier league,https://stream1.freetv.fun/a64271779c7c871b25fc53cb688693d3da5480b6f6054593c907f93a0ec6cc16.ctv
-sky sports racing,https://stream1.freetv.fun/647283052980b111d90b109b540a438b8a4bc9bb8569e57fc1116d0b0b8e4da1.ctv
-sky sports tennis,https://stream1.freetv.fun/b359d4392bcd6edd28e6aed74e20b919be7ba42a8d2a4174558b46205dbc711e.ctv
-sky cinema-,https://stream1.freetv.fun/ccad58e3cd4f712b243f4105e1e3295d02078d3a872f951156ddcd50e026419b.ctv
-sky cinema--,https://stream1.freetv.fun/dc24f98ff854544814d958c626c383e6b6ce68aebd6b303008319f6308dece96.ctv
-sky cinema =,https://stream1.freetv.fun/640f02dac75005fc5ceb6b4e5a3b4c47d1451ae1208323753d1aef3b048a442b.ctv
-sky cinema ==,https://stream1.freetv.fun/f13c4cdfe59be0c8249b7084bf4b44410a5cdb1da552e4d711878a6e2df35d60.ctv
+sky cinema,https://stream1.freetv.fun/640f02dac75005fc5ceb6b4e5a3b4c47d1451ae1208323753d1aef3b048a442b.ctv
+sky cinema,https://stream1.freetv.fun/f13c4cdfe59be0c8249b7084bf4b44410a5cdb1da552e4d711878a6e2df35d60.ctv
 sky cinema action *e,https://stream1.freetv.fun/d7a50480f7584ff2f2f195c0989de3897e95169e30043fd913573d481d4397ad.ctv
 sky cinema action ==,https://stream1.freetv.fun/cbbced32f8500681f3403e283c69846af31196213849a615bdf2d06354cb705c.ctv
 sky cinema action=,https://stream1.freetv.fun/a10255a71b523a109a008be0a8e1b136e34d1e25b74af326cbbd1a4ba5c3c309.ctv
 sky cinema family,https://stream1.freetv.fun/0517044e4a70ab05898ed773dbf02650a70789b37e4085e614c22fbe2f554662.m3u8
-sky comedy ==,https://stream1.freetv.fun/321e97c638ab9baf30e1e0beb449c8a0ec05b140a1876603d3b96eed31bda35d.ctv
-sky comedy=,https://stream1.freetv.fun/edc2e5f56e2c04b96741a8cff377108f636103d844c729db9198e10258a4b9d3.ctv
-sky drama (de)=,https://stream1.freetv.fun/0ea5d4d3b040c3d801e885eacff4f0087b634a02d489de6d973bd69aca2185af.ctv
-sky drama ==,https://stream1.freetv.fun/a05a5f35861e6d89dc5ce9c3708d6f68d23f7df4c0c0be81d32ee3625f8c0b63.ctv
-sky family =,https://stream1.freetv.fun/432c4cdb0a12b538a81ece784003de782e361571b2ac893c67aa96d0bcb7de4f.ctv
-sky family ==,https://stream1.freetv.fun/2ce5eb0ecf013d106a1f5a738811c231584759fc2d2546e0d2df4a69722c267a.ctv
+sky cinema,https://stream1.freetv.fun/ccad58e3cd4f712b243f4105e1e3295d02078d3a872f951156ddcd50e026419b.ctv
+sky cinema,https://stream1.freetv.fun/dc24f98ff854544814d958c626c383e6b6ce68aebd6b303008319f6308dece96.ctv
+sky comedy,https://stream1.freetv.fun/321e97c638ab9baf30e1e0beb449c8a0ec05b140a1876603d3b96eed31bda35d.ctv
+sky comedy,https://stream1.freetv.fun/edc2e5f56e2c04b96741a8cff377108f636103d844c729db9198e10258a4b9d3.ctv
+sky drama,https://stream1.freetv.fun/0ea5d4d3b040c3d801e885eacff4f0087b634a02d489de6d973bd69aca2185af.ctv
+sky drama,https://stream1.freetv.fun/a05a5f35861e6d89dc5ce9c3708d6f68d23f7df4c0c0be81d32ee3625f8c0b63.ctv
+sky family,https://stream1.freetv.fun/432c4cdb0a12b538a81ece784003de782e361571b2ac893c67aa96d0bcb7de4f.ctv
+sky family,https://stream1.freetv.fun/2ce5eb0ecf013d106a1f5a738811c231584759fc2d2546e0d2df4a69722c267a.ctv
 sky hits *e,https://stream1.freetv.fun/41a0be60a830a4319abef60cecdb7a69bb5e446705cff2f6bad9a3c31b409498.ctv
-sky movies drama romance uk =,https://stream1.freetv.fun/7224a34689b397f06790c5ccec99d9c637b70c8bb0d7e798a49f6e4455999134.ctv
-sky movies drama romance uk ==,https://stream1.freetv.fun/47151436daec2bcdf768ea4f6310c76332b47a7c020a1b8552b6443b3ec704ca.ctv
+sky movies drama romance uk,https://stream1.freetv.fun/7224a34689b397f06790c5ccec99d9c637b70c8bb0d7e798a49f6e4455999134.ctv
+sky movies drama romance uk,https://stream1.freetv.fun/47151436daec2bcdf768ea4f6310c76332b47a7c020a1b8552b6443b3ec704ca.ctv
 sky movies family uk *e,https://stream1.freetv.fun/caa1f20402a9b8a537b2addb4e2a3e88ce458784ed0a185d8b36900292451f28.ctv
-sky movies modern greats uk =,https://stream1.freetv.fun/ab4767924bf87a527bdb14d63ba1d111be156335b3fcf057fba5ada40e976289.ctv
-sky movies modern greats uk ==,https://stream1.freetv.fun/a9e7c3e46fbd21611595e805175b40efe91aaea4b80db650888bdb5efc6f692c.ctv
-sky movies sci-fi horror uk *e,https://stream1.freetv.fun/1f62148df7459b35b551c47c76b0d8ae57f6446c99ef1c4deb727240dcf979b2.ctv
-sky movies sci-fi horror uk=,https://stream1.freetv.fun/0dc8f6c9238cc3d10e8f50f2d58c29c4754fde713350b48da8a96bd3e73009f1.ctv
+sky movies modern greats uk,https://stream1.freetv.fun/ab4767924bf87a527bdb14d63ba1d111be156335b3fcf057fba5ada40e976289.ctv
+sky movies modern greats uk,https://stream1.freetv.fun/a9e7c3e46fbd21611595e805175b40efe91aaea4b80db650888bdb5efc6f692c.ctv
+sky movies sci-fi horror uk,https://stream1.freetv.fun/1f62148df7459b35b551c47c76b0d8ae57f6446c99ef1c4deb727240dcf979b2.ctv
+sky movies sci-fi horror uk,https://stream1.freetv.fun/0dc8f6c9238cc3d10e8f50f2d58c29c4754fde713350b48da8a96bd3e73009f1.ctv
 sky movies select uk *e,https://stream1.freetv.fun/bb79d7ffcfbbf943bf745694e2c3393f69932aa0dcffc8788ac5f62d83df0c0b.ctv
 sky news,https://stream1.freetv.fun/80b07cf8ed2df5310b36aba8e4f34768cc501ccfcd5d1ee0e8e50df6d87c5af4.m3u8
+sky sport f1,https://stream1.freetv.fun/37ede1d2ae4abbc8ef66508a96af56f55605d0c05462f4158a303d93d1f11528.ctv
+sky sport main event,https://stream1.freetv.fun/5ce6adb20ce44b4b2083a43f03b73042c6ca00cd4b38dce2ec6bbd8a30525b7d.ctv
+sky sport mix,https://stream1.freetv.fun/6728f2592883850f6a9d5598ed4185e6852fc8cdf0f8fa67f525ef43232b768e.ctv
+sky sports arena,https://stream1.freetv.fun/1b389debd948f96390dd5551b0a1fc4069e6142495fe16dcd997085cc4e84c81.ctv
+sky sports arena,https://stream1.freetv.fun/7491df8b8673c191997a0a5aeb1d92e1af2edfd5c23c9a4ccb8fb7759f8b6ec5.ctv
+sky sports arena,https://stream1.freetv.fun/c28f90b64b47598b575b715153bfa6bdff1295e978768fa00eceb01fcdacf654.ctv
+sky sports f1,https://stream1.freetv.fun/02567ba326dbf09bd368ac23800f01a546d4579387fd63c8a6ed8fa2ff2d1d79.ctv
+sky sports f1,https://stream1.freetv.fun/48104b1e27ec69be1e948d4be230df677a1ff0baa2dc4900646aa29a5fa65c68.ctv
+sky sports f1,https://stream1.freetv.fun/774dd9a5a7defe8fbffd501f2fcb8aaf52cde474855b7c5fd447a29725c4b82a.ctv
+sky sports f1,https://stream1.freetv.fun/ba9614d980eb61f7d2240671bec3e60453e3c47e2da4f84618c3ecff3638e628.ctv
+sky sports football,https://stream1.freetv.fun/854da26a25e867f990ce3337f19a20720ac5d42b6807c614e7e1252066467697.ctv
+sky sports main event,https://stream1.freetv.fun/1d083dccfc959a8d50ba7919c0b448811b0de14ff6fad7cc4fe933a239ecb648.ctv
+sky sports mix,https://stream1.freetv.fun/8f5d0b3d06dc04cb16715196f7d6db92eb65523c4922a7cb3030eb8f43b761d3.ctv
+sky sports mix,https://stream1.freetv.fun/5b7c9d37ca697ba606c7fd0e8d3e474731863aacdec6bfa6630b5e8c89389a11.ctv
+sky sports news,https://stream1.freetv.fun/62bab478ec0d79a5a309d528afd310012ed1dd35eeca9eca9d3ff42f8a6a86ff.ctv
+sky sports news,https://stream1.freetv.fun/02eb0687284b4c21455ba22edb27c2edae5b50db7936a6024fd553f3a377fbd8.ctv
+sky sports premier league,https://stream1.freetv.fun/a64271779c7c871b25fc53cb688693d3da5480b6f6054593c907f93a0ec6cc16.ctv
+sky sports racing,https://stream1.freetv.fun/647283052980b111d90b109b540a438b8a4bc9bb8569e57fc1116d0b0b8e4da1.ctv
+sky sports tennis,https://stream1.freetv.fun/b359d4392bcd6edd28e6aed74e20b919be7ba42a8d2a4174558b46205dbc711e.ctv
+
 
 
 
