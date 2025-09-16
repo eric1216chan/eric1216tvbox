@@ -16035,7 +16035,6 @@ snaap!,https://stream1.freetv.fun/snap-1.m3u8
 甄子丹影視,https://stream1.freetv.fun/zhen-zi-dan-dian-ying-4.ctv
 甄子丹影視,https://stream1.freetv.fun/zhen-zi-dan-2.m3u8
 甄子丹影視,https://stream1.freetv.fun/zhen-zi-dan-1.m3u8
-運動,#genre#
 Bein Sports 1(HK),https://stream1.freetv.fun/hse24-trend-1.m3u8
 Sports Plus 1,https://stream1.freetv.fun/ch-ng-sky-sports-plus-1.m3u8
 now Sports 3,https://stream1.freetv.fun/now-sports-premier-league-3-1.ctv
