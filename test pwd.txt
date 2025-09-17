@@ -1,18 +1,18 @@
 
-🇭🇰01,#genre#,password#1111
+🇭🇰01,#genre#,#password#,1111
 
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 
 
-💎🇭🇰,#genre#password#1111
+💎🇭🇰,#genre#,#password#,1111
 
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 
 
 
-🇭🇰,#genre#password#1111
+🇭🇰,#genre#
 
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
