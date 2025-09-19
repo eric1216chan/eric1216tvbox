@@ -926,55 +926,6 @@ now Sports Prime,https://stream1.freetv.fun/prime-2.m3u8
 
 
 
-💎台灣(4GTV)🇭🇰,#genre#
-BLOOMBERGTV,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live059
-CinemaWorld,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live069
-CI罪案偵查頻道,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live027
-CNBCAsia財經颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live130
-DreamWorks,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live017
-DW德國之聲,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live071
-ELTA生活旅遊,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live120
-FRANCE24英文颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live146
-fun探索娛樂颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live011
-GlobalTrekker,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live112
-HITS頻道,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live620
-INULTRA,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live096
-Lifetime,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live029
-LiveABC互動英語頻道,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live030
-LOVENATURE,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live208
-LUXETV,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live121
-MagellanTV頻道,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live123
-MOMO親子,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live107
-MTVLive,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live025
-NHK新聞資訊颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live168
-Nickelodeon,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live105
-NickJr.,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live032
-ROCKAction,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live138
-ROCKEntertainment,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live080
-SBN全球財經颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live060
-TV5MONDEStyle,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live122
-TVBS綜藝颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live087
-TVBS颱劇颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live088
-人間衛視,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live008
-三立iNEWS,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live089
-三立綜合颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live207
-大愛二颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live106
-大愛電視,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live007
-半島國際新聞颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live157
-車迷TV,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live201
-幸福空間居家颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live206
-金光佈袋戲,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live144
-原住民族電視颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live014
-新唐人亞太颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live050
-經典卡通颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live022
-經典電影颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live021
-電影原聲颱CMusic,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live031
-滾動力Rollor,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live012
-精選動漫颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live024
-歷史頻道,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live026
-戲劇免費看1颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live010
-霹靂佈袋戲,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live145
-
 
 
 
