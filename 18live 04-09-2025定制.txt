@@ -706,108 +706,6 @@ now Sports 3,https://stream1.freetv.fun/now-sports-premier-league-3-1.ctv
 now Sports Prime,https://stream1.freetv.fun/prime-2.m3u8
 
 
-💎中台澳(備)🇭🇰,#genre#
-
-28AI賽馬,http://iptv.4666888.xyz/iptv.php?id=20126
-28aI賽馬頻效,http://iptv.4666888.xyz/iptv.php?id=20126
-88賽馬,http://iptv.4666888.xyz/iptv.php?id=20123
-CM+電影頻效,http://iptv.4666888.xyz/iptv.php?id=20278
-HUB娛家頻效,http://iptv.4666888.xyz/iptv.php?id=20287
-HUB都會頻效,http://iptv.4666888.xyz/iptv.php?id=20288
-Now星影頻效,http://iptv.4666888.xyz/iptv.php?id=20086
-Now財經頻效,http://iptv.4666888.xyz/iptv.php?id=20085
-Now紫金頻效,http://iptv.4666888.xyz/iptv.php?id=20090
-Now新聞頻效,http://iptv.4666888.xyz/iptv.php?id=20082
-Now劇集頻效,http://iptv.4666888.xyz/iptv.php?id=20091
-Now爆谷頻效,http://iptv.4666888.xyz/iptv.php?id=20087
-Plus綜合頻效,http://iptv.4666888.xyz/iptv.php?id=20072
-PopC電影,http://iptv.4666888.xyz/iptv.php?id=20118
-pₒₚc電影頻效,http://iptv.4666888.xyz/iptv.php?id=20118
-RTHK-31頻效,http://iptv.4666888.xyz/iptv.php?id=20080
-RTHK-32頻效,http://iptv.4666888.xyz/iptv.php?id=20081
-VIUTV-英頻效,http://iptv.4666888.xyz/iptv.php?id=20076
-VIUTV-粵頻效,http://iptv.4666888.xyz/iptv.php?id=20075
-中天新聞加效,http://iptv.4666888.xyz/iptv.php?id=20181
-中天新聞頻效,http://iptv.4666888.xyz/iptv.php?id=20173
-天映CM+,http://iptv.4666888.xyz/iptv.php?id=20132
-天映經典,http://iptv.4666888.xyz/iptv.php?id=20114
-天映經典2,http://iptv.4666888.xyz/iptv.php?id=20115
-天映經典國效,http://iptv.4666888.xyz/iptv.php?id=20115
-天映經典粵效,http://iptv.4666888.xyz/iptv.php?id=20114
-天映頻道,http://iptv.4666888.xyz/iptv.php?id=20116
-天映頻道2,http://iptv.4666888.xyz/iptv.php?id=20117
-天映頻道國效,http://iptv.4666888.xyz/iptv.php?id=20116
-天映頻道粵效,http://iptv.4666888.xyz/iptv.php?id=20117
-有線18賽馬,http://iptv.4666888.xyz/iptv.php?id=20124
-有線新聞頻效,http://iptv.4666888.xyz/iptv.php?id=20079
-有線綜合頻效,http://iptv.4666888.xyz/iptv.php?id=20078
-有線賽訊頻效,http://iptv.4666888.xyz/iptv.php?id=20077
-有線賽馬頻效,http://iptv.4666888.xyz/iptv.php?id=20124
-星光視界,http://iptv.4666888.xyz/iptv.php?id=20121
-星光綜合頻效,http://iptv.4666888.xyz/iptv.php?id=20121
-美亞電影(港),http://iptv.4666888.xyz/iptv.php?id=20120
-重溫經典,http://iptv.4666888.xyz/iptv.php?id=20122
-重溫經典頻效,http://iptv.4666888.xyz/iptv.php?id=20122
-創世電視,http://iptv.4666888.xyz/iptv.php?id=20119
-無線_1美頻效,http://iptv.4666888.xyz/iptv.php?id=20095
-無線_E美頻效,http://iptv.4666888.xyz/iptv.php?id=20097
-無線18賽馬,http://iptv.4666888.xyz/iptv.php?id=20125
-無線-EYT頻效,http://iptv.4666888.xyz/iptv.php?id=20133
-無線J1美頻效,http://iptv.4666888.xyz/iptv.php?id=20096
-無線千禧頻效,http://iptv.4666888.xyz/iptv.php?id=20105
-無線少兒頻效,http://iptv.4666888.xyz/iptv.php?id=20110
-無線功夫國效,http://iptv.4666888.xyz/iptv.php?id=20104
-無線功夫粵效,http://iptv.4666888.xyz/iptv.php?id=20103
-無線生活頻效,http://iptv.4666888.xyz/iptv.php?id=20074
-無線亞劇頻效,http://iptv.4666888.xyz/iptv.php?id=20109
-無線明珠頻效,http://iptv.4666888.xyz/iptv.php?id=20071
-無線明劇頻效,http://iptv.4666888.xyz/iptv.php?id=20098
-無線金曲頻效,http://iptv.4666888.xyz/iptv.php?id=20142
-無線星河國效,http://iptv.4666888.xyz/iptv.php?id=20102
-無線星河粵效,http://iptv.4666888.xyz/iptv.php?id=20101
-無線音樂頻效,http://iptv.4666888.xyz/iptv.php?id=20134
-無線娛樂頻效,http://iptv.4666888.xyz/iptv.php?id=20073
-無線新聞美效,http://iptv.4666888.xyz/iptv.php?id=20070
-無線新聞頻效,http://iptv.4666888.xyz/iptv.php?id=20069
-無線煲劇頻效,http://iptv.4666888.xyz/iptv.php?id=20137
-無線粵片頻效,http://iptv.4666888.xyz/iptv.php?id=20112
-無線經典頻效,http://iptv.4666888.xyz/iptv.php?id=20107
-無線話當年效,http://iptv.4666888.xyz/iptv.php?id=20139
-無線綜合頻效,http://iptv.4666888.xyz/iptv.php?id=20111
-無線翡翠馬來,http://iptv.4666888.xyz/iptv.php?id=20068
-無線翡翠新坡,http://iptv.4666888.xyz/iptv.php?id=20067
-無線翡翠頻效,http://iptv.4666888.xyz/iptv.php?id=20066
-無線翡劇頻效,http://iptv.4666888.xyz/iptv.php?id=20099
-無線劇場頻效,http://iptv.4666888.xyz/iptv.php?id=20136
-無線獎門人效,http://iptv.4666888.xyz/iptv.php?id=20138
-無線戲曲頻效,http://iptv.4666888.xyz/iptv.php?id=20113
-無線賽馬頻效,http://iptv.4666888.xyz/iptv.php?id=20125
-無線識食頻效,http://iptv.4666888.xyz/iptv.php?id=20141
-無線識嘆頻效,http://iptv.4666888.xyz/iptv.php?id=20140
-無線體育頻效,http://iptv.4666888.xyz/iptv.php?id=20135
-黃金華劇頻效,http://iptv.4666888.xyz/iptv.php?id=20100
-黃金翡翠頻效,http://iptv.4666888.xyz/iptv.php?id=20106
-新加_E樂頻效,http://iptv.4666888.xyz/iptv.php?id=20282
-新加CH5頻效,http://iptv.4666888.xyz/iptv.php?id=20285
-新加CH8頻效,http://iptv.4666888.xyz/iptv.php?id=20286
-新加CHu頻效,http://iptv.4666888.xyz/iptv.php?id=20284
-新加坡M5,http://iptv.4666888.xyz/iptv.php?id=20285
-新加坡M8,http://iptv.4666888.xyz/iptv.php?id=20286
-新加坡MU,http://iptv.4666888.xyz/iptv.php?id=20284
-新加樂酷頻效,http://iptv.4666888.xyz/iptv.php?id=20281
-鳳凰中文頻效,http://iptv.4666888.xyz/iptv.php?id=20063
-鳳凰香港頻效,http://iptv.4666888.xyz/iptv.php?id=20065
-鳳凰資訊頻效,http://iptv.4666888.xyz/iptv.php?id=20064
-澳門Macau,http://iptv.4666888.xyz/iptv.php?id=20128
-澳門Macau效,http://iptv.4666888.xyz/iptv.php?id=20128
-澳門資訊,http://iptv.4666888.xyz/iptv.php?id=20129
-澳門資訊頻效,http://iptv.4666888.xyz/iptv.php?id=20129
-澳門蓮花,http://iptv.4666888.xyz/iptv.php?id=20130
-澳門蓮花頻效,http://iptv.4666888.xyz/iptv.php?id=20130
-澳門體育,http://iptv.4666888.xyz/iptv.php?id=20131
-澳門體育頻效,http://iptv.4666888.xyz/iptv.php?id=20131
-澳視澳門,http://iptv.4666888.xyz/iptv.php?id=20127
-澳視澳門頻效,http://iptv.4666888.xyz/iptv.php?id=20127
 
 
 💎台灣(4GTV)🇭🇰,#genre#
@@ -876,11 +774,8 @@ TVBS颱劇颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live088
 鳳凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 鳳凰香港,http://bziyunshao.synology.me:8890/bysid/85
 鳳凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
-鳳凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
-鳳凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
 鳳凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
 鳳凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
-鳳凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 鳳凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 鳳凰資訊,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 鳳凰資訊,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
@@ -896,18 +791,13 @@ TVBS颱劇颱,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live088
 
 
 
-
-
 💎Viu TV🇭🇰,#genre#
-ViU TV,http://iptv.4666888.xyz/iptv.php?id=20075
 VIU TV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIU TV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-ViU TV6,http://iptv.4666888.xyz/iptv.php?id=20076
+
 
 💎HOY TV🇭🇰,#genre#
-HOY76,http://iptv.4666888.xyz/iptv.php?id=20077
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
-HOY77,http://iptv.4666888.xyz/iptv.php?id=20078
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
@@ -917,7 +807,6 @@ HOY78,http://bziyunshao.synology.me:8891/bysid/78
 
 
 💎RTHK🇭🇰,#genre#
-RTHK31,http://iptv.4666888.xyz/iptv.php?id=20080
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -935,24 +824,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 RTHK36,https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 
 
-💎NOW TV🇭🇰,#genre#
-
-Now 英超,http://iptv.4666888.xyz/iptvGO.php?id=91 
-Now sport1,http://iptv.4666888.xyz/iptv2.php?id=30
-Now sport2,http://iptv.4666888.xyz/iptv2.php?id=31
-Now sport3,http://iptv.4666888.xyz/iptvGO.php?id=85
-Now Sport4,http://iptv.4666888.xyz/iptvGO.php?id=86
-Now Sport5,http://iptv.4666888.xyz/iptv2.php?id=34
-Now Sport6,http://iptv.4666888.xyz/iptv2.php?id=35
-Now Sport7,http://iptv.4666888.xyz/iptv2.php?id=36
-Now新聞,http://iptv.4666888.xyz/iptv.php?id=20082
-Now財經,http://iptv.4666888.xyz/iptv.php?id=20085
-Now星影(粵),http://iptv.4666888.xyz/iptv.php?id=20086
-Now爆谷(粵),http://iptv.4666888.xyz/iptv.php?id=20087
-Now星影(國),http://iptv.4666888.xyz/iptv.php?id=20088
-Now爆谷(國),http://iptv.4666888.xyz/iptv.php?id=20089
-Now紫金國際,http://iptv.4666888.xyz/iptv.php?id=20090
-Now華劇,http://iptv.4666888.xyz/iptv.php?id=20091
 
 
 💎MyTV Super🇭🇰,#genre#
