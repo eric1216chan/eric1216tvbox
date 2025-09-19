@@ -932,32 +932,23 @@ now Sports Prime,https://stream1.freetv.fun/prime-2.m3u8
 
 💎香港鳳凰🇭🇰,#genre#
 鳳凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-鳳凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
-鳳凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
-鳳凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
-鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-鳳凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
-鳳凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-鳳凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 鳳凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-鳳凰香港,http://bziyunshao.synology.me:8890/bysid/85
-鳳凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
-鳳凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
-鳳凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
-鳳凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 鳳凰資訊,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+鳳凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 鳳凰資訊,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
-鳳凰資訊,http://iptv.4666888.xyz/iptv.php?id=20061
-鳳凰資訊,http://iptv.4666888.xyz/iptv.php?id=20064
+鳳凰香港,http://bziyunshao.synology.me:8890/bysid/85
+鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+鳳凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 鳳凰資訊,http://zqh2333.top:2222/rtp/239.93.24.4:2191
-鳳凰資訊,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
-
+鳳凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
+鳳凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
+鳳凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 
 
 
@@ -1015,122 +1006,101 @@ mytv直播-6,http://t.061899.xyz/tl/js/api.php?id=6mysuperzbzqt
 
 
 💎TVB🇭🇰,#genre#
+TVB明珠臺,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB Plus,http://60.248.77.83/sat/hk011.flv
-TVB Plus,https://live.tvfix.org/live/inews/index.m3u8
-TVB Plus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
+翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+無線新聞,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB明珠臺,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+TVB無線新聞,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
+TVB翡翠,http://iptv.4666888.xyz/iptv.php?id=20066
+TVB翡翠(新加坡),http://iptv.4666888.xyz/iptv.php?id=20067
+TVB翡翠(馬來),http://iptv.4666888.xyz/iptv.php?id=20068
+TVB無線新聞,http://iptv.4666888.xyz/iptv.php?id=20069
+TVB無線新聞(北美),http://iptv.4666888.xyz/iptv.php?id=20070
+TVB明珠臺,http://iptv.4666888.xyz/iptv.php?id=20071
 TVB Plus,http://iptv.4666888.xyz/iptv.php?id=20072
-TVB 1,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVB娛樂新聞,http://iptv.4666888.xyz/iptv.php?id=20073
+TVB生活,http://iptv.4666888.xyz/iptv.php?id=20074
 TVB 1,http://iptv.4666888.xyz/iptv.php?id=20095
-TVB E,http://iptv.4666888.xyz/iptv.php?id=20097
-TVB EYT,http://iptv.4666888.xyz/iptv.php?id=20133
 TVB J1,http://iptv.4666888.xyz/iptv.php?id=20096
+TVB E,http://iptv.4666888.xyz/iptv.php?id=20097
+TVB明珠劇集,http://iptv.4666888.xyz/iptv.php?id=20098
+TVB翡翠劇集,http://iptv.4666888.xyz/iptv.php?id=20099
+TVB黃金華劇,http://iptv.4666888.xyz/iptv.php?id=20100
+TVB星河(粵),http://iptv.4666888.xyz/iptv.php?id=20101
+TVB星河(國),http://iptv.4666888.xyz/iptv.php?id=20102
+TVB武俠(粵),http://iptv.4666888.xyz/iptv.php?id=20103
+TVB武俠(國),http://iptv.4666888.xyz/iptv.php?id=20104
+TVB千禧經典,http://iptv.4666888.xyz/iptv.php?id=20105
+無線經典,http://iptv.4666888.xyz/iptv.php?id=20107
+無線亞劇,http://iptv.4666888.xyz/iptv.php?id=20109
+無線少兒,http://iptv.4666888.xyz/iptv.php?id=20110
+無線綜合,http://iptv.4666888.xyz/iptv.php?id=20111
+無線粵片,http://iptv.4666888.xyz/iptv.php?id=20112
+無線戲曲,http://iptv.4666888.xyz/iptv.php?id=20113
+無線18賽馬,http://iptv.4666888.xyz/iptv.php?id=20125
+TVB EYT,http://iptv.4666888.xyz/iptv.php?id=20133
 TVB Music,http://iptv.4666888.xyz/iptv.php?id=20134
 TVB Sports,http://iptv.4666888.xyz/iptv.php?id=20135
-TVB千禧經典,http://iptv.4666888.xyz/iptv.php?id=20105
-TVB生活,http://iptv.4666888.xyz/iptv.php?id=20074
-TVB明珠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB明珠臺,http://iptv.4666888.xyz/iptv.php?id=20071
-TVB明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB明珠臺,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-TVB明珠臺,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-TVB明珠臺,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-TVB明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB明珠臺,https://live.tvfix.org/live/pearl/index.m3u8
-明珠臺(字幕),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-TVB明珠劇集,http://iptv.4666888.xyz/iptv.php?id=20098
-TVB武俠(國),http://iptv.4666888.xyz/iptv.php?id=20104
-TVB武俠(粵),http://iptv.4666888.xyz/iptv.php?id=20103
-TVB-金曲,http://iptv.4666888.xyz/iptv.php?id=20142
-TVB星河(國),http://iptv.4666888.xyz/iptv.php?id=20102
-TVB星河(粵),http://iptv.4666888.xyz/iptv.php?id=20101
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB娛樂新聞,http://iptv.4666888.xyz/iptv.php?id=20073
-TVB娛樂新聞,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-TVB娛樂新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB娛樂新聞臺,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVB無線新聞(北美),http://iptv.4666888.xyz/iptv.php?id=20070
-TVB無線新聞,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-TVB無線新聞,http://iptv.4666888.xyz/iptv.php?id=20069
-TVB無線新聞,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『線路1』
-TVB黃金華劇,http://iptv.4666888.xyz/iptv.php?id=20100
-TVB-煲劇,http://iptv.4666888.xyz/iptv.php?id=20137
-TVB-話當年,http://iptv.4666888.xyz/iptv.php?id=20139
-TVB翡翠(馬來),http://iptv.4666888.xyz/iptv.php?id=20068
-TVB翡翠(新加坡),http://iptv.4666888.xyz/iptv.php?id=20067
-翡翠臺北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB翡翠,http://iptv.4666888.xyz/iptv.php?id=20066
-TVB翡翠劇集,http://iptv.4666888.xyz/iptv.php?id=20099
 TVB-劇場,http://iptv.4666888.xyz/iptv.php?id=20136
+TVB-煲劇,http://iptv.4666888.xyz/iptv.php?id=20137
 TVB-獎門人,http://iptv.4666888.xyz/iptv.php?id=20138
-TVB-識食,http://iptv.4666888.xyz/iptv.php?id=20141
+TVB-話當年,http://iptv.4666888.xyz/iptv.php?id=20139
 TVB-識嘆,http://iptv.4666888.xyz/iptv.php?id=20140
-TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-翡翠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『線路08』
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,https://live.tvfix.org/live/jade/index.m3u8
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+TVB-識食,http://iptv.4666888.xyz/iptv.php?id=20141
+TVB-金曲,http://iptv.4666888.xyz/iptv.php?id=20142
+明珠臺(字幕),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+TVB明珠臺,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+TVB娛樂新聞,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
-娛樂新聞臺,https://live.tvfix.org/live/enews/index.m3u8
-美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-無線18賽馬,http://iptv.4666888.xyz/iptv.php?id=20125
-無線少兒,http://iptv.4666888.xyz/iptv.php?id=20110
-無線亞劇,http://iptv.4666888.xyz/iptv.php?id=20109
-無線新聞,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-無線新聞,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-無線粵片,http://iptv.4666888.xyz/iptv.php?id=20112
-無線經典,http://iptv.4666888.xyz/iptv.php?id=20107
-無線綜合,http://iptv.4666888.xyz/iptv.php?id=20111
-翡翠劇集台,https://6.cdn.loc.cc/163189.php?id=tvbd
-無線戲曲,http://iptv.4666888.xyz/iptv.php?id=20113
-華麗翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+TVB娛樂新聞臺,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 華麗翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+華麗翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠臺北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+TVB明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+TVB明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+TVB娛樂新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB 1,https://6.cdn.loc.cc/163189.php?id=tvb1
+翡翠劇集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『線路08』
+TVB無線新聞,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『線路1』
+翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+無線新聞,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+娛樂新聞臺,https://live.tvfix.org/live/enews/index.m3u8
+TVB Plus,https://live.tvfix.org/live/inews/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+TVB明珠臺,https://live.tvfix.org/live/pearl/index.m3u8
+TVB Plus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
+翡翠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=fct
+TVB明珠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=mzt
+TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
 
 
 
 
 💎-綜合/娛樂🇭🇰,#genre#
-Animaxa,http://iptv.4666888.xyz/iptv.php?id=20258
-ASIA亞洲旅遊,http://iptv.4666888.xyz/iptv.php?id=20273
-astro-QJ,http://iptv.4666888.xyz/iptv.php?id=20238
-astro-QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-astroAec,http://php.jdshipin.com/smt.php?id=AEC
-astroAod,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
+astroAec,http://php.jdshipin.com/smt.php?id=AEC
 astroAod,http://php.jdshipin.com/smt.php?id=Aodhd
-astro愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
 astro歡喜,http://php.jdshipin.com/smt.php?id=Huahee
-AstrQJ國,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
-Astr愛奇,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-astr-歡喜,http://iptv.4666888.xyz/iptv.php?id=20260
-Astr歡喜,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
-AXN,https://live.tvfix.org/live/axn/index.m3u8
-AXN電影,http://iptv.4666888.xyz/iptv.php?id=20254
-BBC_Earth,http://iptv.4666888.xyz/iptv.php?id=20279
-BBC_Lifestyle,http://iptv.4666888.xyz/iptv.php?id=20280
-CINEMAX,http://iptv.4666888.xyz/iptv.php?id=20256
-CM+電影,http://iptv.4666888.xyz/iptv.php?id=20278
-CN_卡通,http://iptv.4666888.xyz/iptv.php?id=20262
-FashionBox,https://live.tvfix.org/live/fashion/index.m3u8
-ONE電影,http://iptv.4666888.xyz/iptv.php?id=20255
-Plus綜合,http://iptv.4666888.xyz/iptv.php?id=20072
-PopC電影,http://iptv.4666888.xyz/iptv.php?id=20118
-ROCK Entertainment,http://iptv.4666888.xyz/iptv.php?id=20275
-Star Movies,http://iptv.4666888.xyz/iptv.php?id=20257
-Thrill,http://iptv.4666888.xyz/iptv.php?id=20259
+astro愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
+astro-QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+astroAod,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 亞洲武俠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-
+AstrQJ國,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
 
 
 
@@ -1186,7 +1156,7 @@ GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveeven
 
 💎中日港澳(高清台)🇭🇰,#genre#
 ~-ViuTV[1920x1080],http://bziyunshao.synology.me:8889/bysid/99.m3u8
-~-ViuTVsix[1920x1080],http://bziyunshao.synology.me:8889/bysid/96.m3u8
+~-ViuTVsix[1920x1080],http://bziyunshao.synology.me:8889/bysid/96.m3u8s
 ~-無綫新聞臺[1920x1080],http://bziyunshao.synology.me:8890/bysid/83.m3u8
 ~-翡翠臺(備)[1920x1080],http://bziyunshao.synology.me:8889/bysid/1.m3u8
 ~-鳳凰衛視香港臺[1920x1080],http://bziyunshao.synology.me:8890/bysid/85.m3u8
