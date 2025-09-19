@@ -1531,6 +1531,7 @@ tvbs歡樂,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 ☘️中國CCTV,#genre#
 
 CCTV1,http://120.76.248.139/live/bfgd/4200000201.m3u8
+CCTV1,http://183.222.242.31:8088/hls/1/index.m3u8
 CCTV1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://8.138.7.223/tv/migu.php?id=cctv1
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1542,6 +1543,7 @@ CCTV1,http://110.177.144.22:9003/hls/1/index.m3u8
 CCTV1,http://112.46.105.20:8009/hls/501/index.m3u8
 
 CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
+CCTV2,http://183.222.242.31:8088/hls/2/index.m3u8
 CCTV2,http://210.22.62.138:808/hls/2/index.m3u8
 CCTV2,http://110.177.144.22:9003/hls/2/index.m3u8
 CCTV2,http://112.46.105.20:8009/hls/502/index.m3u8
@@ -1550,6 +1552,7 @@ CCTV2,http://www.cdnstv.com:6398/hls/2/index.m3u8
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 
 CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
+CCTV3,http://183.222.242.31:8088/hls/3/index.m3u8
 CCTV3,http://210.22.62.138:808/hls/3/index.m3u8
 CCTV3,http://110.177.144.22:9003/hls/3/index.m3u8
 CCTV3,http://112.46.105.20:8009/hls/3/index.m3u8
@@ -1558,6 +1561,7 @@ CCTV3,http://www.cdnstv.com:6398/hls/3/index.m3u8
 CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 
 CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV4,http://183.222.242.31:8088/hls/4/index.m3u8
 CCTV4,http://210.22.62.138:808/hls/4/index.m3u8
 CCTV4,http://110.177.144.22:9003/hls/4/index.m3u8
 CCTV4,http://112.46.105.20:8009/hls/4/index.m3u8
@@ -1566,16 +1570,20 @@ CCTV4,http://www.cdnstv.com:6398/hls/4/index.m3u8
 CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 
 CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
+CCTV5,http://183.222.242.31:8088/hls/5/index.m3u8
 CCTV5,http://210.22.62.138:808/hls/5/index.m3u8
 CCTV5,http://110.177.144.22:9003/hls/5/index.m3u8
 CCTV5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV5+,http://110.177.144.22:9003/hls/6/index.m3u8
+CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8
 CCTV5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8
 
 
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
+CCTV6,http://183.222.242.31:8088/hls/6/index.m3u8
 CCTV6,http://210.22.62.138:808/hls/6/index.m3u8
 CCTV6,http://110.177.144.22:9003/hls/7/index.m3u8
 CCTV6,http://183.222.242.31:8088/hls/6/index.m3u8
@@ -1583,22 +1591,26 @@ CCTV6,http://www.cdnstv.com:6398/hls/6/index.m3u8
 
 
 CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
+CCTV7,http://183.222.242.31:8088/hls/7/index.m3u8
 CCTV7,http://210.22.62.138:808/hls/7/index.m3u8
 CCTV7,http://110.177.144.22:9003/hls/8/index.m3u8
 CCTV7,http://183.222.242.31:8088/hls/7/index.m3u8
 CCTV7,http://www.cdnstv.com:6398/hls/7/index.m3u8
 
 CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8
+CCTV8,http://183.222.242.31:8088/hls/8/index.m3u8
 CCTV8,http://210.22.62.138:808/hls/8/index.m3u8
 CCTV8,http://110.177.144.22:9003/hls/9/index.m3u8
 
 
 CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
+CCTV9,http://183.222.242.31:8088/hls/9/index.m3u8
 CCTV9,http://210.22.62.138:808/hls/9/index.m3u8
 CCTV9,http://110.177.144.22:9003/hls/10/index.m3u8
 CCTV9,http://116.9.204.242:9901/tsfile/live/0009_1.m3u8?key=txiptv
 
 CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
+CCTV10,http://183.222.242.31:8088/hls/10/index.m3u8
 CCTV10,http://210.22.62.138:808/hls/10/index.m3u8
 CCTV10,http://110.177.144.22:9003/hls/11/index.m3u8
 CCTV10,http://183.222.242.31:8088/hls/10/index.m3u8
@@ -1606,15 +1618,18 @@ CCTV10,http://www.cdnstv.com:6398/hls/10/index.m3u8
 
 
 CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
+CCTV11,http://183.222.242.31:8088/hls/11/index.m3u8
 CCTV11,http://210.22.62.138:808/hls/11/index.m3u8
 CCTV11,http://110.177.144.22:9003/hls/12/index.m3u8
 
 CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8
+CCTV12,http://183.222.242.31:8088/hls/12/index.m3u8
 CCTV12,http://210.22.62.138:808/hls/12/index.m3u8
 CCTV12,http://110.177.144.22:9003/hls/13/index.m3u8
 CCTV12,http://113.15.109.216:59901/tsfile/live/0012_1.m3u8
 
 CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
+CCTV13,http://183.222.242.31:8088/hls/13/index.m3u8
 CCTV13,http://210.22.62.138:808/hls/13/index.m3u8
 CCTV13,http://110.177.144.22:9003/hls/14/index.m3u8
 CCTV13,http://116.9.204.242:9901/tsfile/live/0013_1.m3u8?key=txiptv
@@ -1623,10 +1638,12 @@ CCTV13,http://www.cdnstv.com:6398/hls/13/index.m3u8
 CCTV13,https://cdn3.163189.xyz/163189/cctv13
 
 CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
+CCTV14,http://183.222.242.31:8088/hls/14/index.m3u8
 CCTV14,http://210.22.62.138:808/hls/14/index.m3u8
 CCTV14,http://110.177.144.22:9003/hls/15/index.m3u8
 
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
+CCTV15,http://183.222.242.31:8088/hls/15/index.m3u8
 CCTV15,http://210.22.62.138:808/hls/15/index.m3u8
 CCTV15,http://110.177.144.22:9003/hls/16/index.m3u8
 
