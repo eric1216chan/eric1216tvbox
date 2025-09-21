@@ -11,6 +11,7 @@ Now台盡力修復,http://panelguys.top:8080/txd7Fd/030774/53704
 💎秒播频道💎,#genre#
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 SKY F1,http://panelguys.top:8080/txd7Fd/030774/53704
+ PREMIER LEAGUE TV,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 💎Anbox 频道1💎,#genre#
 ABC,https://mt01.utako.moe/abc/index.m3u8
