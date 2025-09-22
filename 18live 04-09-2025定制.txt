@@ -1,10 +1,11 @@
-🇭🇰公告:更新22-9-2025🇭🇰,#genre#
+🇭🇰公告:更新23-9-2025🇭🇰,#genre#
 
-如頻道看不到,http://panelguys.top:8080/txd7Fd/030774/53704
-在頻道左右換網源,http://panelguys.top:8080/txd7Fd/030774/53704
-團隊盡力更新,http://panelguys.top:8080/txd7Fd/030774/53704
-Now台已修復,http://panelguys.top:8080/txd7Fd/030774/53704
-多謝支持/體諒,http://panelguys.top:8080/txd7Fd/030774/53704
+如頻道看不到,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20392 
+在頻道左右換網源,https://
+Now現時已修復,https://
+不一定能永久,https://
+團隊盡力更新,https://
+多謝支持/體諒,https://
 
 
 
@@ -2315,6 +2316,78 @@ CGTN西語,https://0472.org/hls/cgtnx.m3u8
 衢州衢江綜合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 衢江新聞綜合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 衢江新聞綜合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+
+💎【SPORTS】国际频道1🇭🇰,#genre#
+
+ SORTS,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+PREMIER LEAGUE TV,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+NFL NETWORK,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+DAZN 1,https://maldivesn.net/hilaytv/dazn1
+DAZN 2,https://maldivesn.net/hilaytv/dazn2
+DAZN 3,https://maldivesn.net/hilaytv/dazn3
+DAZN 4,https://maldivesn.net/hilaytv/dazn4
+DAZN 5,https://maldivesn.net/hilaytv/dazn5
+DAZN 6,https://maldivesn.net/hilaytv/dazn6
+Sport TV+,https://maldivesn.net/hilaytv/sporttvplus
+Sport TV 1,https://maldivesn.net/hilaytv/sporttv1
+Sport TV 2,https://maldivesn.net/hilaytv/sporttv2
+Sport TV 3,https://maldivesn.net/hilaytv/sporttv3
+Sport TV 4,https://maldivesn.net/hilaytv/sporttv4
+Sport TV 5,https://maldivesn.net/hilaytv/sporttv5
+Sport TV 6,https://maldivesn.net/hilaytv/sporttv6
+Abu Dhabi Sports 1,https://maldivesn.net/hilaytv/abudhabi1
+Abu Dhabi Sports 2,https://maldivesn.net/hilaytv/abudhabi2
+SSC Sports 1,https://maldivesn.net/hilaytv/ssc1
+SSC Sports 2,https://maldivesn.net/hilaytv/ssc2
+SSC Sports 3,https://maldivesn.net/hilaytv/ssc3
+SSC Sports 4,https://maldivesn.net/hilaytv/ssc4
+SSC Sports 5,https://maldivesn.net/hilaytv/ssc5
+J Sports 1,https://maldivesn.net/hilaytv/jsport1
+J Sports 2,https://maldivesn.net/hilaytv/jsport2
+J Sports 3,https://maldivesn.net/hilaytv/jsport3
+J Sports 4,https://maldivesn.net/hilaytv/jsport4
+
+💎【INTERNATIONAL TV】国际频道1🇭🇰,#genre#
+
+ BBC ONE,https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+ BBC TWO,https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
+ BBC THREE,https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
+ BBC FOUR,https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
+ HRT 1,https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
+ HRT 2,https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd
+ HRT 3,https://cdn1oiv.akamaized.net/hrtliveorigin/hrt3.smil/1/manifest.mpd
+ HRT 4,https://cdn1oiv.akamaized.net/hrtliveorigin/hrt4.smil/1/manifest.mpd
+MEDIASET 1 🇮🇹,https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+MEDIASET 5 🇮🇹,https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+
+💎【KNOWLEDGE】国际频道1🇭🇰,#genre#
+
+ National Geographic,https://maldivesn.net/hilaytv/natgeo
+National Geographic Wild,https://maldivesn.net/hilaytv/natgeowild
+Discovery Science,https://maldivesn.net/hilaytv/discoveryscience
+Investigation Discovery,https://maldivesn.net/hilaytv/investigationdiscovery
+Discovery Life,https://maldivesn.net/hilaytv/discoverylife
+
+💎【KIDS】国际频道1🇭🇰,#genre#
+
+POP,https://maldivesn.net/hilaytv/pop
+POP UP,https://maldivesn.net/hilaytv/popup
+Cartoon Network US,https://maldivesn.net/hilaytv/cartoonnetwork
+Sensical Jr,https://maldivesn.net/hilaytv/sensicaljr
+Toon Goggles,https://maldivesn.net/hilaytv/toongoggles
+Disney Channel,https://maldivesn.net/hilaytv/disneychannel
+Disney Junior,https://maldivesn.net/hilaytv/disneyjr
+Disney XD,https://maldivesn.net/hilaytv/disneyxd
+Nicktoons,https://maldivesn.net/hilaytv/nicktoons
+PBS Kids,https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+Boomerang,https://maldivesn.net/hilaytv/boomerang
+
+💎【LIFESTYLE】国际频道1🇭🇰,#genre#
+Cooking Channel,https://maldivesn.net/hilaytv/cookingch
+Travel Channel,https://maldivesn.net/hilaytv/travelchannel
+Travel XP,https://maldivesn.net/hilaytv/travelxp
+Travel & Lifestyle TV,https://maldivesn.net/hilaytv/travelandlifestyle
+MyZen TV,https://maldivesn.net/hilaytv/myzen4k
 
 
 💎【Gobla】国际频道1🇭🇰,#genre#
