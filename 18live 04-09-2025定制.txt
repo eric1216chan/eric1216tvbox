@@ -2319,7 +2319,7 @@ CGTN西語,https://0472.org/hls/cgtnx.m3u8
 
 💎【SPORTS】国际频道1🇭🇰,#genre#
 
- SORTS,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+SORTS,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 PREMIER LEAGUE TV,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 NFL NETWORK,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 DAZN 1,https://maldivesn.net/hilaytv/dazn1
@@ -2390,7 +2390,8 @@ Travel & Lifestyle TV,https://maldivesn.net/hilaytv/travelandlifestyle
 MyZen TV,https://maldivesn.net/hilaytv/myzen4k
 
 
-💎【Gobla】国际频道1🇭🇰,#genre#
+
+💎【美國】国际频道🇭🇰,#genre#
 ABC,http://panelguys.top:8080/txd7Fd/030774/22990
 ADULT ANIMATION,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77598.m3u8
 AMC Thrillers,http://panelguys.top:8080/txd7Fd/030774/66243
@@ -2403,46 +2404,16 @@ BET,http://panelguys.top:8080/txd7Fd/030774/13702
 Bravo,http://panelguys.top:8080/txd7Fd/030774/20859
 BUZZR,http://panelguys.top:8080/txd7Fd/030774/21896
 Cartoon Network,http://panelguys.top:8080/txd7Fd/030774/57380
-CBC Charlottetown,http://panelguys.top:8080/txd7Fd/030774/57382
-CBC Edmonton,http://panelguys.top:8080/txd7Fd/030774/57384
-CBC Halifax HD,http://panelguys.top:8080/txd7Fd/030774/57385
-CBC Montreal,http://panelguys.top:8080/txd7Fd/030774/57387
-CBC TORONTO,http://panelguys.top:8080/txd7Fd/030774/57306
 CBS News,http://panelguys.top:8080/txd7Fd/030774/21259
-Channel 5,http://panelguys.top:8080/txd7Fd/030774/53653
 CHRGD,http://panelguys.top:8080/txd7Fd/030774/75653
-CINE LIFE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
 Cinemax,http://panelguys.top:8080/txd7Fd/030774/13380
-CINEVAULT WESTERNS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
 CMT,http://panelguys.top:8080/txd7Fd/030774/46706
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNBC,http://panelguys.top:8080/txd7Fd/030774/9815
 CNN,http://panelguys.top:8080/txd7Fd/030774/104884
 Comet,http://panelguys.top:8080/txd7Fd/030774/66244
 Cooking,http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 Court TV,http://panelguys.top:8080/txd7Fd/030774/21092
-CPAC,http://panelguys.top:8080/txd7Fd/030774/57402
-CRAVE 1 HD,http://panelguys.top:8080/txd7Fd/030774/57309
-CRAVE 2 HD,http://panelguys.top:8080/txd7Fd/030774/57310
-CRAVE 3 HD,http://panelguys.top:8080/txd7Fd/030774/57322
-CRAVE 4 HD,http://panelguys.top:8080/txd7Fd/030774/57311
-Crime & Investigation,http://panelguys.top:8080/txd7Fd/030774/53689
-CTV Barrie Ontario,http://panelguys.top:8080/txd7Fd/030774/57373
-CTV Comedy Channel,http://panelguys.top:8080/txd7Fd/030774/57408
-CTV Drama Channel,http://panelguys.top:8080/txd7Fd/030774/57254
-CTV Edmonton Alberta,http://panelguys.top:8080/txd7Fd/030774/58725
-CTV Halifax Nova Scotia,http://panelguys.top:8080/txd7Fd/030774/57410
-CTV Kitchener,http://panelguys.top:8080/txd7Fd/030774/58557
-CTV Montreal HD,http://panelguys.top:8080/txd7Fd/030774/47234
-CTV NEWS CHANNEL,http://panelguys.top:8080/txd7Fd/030774/57350
-CTV OTTAWA,http://panelguys.top:8080/txd7Fd/030774/47237
-CTV Regina,http://panelguys.top:8080/txd7Fd/030774/66381
-CTV Toronto HD,http://panelguys.top:8080/txd7Fd/030774/47296
-CTV Two Atlantic,http://panelguys.top:8080/txd7Fd/030774/79547
-CTV2 Vancouver,http://panelguys.top:8080/txd7Fd/030774/57316
-CTV2 Windsor HD,http://panelguys.top:8080/txd7Fd/030774/77165
 Decades,http://panelguys.top:8080/txd7Fd/030774/20189
-DEFIANCE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
 Discovery Channel,http://panelguys.top:8080/txd7Fd/030774/53684
 DISCOVERY FAMILY CHANNEL,http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 Discovery History,http://panelguys.top:8080/txd7Fd/030774/53694
@@ -2453,11 +2424,7 @@ DISNEY CHANNEL,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m
 Disney Junior,http://panelguys.top:8080/txd7Fd/030774/57349
 DISNEY XD,http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 DIY,http://fl1.moveonjoy.com/DIY/index.m3u8
-DOG TV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
 DOGTV,http://panelguys.top:8080/txd7Fd/030774/53539
-DOVE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
-DW ENGLISH,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
-E4,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8
 EPIX (East),http://panelguys.top:8080/txd7Fd/030774/13214
 Epix Drive IN,http://panelguys.top:8080/txd7Fd/030774/14193
 Epix Hits,http://panelguys.top:8080/txd7Fd/030774/12744
@@ -2468,11 +2435,9 @@ ESPN NEWS,http://143.244.60.30/ESPN_NEWS/index.m3u8
 ESPN NEWS,http://panelguys.top:8080/txd7Fd/030774/17707
 ESPN SEC Network,http://panelguys.top:8080/txd7Fd/030774/17608
 ESPN U,http://143.244.60.30/ESPN_U/index.m3u8
-Eurosport,http://45.159.74.22/Eurosport/playlist.m3u8
 FanDuel Sports Ohio,http://panelguys.top:8080/txd7Fd/030774/17752
 FanDuel Sports South,http://panelguys.top:8080/txd7Fd/030774/20922
 FanDuel Sports West,http://panelguys.top:8080/txd7Fd/030774/20932
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Film 4,http://panelguys.top:8080/txd7Fd/030774/53702
 Food Network,http://panelguys.top:8080/txd7Fd/030774/57247
 Fox Business Network,http://panelguys.top:8080/txd7Fd/030774/17639
@@ -2482,16 +2447,7 @@ FXM,http://panelguys.top:8080/txd7Fd/030774/10260
 FXX,http://panelguys.top:8080/txd7Fd/030774/57429
 FYI,http://fl1.moveonjoy.com/FYI/index.m3u8
 GAC Living,http://panelguys.top:8080/txd7Fd/030774/75654
-Game Show Network,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
 Game Show Network,http://panelguys.top:8080/txd7Fd/030774/57430
-GB NEWS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
-Ginx esports TV,http://panelguys.top:8080/txd7Fd/030774/57431
-Global Edmonton News,http://panelguys.top:8080/txd7Fd/030774/58724
-Global Halifax News,http://panelguys.top:8080/txd7Fd/030774/57434
-Global News Kingston,http://panelguys.top:8080/txd7Fd/030774/57432
-Global News Regina,http://panelguys.top:8080/txd7Fd/030774/66384
-Global Saskatoon,http://panelguys.top:8080/txd7Fd/030774/66383
-GLOBAL TORONTO,http://panelguys.top:8080/txd7Fd/030774/57435
 Golf Channel,https://fl3.moveonjoy.com/GOLF/index.m3u8
 Grit TV,http://panelguys.top:8080/txd7Fd/030774/20861
 H2,http://panelguys.top:8080/txd7Fd/030774/53692
@@ -2508,17 +2464,11 @@ HBO ZONE,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17978
 HGTV,http://panelguys.top:8080/txd7Fd/030774/46717
 HGTV,http://panelguys.top:8080/txd7Fd/030774/57273
 History Channel,http://panelguys.top:8080/txd7Fd/030774/46724
-IFC,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
 INSP,http://panelguys.top:8080/txd7Fd/030774/16262
 ION,http://panelguys.top:8080/txd7Fd/030774/9297
-ITV 3,http://panelguys.top:8080/txd7Fd/030774/53665
-ITV Quiz,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
-ITV2 HD,http://panelguys.top:8080/txd7Fd/030774/53671
-LAFF,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
 Laff,http://panelguys.top:8080/txd7Fd/030774/17777
 Lifetime Movies,http://panelguys.top:8080/txd7Fd/030774/20863
 Lifetime,http://panelguys.top:8080/txd7Fd/030774/46714
-LOL NETWORK,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
 Magnolia Network,http://panelguys.top:8080/txd7Fd/030774/10503
 MLB Network,http://143.244.60.30/MLB_NETWORK/index.m3u8
 More Max,http://panelguys.top:8080/txd7Fd/030774/17776
@@ -2526,7 +2476,6 @@ MSG Plus,http://panelguys.top:8080/txd7Fd/030774/9276
 MSNBC,http://panelguys.top:8080/txd7Fd/030774/47332
 MTV Live,http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 MTV,http://fl1.moveonjoy.com/MTV/index.m3u8
-MUTV,http://panelguys.top:8080/txd7Fd/030774/53717
 Nat Geo Wild East,http://panelguys.top:8080/txd7Fd/030774/11664
 National Geographic Wild,http://panelguys.top:8080/txd7Fd/030774/57280
 National Geographic,http://panelguys.top:8080/txd7Fd/030774/47339
@@ -2541,27 +2490,16 @@ NFL NETWORK HD,http://panelguys.top:8080/txd7Fd/030774/47346
 NFL RED ZONE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
 NICKELODEON,http://panelguys.top:8080/txd7Fd/030774/53728
 OAN,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
-OLN,http://panelguys.top:8080/txd7Fd/030774/57366
 One America News,http://panelguys.top:8080/txd7Fd/030774/21752
 OUTSIDE TV,http://panelguys.top:8080/txd7Fd/030774/20865
 OWN,http://panelguys.top:8080/txd7Fd/030774/46698
 OWN,http://panelguys.top:8080/txd7Fd/030774/57277
 Oxygen,http://panelguys.top:8080/txd7Fd/030774/46695
-PARAMOUNT NETWORK,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
 Paramount Network,http://panelguys.top:8080/txd7Fd/030774/46694
 PBS HD,http://panelguys.top:8080/txd7Fd/030774/57276
 PixL,http://panelguys.top:8080/txd7Fd/030774/21648
-PREMIER SPORTS 1,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
-PREMIER SPORTS 2,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
 PT Eleven Sports 1,http://panelguys.top:8080/txd7Fd/030774/35264
 REAL AMERICA'S VOICE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
-REVOLT,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-RT NEWS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
-RTE NEWS,http://panelguys.top:8080/txd7Fd/030774/79108
-S4C,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
-SCREENPIX WESTERNS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
-Showcase HD,http://panelguys.top:8080/txd7Fd/030774/47366
 Showtime 2,http://panelguys.top:8080/txd7Fd/030774/13219
 Showtime East,http://panelguys.top:8080/txd7Fd/030774/46214
 Showtime Extreme,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
@@ -2570,12 +2508,69 @@ Showtime Next,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
 Showtime Showcase,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
 Showtime West,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
 Showtime Women,http://panelguys.top:8080/txd7Fd/030774/17778
-
-Slice TV,http://panelguys.top:8080/txd7Fd/030774/57274
 Smithsonian Channel,http://panelguys.top:8080/txd7Fd/030774/47369
 Spectrum SportsNet,http://panelguys.top:8080/txd7Fd/030774/20946
-SPEED SPORT 1,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
 SPORTS GRID,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
+StarMax,http://panelguys.top:8080/txd7Fd/030774/13381
+Starz Encore Westerns,http://panelguys.top:8080/txd7Fd/030774/16263
+Stories by AMC,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+SYFY,https://fl3.moveonjoy.com/SYFY/index.m3u8
+TBN,http://panelguys.top:8080/txd7Fd/030774/21895
+TBS,http://fl1.moveonjoy.com/TBS/index.m3u8
+TCM,http://fl1.moveonjoy.com/TCM/index.m3u8
+Tennis Channel,http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+TLC,http://panelguys.top:8080/txd7Fd/030774/47703
+TNT East,http://panelguys.top:8080/txd7Fd/030774/10455
+TNT West,http://panelguys.top:8080/txd7Fd/030774/46688
+Travel Channel,http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+TRU TV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176757.m3u8
+TRUTV East,http://panelguys.top:8080/txd7Fd/030774/10224
+TV Land,http://panelguys.top:8080/txd7Fd/030774/46696
+TVOne,https://fl3.moveonjoy.com/TV_ONE/index.m3u8
+UniMas,http://panelguys.top:8080/txd7Fd/030774/57969
+Univision,http://panelguys.top:8080/txd7Fd/030774/15336
+USA TODAY,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
+VICELAND,http://panelguys.top:8080/txd7Fd/030774/46697
+WeTV,http://fl1.moveonjoy.com/WE_TV/index.m3u8
+WGN,https://fl3.moveonjoy.com/WGN/index.m3u8
+Willow Cricket,http://panelguys.top:8080/txd7Fd/030774/41979
+WWE NETWORK,http://panelguys.top:8080/txd7Fd/030774/11645
+YES Network,http://panelguys.top:8080/txd7Fd/030774/57972
+
+💎【加拿大】国际频道🇭🇰,#genre#
+CBC Charlottetown,http://panelguys.top:8080/txd7Fd/030774/57382
+CBC Edmonton,http://panelguys.top:8080/txd7Fd/030774/57384
+CBC Halifax HD,http://panelguys.top:8080/txd7Fd/030774/57385
+CBC Montreal,http://panelguys.top:8080/txd7Fd/030774/57387
+CBC TORONTO,http://panelguys.top:8080/txd7Fd/030774/57306
+CPAC,http://panelguys.top:8080/txd7Fd/030774/57402
+CRAVE 1 HD,http://panelguys.top:8080/txd7Fd/030774/57309
+CRAVE 2 HD,http://panelguys.top:8080/txd7Fd/030774/57310
+CRAVE 3 HD,http://panelguys.top:8080/txd7Fd/030774/57322
+CRAVE 4 HD,http://panelguys.top:8080/txd7Fd/030774/57311
+CTV Barrie Ontario,http://panelguys.top:8080/txd7Fd/030774/57373
+CTV Comedy Channel,http://panelguys.top:8080/txd7Fd/030774/57408
+CTV Drama Channel,http://panelguys.top:8080/txd7Fd/030774/57254
+CTV Edmonton Alberta,http://panelguys.top:8080/txd7Fd/030774/58725
+CTV Halifax Nova Scotia,http://panelguys.top:8080/txd7Fd/030774/57410
+CTV Kitchener,http://panelguys.top:8080/txd7Fd/030774/58557
+CTV Montreal HD,http://panelguys.top:8080/txd7Fd/030774/47234
+CTV NEWS CHANNEL,http://panelguys.top:8080/txd7Fd/030774/57350
+CTV OTTAWA,http://panelguys.top:8080/txd7Fd/030774/47237
+CTV Regina,http://panelguys.top:8080/txd7Fd/030774/66381
+CTV Toronto HD,http://panelguys.top:8080/txd7Fd/030774/47296
+CTV Two Atlantic,http://panelguys.top:8080/txd7Fd/030774/79547
+CTV2 Vancouver,http://panelguys.top:8080/txd7Fd/030774/57316
+CTV2 Windsor HD,http://panelguys.top:8080/txd7Fd/030774/77165
+Global Edmonton News,http://panelguys.top:8080/txd7Fd/030774/58724
+Global Halifax News,http://panelguys.top:8080/txd7Fd/030774/57434
+Global News Kingston,http://panelguys.top:8080/txd7Fd/030774/57432
+Global News Regina,http://panelguys.top:8080/txd7Fd/030774/66384
+Global Saskatoon,http://panelguys.top:8080/txd7Fd/030774/66383
+GLOBAL TORONTO,http://panelguys.top:8080/txd7Fd/030774/57435
+OLN,http://panelguys.top:8080/txd7Fd/030774/57366
+Showcase HD,http://panelguys.top:8080/txd7Fd/030774/47366
+Slice TV,http://panelguys.top:8080/txd7Fd/030774/57274
 Sportsnet 360,http://panelguys.top:8080/txd7Fd/030774/57299
 Sportsnet East HD,http://panelguys.top:8080/txd7Fd/030774/57298
 Sportsnet East,http://panelguys.top:8080/txd7Fd/030774/41836
@@ -2584,45 +2579,56 @@ Sportsnet Ontario,http://panelguys.top:8080/txd7Fd/030774/11649
 Sportsnet Pacific,http://panelguys.top:8080/txd7Fd/030774/9860
 Sportsnet West,http://panelguys.top:8080/txd7Fd/030774/20975
 Sportsnet World HD,http://panelguys.top:8080/txd7Fd/030774/75675
-StarMax,http://panelguys.top:8080/txd7Fd/030774/13381
-Starz Encore Westerns,http://panelguys.top:8080/txd7Fd/030774/16263
-Stories by AMC,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-STV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
-SYFY,https://fl3.moveonjoy.com/SYFY/index.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-TBN,http://panelguys.top:8080/txd7Fd/030774/21895
-TBS,http://fl1.moveonjoy.com/TBS/index.m3u8
-TCM,http://fl1.moveonjoy.com/TCM/index.m3u8
 Teletoon East,http://panelguys.top:8080/txd7Fd/030774/57372
-Tennis Channel,http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-TLC,http://panelguys.top:8080/txd7Fd/030774/47703
-TNT East,http://panelguys.top:8080/txd7Fd/030774/10455
-TNT West,http://panelguys.top:8080/txd7Fd/030774/46688
-Travel Channel,http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
-TRT WORLD,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
-TRU TV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176757.m3u8
-TRUTV East,http://panelguys.top:8080/txd7Fd/030774/10224
 TSN 1,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7973
 TSN 2,http://panelguys.top:8080/txd7Fd/030774/16129
 TSN 3,http://panelguys.top:8080/txd7Fd/030774/47444
 TSN 4,http://panelguys.top:8080/txd7Fd/030774/66783
 TSN 5,http://fl5.moveonjoy.com/TSN_5/index.m3u8
-TV Land,http://panelguys.top:8080/txd7Fd/030774/46696
-TVOne,https://fl3.moveonjoy.com/TV_ONE/index.m3u8
-UniMas,http://panelguys.top:8080/txd7Fd/030774/57969
-Univision,http://panelguys.top:8080/txd7Fd/030774/15336
-USA TODAY,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
-UTV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
-Vice,https://fl3.moveonjoy.com/VICELAND/index.m3u8
-VICELAND,http://panelguys.top:8080/txd7Fd/030774/46697
 W NETWORK,https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
-WeTV,http://fl1.moveonjoy.com/WE_TV/index.m3u8
-WGN,https://fl3.moveonjoy.com/WGN/index.m3u8
-Wild Earth,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
-Willow Cricket,http://panelguys.top:8080/txd7Fd/030774/41979
-WWE NETWORK,http://panelguys.top:8080/txd7Fd/030774/11645
-YES Network,http://panelguys.top:8080/txd7Fd/030774/57972
 YTV East,http://panelguys.top:8080/txd7Fd/030774/63850
+
+💎【英國】国际频道🇭🇰,#genre#
+Channel 5,http://panelguys.top:8080/txd7Fd/030774/53653
+Crime & Investigation,http://panelguys.top:8080/txd7Fd/030774/53689
+E4,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8
+GB NEWS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
+Ginx esports TV,http://panelguys.top:8080/txd7Fd/030774/57431
+ITV 3,http://panelguys.top:8080/txd7Fd/030774/53665
+ITV Quiz,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
+ITV2 HD,http://panelguys.top:8080/txd7Fd/030774/53671
+MUTV,http://panelguys.top:8080/txd7Fd/030774/53717
+PREMIER SPORTS 1,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
+PREMIER SPORTS 2,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
+S4C,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
+STV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
+UTV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
+
+
+💎【國際/其他】国际频道🇭🇰,#genre#
+CINE LIFE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
+CINEVAULT WESTERNS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+DEFIANCE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
+DOG TV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
+DOVE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
+DW ENGLISH,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
+Eurosport,http://45.159.74.22/Eurosport/playlist.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Game Show Network,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
+IFC,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
+LAFF,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
+LOL NETWORK,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
+PARAMOUNT NETWORK,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
+REVOLT,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+RT NEWS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
+SCREENPIX WESTERNS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
+SPEED SPORT 1,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+TRT WORLD,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
+Vice,https://fl3.moveonjoy.com/VICELAND/index.m3u8
+Wild Earth,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
 
 💎國際频道2🇭🇰,#genre#
 00s Replay,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
