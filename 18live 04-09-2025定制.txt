@@ -23,91 +23,7 @@ Now_sport7,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20402
 SKY F1,http://panelguys.top:8080/txd7Fd/030774/53704
 
 
-💎日本频道💎,#genre#
-ABC,https://mt01.utako.moe/abc/index.m3u8
-AT-X,https://mt01.utako.moe/AT-X/index.m3u8
-BS 10 Star Channel,https://mt01.utako.moe/bs10_star/index.m3u8
-BS11,https://mt01.utako.moe/BS11/index.m3u8
-BS Asahi,https://mt01.utako.moe/bsasahi/index.m3u8
-BS Fuji,https://mt01.utako.moe/bsfuji/index.m3u8
-BS NTV,https://mt01.utako.moe/bsntv/index.m3u8
-BS TBS,https://mt01.utako.moe/bstbs/index.m3u8
-BS TV Tokyo,https://mt01.utako.moe/bstvtokyo/index.m3u8
-Fuji TV,https://mt01.utako.moe/Fuji_TV/index.m3u8
-Gaora Sports,https://mt01.utako.moe/gaora/index.m3u8
-Green Channel,https://mt01.utako.moe/green/index.m3u8
-JSport 1,https://mt01.utako.moe/js1/index.m3u8
-JSport 2,https://mt01.utako.moe/js2/index.m3u8
-JSport 3,https://mt01.utako.moe/js3/index.m3u8
-JSport 4,https://mt01.utako.moe/js4/index.m3u8
-Kansai TV,https://mt01.utako.moe/kansaitv/index.m3u8
-KBS,https://mt01.utako.moe/kbs/index.m3u8
-MBS,https://mt01.utako.moe/mbs/index.m3u8
-NHK BS,https://mt01.utako.moe/NHK_BS/index.m3u8
-NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
-NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
-NTV,https://mt01.utako.moe/Nippon_TV/index.m3u8
-SUN,https://mt01.utako.moe/suntv/index.m3u8
-TBS,https://mt01.utako.moe/TBS/index.m3u8
-TOKYO MX1,https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-TOKYO MX2,https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-TV Asahi,https://mt01.utako.moe/TV_Asahi/index.m3u8
-TV Tokyo,https://mt01.utako.moe/TV_Tokyo/index.m3u8
-TV Osaka,https://mt01.utako.moe/tvo/index.m3u8
-WOWOW Cinema,https://mt01.utako.moe/wcinema/index.m3u8
-WOWOW Live,https://mt01.utako.moe/wlive/index.m3u8
-WOWOW Prime,https://mt01.utako.moe/wprime/index.m3u8
-ytv,https://mt01.utako.moe/ytv/index.m3u8
 
-💎國際(BBC Channel)🇭🇰,#genre#
-BBC Four UK HD,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-BBC Four/CBeebies (1080p),https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-BBC Lifestyle Asia (1080p),https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
-BBC Three HD (720p),https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-BBC Three/CBBC (1080p),https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-BBC Two HD (720p),https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-BBC NEWS,http://panelguys.top:8080/txd7Fd/030774/53757
-BBC America,http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
-BBC Drama,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
-BBC Drama (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-BBC Drama Italy (1080p),https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-BBC Food,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
-BBC Four UK HD,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-BBC Home &amp; Garden,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
-BBC Impossible,https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
-BBC News (North America) (1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-BBC News Asia Pacific (1080p),https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
-BBC Three HD (720p),https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-BBC Top Gear,https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
-BBC Top Gear Finland (1080p),https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
-BBC Top Gear France (1080p),https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
-BBC Top Gear Germany (1080p),https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
-BBC Top Gear Italy (1080p),https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
-BBC Travel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff
-BBC Travel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
-BBC Two HD (720p),https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-
-
-💎國際(SKY Channel)🇭🇰,#genre#
-SKY CINEMA ACTION,http://panelguys.top:8080/txd7Fd/030774/35254
-Sky Cinema Animation,http://panelguys.top:8080/txd7Fd/030774/53698
-Sky Cinema Comedy,http://panelguys.top:8080/txd7Fd/030774/53661
-SKY CINEMA DRAMA,http://panelguys.top:8080/txd7Fd/030774/35251
-Sky Cinema Family,http://panelguys.top:8080/txd7Fd/030774/53699
-Sky Cinema Premier,http://panelguys.top:8080/txd7Fd/030774/35256
-Sky Cinema Scifi & Horror,http://panelguys.top:8080/txd7Fd/030774/35248
-SKY CRIME THRILLER,http://panelguys.top:8080/txd7Fd/030774/35252
-SKY GREATS,http://panelguys.top:8080/txd7Fd/030774/35249
-Sky Sports Action,http://panelguys.top:8080/txd7Fd/030774/53705
-Sky Sports Arena,http://panelguys.top:8080/txd7Fd/030774/35238
-Sky Sports Cricket,http://panelguys.top:8080/txd7Fd/030774/45940
-Sky Sports F1,http://panelguys.top:8080/txd7Fd/030774/53704
-Sky Sports Golf,http://panelguys.top:8080/txd7Fd/030774/35240
-Sky Sports Main Event,http://panelguys.top:8080/txd7Fd/030774/35243
-Sky Sports Mix,http://panelguys.top:8080/txd7Fd/030774/53706
-Sky Sports News,http://panelguys.top:8080/txd7Fd/030774/35241
-SKY SPORTS TENNIS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
 
 
 
@@ -133,96 +49,63 @@ Now_sport7,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20402
 
 
 💎香港(寶盒TV１)🇭🇰,#genre#
-
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
-Astro歡喜台,http://php.jdshipin.com/smt.php?id=Huahee
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-八度空間,http://php.jdshipin.com/smt.php?id=TV8
-TVB娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-華麗翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-澳視衛星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-重溫經典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-廣東珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-鳳凰衛視,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-寶盒沒寶,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-臨夏市台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
-鳳凰電影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-星空衛視,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龍華經典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龍華卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龍華偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龍華日韓,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龍華戲劇,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-亞洲衛視,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-
-
-💎香港(寶盒TV２)🇭🇰,#genre#
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVB娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-華麗翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-廣東珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro歡喜台,http://php.jdshipin.com/smt.php?id=Huahee
 CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk3
-澳視衛星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 八度空間,http://php.jdshipin.com/smt.php?id=TV8
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
+亞洲衛視,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+星空衛視,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 重溫經典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+華麗翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+鳳凰電影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+鳳凰衛視,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+廣東珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+澳視衛星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+龍華日韓,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龍華卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龍華偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龍華經典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龍華戲劇,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+臨夏市台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+
+
 
 
 
 💎港澳(新AKTV)🇭🇰,#genre#
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
@@ -249,10 +132,6 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 重溫經典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 無線新聞台, http://php.jdshipin.com/smt.php?id=inews_twn
 愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
@@ -264,8 +143,6 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 澳視衛星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-寶盒沒寶,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-
 
 
 
@@ -1001,6 +878,91 @@ YG未來[1920x1080],http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 韓國新聞[1280x720],http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 
+💎日本频道💎,#genre#
+ABC,https://mt01.utako.moe/abc/index.m3u8
+AT-X,https://mt01.utako.moe/AT-X/index.m3u8
+BS 10 Star Channel,https://mt01.utako.moe/bs10_star/index.m3u8
+BS11,https://mt01.utako.moe/BS11/index.m3u8
+BS Asahi,https://mt01.utako.moe/bsasahi/index.m3u8
+BS Fuji,https://mt01.utako.moe/bsfuji/index.m3u8
+BS NTV,https://mt01.utako.moe/bsntv/index.m3u8
+BS TBS,https://mt01.utako.moe/bstbs/index.m3u8
+BS TV Tokyo,https://mt01.utako.moe/bstvtokyo/index.m3u8
+Fuji TV,https://mt01.utako.moe/Fuji_TV/index.m3u8
+Gaora Sports,https://mt01.utako.moe/gaora/index.m3u8
+Green Channel,https://mt01.utako.moe/green/index.m3u8
+JSport 1,https://mt01.utako.moe/js1/index.m3u8
+JSport 2,https://mt01.utako.moe/js2/index.m3u8
+JSport 3,https://mt01.utako.moe/js3/index.m3u8
+JSport 4,https://mt01.utako.moe/js4/index.m3u8
+Kansai TV,https://mt01.utako.moe/kansaitv/index.m3u8
+KBS,https://mt01.utako.moe/kbs/index.m3u8
+MBS,https://mt01.utako.moe/mbs/index.m3u8
+NHK BS,https://mt01.utako.moe/NHK_BS/index.m3u8
+NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
+NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
+NTV,https://mt01.utako.moe/Nippon_TV/index.m3u8
+SUN,https://mt01.utako.moe/suntv/index.m3u8
+TBS,https://mt01.utako.moe/TBS/index.m3u8
+TOKYO MX1,https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+TOKYO MX2,https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+TV Asahi,https://mt01.utako.moe/TV_Asahi/index.m3u8
+TV Tokyo,https://mt01.utako.moe/TV_Tokyo/index.m3u8
+TV Osaka,https://mt01.utako.moe/tvo/index.m3u8
+WOWOW Cinema,https://mt01.utako.moe/wcinema/index.m3u8
+WOWOW Live,https://mt01.utako.moe/wlive/index.m3u8
+WOWOW Prime,https://mt01.utako.moe/wprime/index.m3u8
+ytv,https://mt01.utako.moe/ytv/index.m3u8
+
+💎國際(BBC Channel)🇭🇰,#genre#
+BBC Four UK HD,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+BBC Four/CBeebies (1080p),https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+BBC Lifestyle Asia (1080p),https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
+BBC Three HD (720p),https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+BBC Three/CBBC (1080p),https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+BBC Two HD (720p),https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+BBC NEWS,http://panelguys.top:8080/txd7Fd/030774/53757
+BBC America,http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+BBC Drama,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
+BBC Drama (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+BBC Drama Italy (1080p),https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+BBC Food,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
+BBC Four UK HD,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+BBC Home &amp; Garden,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
+BBC Impossible,https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
+BBC News (North America) (1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC News Asia Pacific (1080p),https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
+BBC Three HD (720p),https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+BBC Top Gear,https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+BBC Top Gear Finland (1080p),https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
+BBC Top Gear France (1080p),https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
+BBC Top Gear Germany (1080p),https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+BBC Top Gear Italy (1080p),https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
+BBC Travel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff
+BBC Travel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
+BBC Two HD (720p),https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+
+💎國際(SKY Channel)🇭🇰,#genre#
+SKY CINEMA ACTION,http://panelguys.top:8080/txd7Fd/030774/35254
+Sky Cinema Animation,http://panelguys.top:8080/txd7Fd/030774/53698
+Sky Cinema Comedy,http://panelguys.top:8080/txd7Fd/030774/53661
+SKY CINEMA DRAMA,http://panelguys.top:8080/txd7Fd/030774/35251
+Sky Cinema Family,http://panelguys.top:8080/txd7Fd/030774/53699
+Sky Cinema Premier,http://panelguys.top:8080/txd7Fd/030774/35256
+Sky Cinema Scifi & Horror,http://panelguys.top:8080/txd7Fd/030774/35248
+SKY CRIME THRILLER,http://panelguys.top:8080/txd7Fd/030774/35252
+SKY GREATS,http://panelguys.top:8080/txd7Fd/030774/35249
+Sky Sports Action,http://panelguys.top:8080/txd7Fd/030774/53705
+Sky Sports Arena,http://panelguys.top:8080/txd7Fd/030774/35238
+Sky Sports Cricket,http://panelguys.top:8080/txd7Fd/030774/45940
+Sky Sports F1,http://panelguys.top:8080/txd7Fd/030774/53704
+Sky Sports Golf,http://panelguys.top:8080/txd7Fd/030774/35240
+Sky Sports Main Event,http://panelguys.top:8080/txd7Fd/030774/35243
+Sky Sports Mix,http://panelguys.top:8080/txd7Fd/030774/53706
+Sky Sports News,http://panelguys.top:8080/txd7Fd/030774/35241
+SKY SPORTS TENNIS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
  
 
 ☘️地方衛視,#genre#
