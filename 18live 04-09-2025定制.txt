@@ -2518,30 +2518,6 @@ STV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
 UTV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
 
 
-💎【國際/其他】国际频道🇭🇰,#genre#
-CINE LIFE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
-CINEVAULT WESTERNS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-DEFIANCE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
-DOG TV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
-DOVE,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
-DW ENGLISH,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
-Eurosport,http://45.159.74.22/Eurosport/playlist.m3u8
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Game Show Network,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
-IFC,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
-LAFF,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
-LOL NETWORK,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
-PARAMOUNT NETWORK,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
-REVOLT,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-RT NEWS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
-SCREENPIX WESTERNS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
-SPEED SPORT 1,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-TRT WORLD,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
-Vice,https://fl3.moveonjoy.com/VICELAND/index.m3u8
-Wild Earth,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
 
 💎國際频道2🇭🇰,#genre#
 00s Replay,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
