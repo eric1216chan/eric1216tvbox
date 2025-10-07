@@ -1,9 +1,7 @@
-🇭🇰公告:更新2-10-2025🇭🇰,#genre#
+🇭🇰公告:更新8-10-2025🇭🇰,#genre#
 
 如頻道看不到,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20392 
 在頻道左右換網源,https://
-Now1-7努力修復中,https://
-預計需要數天,https://
 團隊盡力更新,https://
 多謝支持/體諒,https://
 
@@ -489,10 +487,12 @@ ELEVEN 1,http://66.90.99.154:8278/golfchannel_twn/playlist.m3u8?tid=mc42afe74553
 ELEVENSPORTS1,http://108.181.20.197/livehttpplay?channel_id=10104
 ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
 Eleven一,https://smart.pendy.dpdns.org/Smart.php?id=golfchannel_twn
-ELTA體1,https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
-ELTA體3,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+ELTA體育1,https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
 ELTA體育1,http://108.181.20.197/livehttpplay?channel_id=20043
+ELTA體育1,http://66.90.99.154:8278/eltasport_twn/playlist.m3u8?tid=MB7B2967926029679260&ct=20368&tsum=77cfe22a6f971bcc8bd17f771fd908a4
 ELTA體育2,http://108.181.20.197/livehttpplay?channel_id=20107
+ELTA體育2,http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=MF3F2490570024905700&ct=20368&tsum=b04cfb2b6a9027dc04399d459dc95b31
+ELTA體育3,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 EYE旅遊,http://66.90.99.154:8278/eyetvtravel_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f09c49ab7de1ffa562c2e18d652fe7d3
 EYE-旅遊,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
 EYE戲劇,http://66.90.99.154:8278/eyetvxiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3c3d3d423c8cb419f027d31857477e68
