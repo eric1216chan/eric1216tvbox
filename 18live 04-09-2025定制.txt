@@ -11,8 +11,13 @@
 Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20392 
 Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20403 
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 SKY F1,http://panelguys.top:8080/txd7Fd/030774/53704
-賽馬,video://https://789iptv.com/?act=play&tid=gt&id=12
+賽馬,https://789iptv.com/?act=play&token=decde08a2d58b6dadb1a09fbce6705ea&tid=ty&id=46
+賽馬,video://https://789iptv.com/?act=play&token=decde08a2d58b6dadb1a09fbce6705ea&tid=ty&id=46
 
 
 
