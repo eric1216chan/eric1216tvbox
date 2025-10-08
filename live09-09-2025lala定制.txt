@@ -12,6 +12,27 @@ Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20392
 Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20403 
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 SKY F1,http://panelguys.top:8080/txd7Fd/030774/53704
+🇭🇰公告:更新8-10-2025🇭🇰,#genre#
+
+如頻道看不到,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20392 
+在頻道左右換網源,https://
+團隊盡力更新,https://
+多謝支持/體諒,https://
+
+
+
+💎秒播频道💎,#genre#
+Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20392 
+Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20403 
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+SKY F1,http://panelguys.top:8080/txd7Fd/030774/53704
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+
+
 
 
 
@@ -90,8 +111,6 @@ Astro歡喜台,http://php.jdshipin.com/smt.php?id=Huahee
 龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龍華戲劇,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 臨夏市台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
-
-
 
 
 
@@ -304,28 +323,26 @@ now Sports Prime,https://stream1.freetv.fun/prime-2.m3u8
 
 
 
-
-
-
 💎香港鳳凰🇭🇰,#genre#
 鳳凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-鳳凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-鳳凰資訊,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 鳳凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
-鳳凰資訊,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
-鳳凰香港,http://bziyunshao.synology.me:8890/bysid/85
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+鳳凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
+鳳凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+鳳凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+鳳凰香港,http://bziyunshao.synology.me:8890/bysid/85
+鳳凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
+鳳凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
+鳳凰資訊,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+鳳凰資訊,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-鳳凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 鳳凰資訊,http://zqh2333.top:2222/rtp/239.93.24.4:2191
-鳳凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
-鳳凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-鳳凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+
 
 
 
@@ -354,7 +371,7 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
-有線18賽馬,http://iptv.4666888.xyz/iptv.php?id=20124
+
 
 
 💎RTHK🇭🇰,#genre#
@@ -2518,7 +2535,6 @@ PREMIER SPORTS 2,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724
 S4C,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
 STV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
 UTV,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
-
 
 
 
@@ -17580,5 +17596,10 @@ ABC TV Melbourne (720p),https://c.mjh.nz/abc-vic.m3u8
 ABC TV Perth (720p),https://c.mjh.nz/abc-wa.m3u8
 ABC TV Plus (720p),https://c.mjh.nz/abc-tv-plus.m3u8
 ABC WWAY 3,https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+
+
+
+
+
 
 
