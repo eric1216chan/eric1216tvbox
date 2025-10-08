@@ -302,25 +302,27 @@ now Sports Prime,https://stream1.freetv.fun/prime-2.m3u8
 
 
 
+
 💎香港鳳凰🇭🇰,#genre#
 鳳凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-鳳凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-鳳凰資訊,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 鳳凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
-鳳凰資訊,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
-鳳凰香港,http://bziyunshao.synology.me:8890/bysid/85
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+鳳凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
+鳳凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+鳳凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+鳳凰香港,http://bziyunshao.synology.me:8890/bysid/85
+鳳凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
+鳳凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
+鳳凰資訊,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+鳳凰資訊,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-鳳凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 鳳凰資訊,http://zqh2333.top:2222/rtp/239.93.24.4:2191
-鳳凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
-鳳凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-鳳凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+
 
 
 
@@ -349,7 +351,7 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
-有線18賽馬,http://iptv.4666888.xyz/iptv.php?id=20124
+
 
 
 💎RTHK🇭🇰,#genre#
