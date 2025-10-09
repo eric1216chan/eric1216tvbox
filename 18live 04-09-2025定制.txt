@@ -591,6 +591,8 @@ TVBS歡樂台,http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe7
 動畫片,http://61.221.215.25:8800/hls/40/index.m3u8
 國興衛視,http://108.181.20.197/livehttpplay?channel_id=20164
 採昌,http://108.181.20.197/livehttpplay?channel_id=20141
+大立電視臺,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 探索亞洲,http://66.90.99.154:8278/discoverytwn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9e88df7781c3c6e5ee2971dcda0c1821
 野生動物,http://66.90.99.154:8278/natgeowild_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=049b18630d8486e7f7d60e17201e48e2
 博斯高球1,http://66.90.99.154:8278/bosigolf1_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6d8680b0114050b90b768ad8b41939a9

@@ -23,6 +23,7 @@ myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 
 
 
+
 💎Now TV🇭🇰,#genre#
 Now新闻,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20082 
 Now财经,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20085 
@@ -298,11 +299,11 @@ snaap!,https://stream1.freetv.fun/snap-1.m3u8
 甄子丹影視,https://stream1.freetv.fun/zhen-zi-dan-dian-ying-4.ctv
 甄子丹影視,https://stream1.freetv.fun/zhen-zi-dan-2.m3u8
 甄子丹影視,https://stream1.freetv.fun/zhen-zi-dan-1.m3u8
+88賽馬頻道,https://stream1.freetv.fun/88sai-ma-1.ctv
 Bein Sports 1(HK),https://stream1.freetv.fun/hse24-trend-1.m3u8
 Sports Plus 1,https://stream1.freetv.fun/ch-ng-sky-sports-plus-1.m3u8
 now Sports 3,https://stream1.freetv.fun/now-sports-premier-league-3-1.ctv
 now Sports Prime,https://stream1.freetv.fun/prime-2.m3u8
-88賽馬頻道,https://stream1.freetv.fun/88sai-ma-1.ctv
 
 
 
@@ -590,6 +591,8 @@ TVBS歡樂台,http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe7
 動畫片,http://61.221.215.25:8800/hls/40/index.m3u8
 國興衛視,http://108.181.20.197/livehttpplay?channel_id=20164
 採昌,http://108.181.20.197/livehttpplay?channel_id=20141
+大立電視臺,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 探索亞洲,http://66.90.99.154:8278/discoverytwn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9e88df7781c3c6e5ee2971dcda0c1821
 野生動物,http://66.90.99.154:8278/natgeowild_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=049b18630d8486e7f7d60e17201e48e2
 博斯高球1,http://66.90.99.154:8278/bosigolf1_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6d8680b0114050b90b768ad8b41939a9
