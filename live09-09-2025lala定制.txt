@@ -27,7 +27,7 @@ myTV SUPER 18臺,http://bxtv.3a.ink/api.php?id=18
 
 💎Now TV🇭🇰,#genre#
 
-NOW新聞,http://bxtv.3a.ink/api.php?id=now
+Now新聞,http://bxtv.3a.ink/api.php?id=now
 Now新聞,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20082 
 Now財經,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20085 
 Now星影(粵),https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20413 
@@ -36,7 +36,6 @@ Now爆谷,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20411
 Now星影,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20412 
 Now華劇,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20091 
 Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20392 
-香港有线18台,https://stream1.freetv.fun/9c069df75d8cec203dffd5113d9791e66a91a7880f1f7cb4b842166b38cd1575.ctv
 Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20403 
 Now_sport1,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20404
 Now_sport2,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20405
