@@ -91,12 +91,11 @@ TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-1.ctv
 TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-12.m3u8
 TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-13.m3u8
-TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
 TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-15.m3u8
-TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-4.m3u8
 TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-5.m3u8
 TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 TVB亞洲劇,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8
+
 TVB娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
 
@@ -123,33 +122,72 @@ Now星影,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20412
 Now華劇,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20091
 
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK31,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK32,https://stream1.freetv.fun/rthk32-1.m3u8
 RTHK32,https://stream1.freetv.fun/rthk32--wj-1.ctv
+RTHK32,https://stream1.freetv.fun/rthk32-1.m3u8
+RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,http://bziyunshao.synology.me:8892/bysid/32
+RTHK32,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
+
+RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+RTHK33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
+RTHK33,https://stream1.freetv.fun/cctv1--n-1.ctv
+RTHK33,https://stream1.freetv.fun/cctv1-15.m3u8
+RTHK33,https://stream1.freetv.fun/cctv1-21.ctv
+RTHK33,https://stream1.freetv.fun/cctv1-30.ctv
+RTHK33,https://stream1.freetv.fun/cctv1-32.ctv
+RTHK33,https://stream1.freetv.fun/cctv1-73.ctv
+RTHK33,https://stream1.freetv.fun/cctv1--wj-1.ctv
+RTHK33,https://stream1.freetv.fun/cctv1-zong-he-17.ctv
+
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+RTHK34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
+
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
+RTHK36,https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
+
+
+ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
 
 ViuTV HD,https://stream1.freetv.fun/viutv-5.ctv
 ViuTV HD,https://stream1.freetv.fun/viutv-9.ctv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-ViuTVsix,https://stream1.freetv.fun/viutvsix--wj-1.ctv
+ViuTV HD,https://stream1.freetv.fun/viutv-13.ctv
 
 
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-15.m3u8
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-21.ctv
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-30.ctv
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-32.ctv
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-45.m3u8
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-73.ctv
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-82.m3u8
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-84.m3u8
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1--n-1.ctv
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1--wj-1.ctv
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-zong-he-15.ctv
-CCTV1(RTHK33),https://stream1.freetv.fun/cctv1-zong-he-17.ctv
-CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+ViuTV6,https://stream1.freetv.fun/viutvsix--wj-1.ctv
+ViuTV6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
+ViuTV6,http://bziyunshao.synology.me:8889/bysid/96.m3u8s
+ViuTV6,https://stream1.freetv.fun/viutvsix-2.ctv
+ViuTV6,https://stream1.freetv.fun/viutvsix-3.ctv
+
+
+
 HOY76,http://hls.168.us.kg/u/76/master.m3u8
-HOY77,http://hls.168.us.kg/u/77/master.m3u8
+HOY76,http://hls.168.us.kg/u/76/master.m3u8
+HOY76,http://bziyunshao.synology.me:8891/bysid/76
+
 HOY78,http://hls.168.us.kg/u/78/master.m3u8
+
 MOVIE MOVIE,https://stream1.freetv.fun/paramount-movie-channel-2.m3u8
 MOVIE MOVIE,https://stream1.freetv.fun/tvs-drive-in-movie-1.m3u8
 MOVIE MOVIE,https://stream1.freetv.fun/tvs-drive-in-movie-2.m3u8
@@ -157,44 +195,7 @@ MOVIE MOVIE,https://stream1.freetv.fun/tvs-western-movie-1.m3u8
 MOVIE MOVIE,https://stream1.freetv.fun/tvs-western-movie-2.m3u8
 MOVIE MOVIE,https://stream1.freetv.fun/xuan-yi-movie-1.ctv
 
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK32,https://stream1.freetv.fun/rthk32-1.m3u8
-RTHK32,https://stream1.freetv.fun/rthk32--wj-1.ctv
 
-
-
-ViuTV HD,https://stream1.freetv.fun/viutv-5.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-9.ctv
-ViuTV,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
-ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
-ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-ViuTV,http://r.jdshipin.com/vSJvl
-
-ViUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-ViUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-ViuTV HD,https://stream1.freetv.fun/viutv1-2.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-13.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv1--wj-1.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-2.m3u8
-ViuTV HD,https://stream1.freetv.fun/viutv-3.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-4.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-5.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-6.m3u8
-ViuTV HD,https://stream1.freetv.fun/viutv6-4.m3u8
-ViuTV HD,https://stream1.freetv.fun/viutv-7.m3u8
-ViuTV HD,https://stream1.freetv.fun/viutv-9.ctv
-
-ViuTV6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
-ViuTV6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-ViuTV6,http://bziyunshao.synology.me:8889/bysid/96.m3u8s
-ViuTV6,https://stream1.freetv.fun/viutvsix-2.ctv
-ViuTV6,https://stream1.freetv.fun/viutvsix-3.ctv
-ViuTV6,https://stream1.freetv.fun/viutvsix--wj-1.ctv
 
 snaap!,https://stream1.freetv.fun/snap-1.m3u8
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
@@ -277,103 +278,94 @@ Now爆谷,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20411
 Now星影,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20412 
 Now華劇,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20091
 
-🇭🇰TVB翡翠臺,#genre#
+🇭🇰TVB翡翠台,#genre#
 █████████████████████████████████████████████
 TVB 1,https://6.cdn.loc.cc/163189.php?id=tvb1
-TVB Plus,http://60.248.77.83/sat/hk011.flv
-TVB Plus,http://bziyunshao.synology.me:8890/bysid/82
+
+
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://r.jdshipin.com/Nr5jq
-TVB Plus,https://live.tvfix.org/live/inews/index.m3u8
-TVB Plus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
+
+
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVBJ1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-TVBJ1美頻高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
-tvbplus,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
-tvbplus,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+TVBJ1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 tvbplus,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8?txiptv&playlive
+
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-tvbs亞洲,https://stream1.freetv.fun/664705905935bd2a420105e1221286de734c45cc4282cce89b423ff9eeb4d7c6.m3u8
-TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
+
+
 TVB千禧經典台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB千禧經典台,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-TVB明珠,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
-TVB明珠,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-TVB明珠,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
-TVB明珠,http://bziyunshao.synology.me:8890/bysid/2
-TVB明珠,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-TVB明珠,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
-TVB明珠,http://qjrhc.jydjd.top:2911/udp/224.1.100.124:11111
-TVB明珠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-TVB明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+
+TVB明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
+TVB明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 TVB明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+TVB明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 TVB明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 TVB明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
 TVB明珠台,https://live.tvfix.org/live/pearl/index.m3u8
-TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
+
+
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,http://r.jdshipin.com/Voac4
+
 TVB娛樂新聞,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB娛樂新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVB無線新聞,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
-TVB無線新聞,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+TVB娛樂新聞,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+
+
+TVB無線新聞,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB無線新聞,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-TVB無線新聞,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-TVB無線新聞,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
-TVB無線新聞,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『線路1』
-TVB無線新聞,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
-TVB無線新聞台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+TVB無線新聞,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+TVB無線新聞,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB無線新聞,http://r.jdshipin.com/CkuBd
+
+
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-明珠台(字幕),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-明珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+TVB翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+TVB翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-明珠台http://r.jdshipin.com/ZQ4kN
-明珠臺,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8
-明珠臺,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
-明珠臺,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-明珠臺,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
-明珠臺,http://bxtv.3a.ink/api.php?id=mz
-明珠臺,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠臺,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
+明珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+明珠台,http://r.jdshipin.com/ZQ4kN
+
+明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8
+明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
+明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+明珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
+
 美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-娛樂新聞,https://live.tvfix.org/live/enews/index.m3u8
-無綫新聞,http://bziyunshao.synology.me:8890/bysid/83.m3u8
+
+
 無線功夫（粵）2,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 無線功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 無線星河（粵）,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 無線星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-無線新聞,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-無線新聞,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-無線新聞,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-無線新聞,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-無線新聞,http://r.jdshipin.com/CkuBd
-無線新聞,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-無線新聞,https://stream1.freetv.fun/662e5a352f2b84358ebad27c76fec0e01bcc3cd0490e4b00a8dcd0621ddc3d35.m3u8
-無線翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-無線翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+
+
+
+
 無線翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 華麗翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 華麗翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
@@ -427,63 +419,42 @@ TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 
 🇭🇰Viu TV,#genre#
 █████████████████████████████████████████████
-ViuTV,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
-ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
-ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
 
-ViuTV HD,https://stream1.freetv.fun/viutv1-2.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-13.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv1--wj-1.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-2.m3u8
-ViuTV HD,https://stream1.freetv.fun/viutv-3.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-4.ctv
 ViuTV HD,https://stream1.freetv.fun/viutv-5.ctv
-ViuTV HD,https://stream1.freetv.fun/viutv-6.m3u8
-ViuTV HD,https://stream1.freetv.fun/viutv6-4.m3u8
-ViuTV HD,https://stream1.freetv.fun/viutv-7.m3u8
 ViuTV HD,https://stream1.freetv.fun/viutv-9.ctv
+ViuTV HD,https://stream1.freetv.fun/viutv-13.ctv
 
-ViuTV6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+
+ViuTV6,https://stream1.freetv.fun/viutvsix--wj-1.ctv
 ViuTV6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 ViuTV6,http://bziyunshao.synology.me:8889/bysid/96.m3u8s
 ViuTV6,https://stream1.freetv.fun/viutvsix-2.ctv
 ViuTV6,https://stream1.freetv.fun/viutvsix-3.ctv
-ViuTV6,https://stream1.freetv.fun/viutvsix--wj-1.ctv
-
-
-
 
 
 🇭🇰HOY TV,#genre#
 █████████████████████████████████████████████
-HOY76,http://bziyunshao.synology.me:8891/bysid/76
 HOY76,http://hls.168.us.kg/u/76/master.m3u8
+HOY76,http://bziyunshao.synology.me:8891/bysid/76
+HOY76,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
+
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
-HOY78,http://bziyunshao.synology.me:8891/bysid/78
-HOYTV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOYTV://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY資訊臺,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
-HOY資訊臺,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+HOY77,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
+
+HOY資訊臺78,http://hls.168.us.kg/u/78/master.m3u8
+HOY資訊臺78,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+
 有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
-有線新聞臺,https://stream1.freetv.fun/4d6591408175f51c98487a2e75932b963836ca8ad4e8d24c744662d4fe4b1a38.m3u8
-有線綜訊頻道,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
-有線賽訊頻道,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
-有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-有線新聞,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
-有線新聞,https://stream1.freetv.fun/4d6591408175f51c98487a2e75932b963836ca8ad4e8d24c744662d4fe4b1a38.m3u8
-香港有線新聞,https://stream1.freetv.fun/1b440a21b089797aecfd8328b5f587036dbeb394a97b3baaaca595ca6692ef93.m3u8
-香港有線新聞,https://stream1.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
-香港衛視,http://anren.live/HK/BSJDUFpB.m3u8
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp%3BwsIPSercert=8de23d0849e78e3b16ec92a809235421&amp%3BwsMonitor=0
 
 
 
@@ -491,25 +462,31 @@ HOY資訊臺,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 🇭🇰RTHK,#genre#
 █████████████████████████████████████████████
 
-RTHK31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
-RTHK32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
+
+
 RNDXC,http://www.douzhicloud.site:35455/douyu/4585643
+
+
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+
+
 RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,http://bziyunshao.synology.me:8892/bysid/32
 RTHK32,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
+
 RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 RTHK33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
+
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 RTHK34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
@@ -735,7 +712,6 @@ TVBS歡樂台,http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe7
 中天新聞,http://222.128.55.152:9080/live/fc.m3u8
 中天新聞,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新聞HD,http://66.90.99.154:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
-中天新聞臺,http://bxtv.3a.ink/api.php?id=ztxw
 中天綜合,http://66.90.99.154:8278/ctizhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27715b42827ed898125640b4891ddde9
 中視,http://108.181.20.197/livehttpplay?channel_id=20088
 中視,http://123.51.136.80:8301/0.ts
@@ -22269,9 +22245,3 @@ sound of my dream,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg100
 精選粵語dj串燒,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cpucv77og65tcsi9n2hg&ratio=720p&line=0
 螞蟻牙嘿,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c98qrmbc77ucqknl90ag&ratio=720p&line=0
 鶴山DJ花城-全粵語Electro風格愛不會消失只會轉移串燒,http://tsmw.vvvdj.com/c1/2024/06/271878-c8b321/271878.m3u8
-
-
-
-
-
-
