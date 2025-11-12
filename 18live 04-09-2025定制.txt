@@ -294,118 +294,64 @@ Love Nature HD,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 🌸臺灣,#genre#
 █████████████████████████████████████████████
 
-Arirang,https://smt.passwdword.xyz/Smart.php?id=arirang_twn
-AXN Taiwan,https://smt.passwdword.xyz/Smart.php?id=axn_twn
 
-CINEMAX,https://smt.passwdword.xyz/Smart.php?id=cinemax_twn
-
-EYE 旅遊臺,https://smt.passwdword.xyz/Smart.php?id=eyetvtravel_twn
-EYE 戲劇臺,https://smt.passwdword.xyz/Smart.php?id=eyetvxiju_twn
-
-HBO_HD,https://smt.passwdword.xyz/Smart.php?id=hbohd_twn
-HBO_HITS,https://smt.passwdword.xyz/Smart.php?id=hbohit_twn
-
-MTV Live,https://smt.passwdword.xyz/Smart.php?id=mtvhd_twn
 
 Taiwan Good TV General,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-TVBS HD,https://smt.passwdword.xyz/Smart.php?id=tvbs
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『線路3』
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『線路2』
 TVBS亞洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『線路8』
 TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新聞,https://smt.passwdword.xyz/Smart.php?id=tvbs_n
-TVBS歡樂,https://smt.passwdword.xyz/Smart.php?id=tvbshuanle_twn
 
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-八大娛樂臺,https://smt.passwdword.xyz/Smart.php?id=badaentertain
-八大第壹臺,https://smt.passwdword.xyz/Smart.php?id=badafirst
 
-八大綜合臺,https://smt.passwdword.xyz/Smart.php?id=badazhonghe
-八大戲劇臺,https://smt.passwdword.xyz/Smart.php?id=badadrama
 
-三立臺灣,https://smt.passwdword.xyz/Smart.php?id=sanlitaiwan
-三立都會,https://smt.passwdword.xyz/Smart.php?id=sanlidouhui
-
-三立綜合,https://smt.passwdword.xyz/Smart.php?id=sanlizhonghe
 
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
-三立戲劇,https://smt.passwdword.xyz/Smart.php?id=sanlixiju_twn
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-s
-大愛二臺,https://smt.passwdword.xyz/Smart.php?id=daai2_twn
 
-大愛電視,https://smt.passwdword.xyz/Smart.php?id=daai_twn
 
-中天亞洲,https://smt.passwdword.xyz/Smart.php?id=ctiasia_twn
+
 中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
-中天娛樂,https://smt.passwdword.xyz/Smart.php?id=ctient
 
 中天新聞,http://222.128.55.152:9080/live/fc.m3u8
 中天新聞,http://jnzq.ohoyee.com:9080/live/fc.m3u8
-中天新聞,https://smt.passwdword.xyz/Smart.php?id=ctinews
 
-中天綜合,https://smt.passwdword.xyz/Smart.php?id=ctizhonghe
 中旺電視,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-中視 HD,https://smt.passwdword.xyz/Smart.php?id=zhongshihd_twn
 
 中視,http://66.90.99.154:8278/zhongshihd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b9082a07f9f4586dc6b7dbb15aed0ead
 
-中視新聞,https://smt.passwdword.xyz/Smart.php?id=zhongshinews_twn
 
-
-中視經典,https://smt.passwdword.xyz/Smart.php?id=zhongshi_twn
-
-公視,https://smt.passwdword.xyz/Smart.php?id=ctv_taiwan
-公視臺語,https://smt.passwdword.xyz/Smart.php?id=ctv2_twn
-
-民視 HD,https://smt.passwdword.xyz/Smart.php?id=ftvhd_taiwan
 
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞,https://smt.passwdword.xyz/Smart.php?id=ftvnew_taiwan
 
 
-民視臺灣,https://smt.passwdword.xyz/Smart.php?id=ftvtaiwan_twn
 
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 
 好萊塢電影,https://smt.passwdword.xyz/Smart.php?id=hollywoodmovies_twn
 
-年代新聞,https://smt.passwdword.xyz/Smart.php?id=niandainews_twn
-亞洲美食,https://smt.passwdword.xyz/Smart.php?id=afc_twn
 
-亞洲旅遊,https://smt.passwdword.xyz/Smart.php?id=asiatravel_twn
 亞洲衛視,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-東森幼幼,https://smt.passwdword.xyz/Smart.php?id=yoyo_twn
-東森洋片,https://smt.passwdword.xyz/Smart.php?id=ettvwestern
-東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
-東森財經新聞,https://smt.passwdword.xyz/Smart.php?id=ettvcaijing_twn
+東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-東森超視,https://smt.passwdword.xyz/Smart.php?id=ettvsuper
-
-東森新聞,https://smt.passwdword.xyz/Smart.php?id=ettvnews
-
-東森電影,https://smt.passwdword.xyz/Smart.php?id=ettvmovie
 
 東森綜合,http://66.90.99.154:8278/ettvzhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8908613c59328719e4b4264d598f7ddd
-東森綜合,https://smt.passwdword.xyz/Smart.php?id=ettvzhonghe
 東森戲劇,http://66.90.99.154:8278/ettvdrama/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27c02fdd5a4eed4ac948d8c250b3b732
-東森戲劇,https://smt.passwdword.xyz/Smart.php?id=ettvdrama
 
 阿里郎,http://66.90.99.154:8278/arirang_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7b5146cb36d0cc5006d28a6d415aa234
 
-非凡新聞,https://smt.passwdword.xyz/Smart.php?id=feifannews_twn
 非凡新聞臺,http://66.90.99.154:8278/feifannews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=09f354eef23965dad1dc2d07091f5db8
 
 星河,http://108.181.20.197/livehttpplay?channel_id=20070
@@ -421,67 +367,40 @@ s
 
 華視,http://66.90.99.154:8278/ctshd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7b3b84a5c2d51d342b01b432389aac57
 
-華藝綜合,https://smt.passwdword.xyz/Smart.php?id=weishichinese_twn
 
-愛爾達綜合臺,https://smt.passwdword.xyz/Smart.php?id=eltazonghe_twn
-愛爾達影劇臺,https://smt.passwdword.xyz/Smart.php?id=eltayingju_twn
-
-靖天卡通,https://smt.passwdword.xyz/Smart.php?id=jingtiancartoon_twn
-
-靖天國際,https://smt.passwdword.xyz/Smart.php?id=jingtianintl_twn
-
-臺視 HD,https://smt.passwdword.xyz/Smart.php?id=ttv_taiwan
 
 
 臺視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-臺視新聞,https://smt.passwdword.xyz/Smart.php?id=ttvnews_twn
 臺視綜合,http://123.51.136.80:8316/0.ts
-臺視綜合,https://smt.passwdword.xyz/Smart.php?id=ttvzhonghe
 
 
 
-緯來日本,https://smt.passwdword.xyz/Smart.php?id=videolandjapan
-
-緯來育樂,https://smt.passwdword.xyz/Smart.php?id=videolandyule
-緯來電影,https://smt.passwdword.xyz/Smart.php?id=videolandmovie
 緯來精采臺,http://61.221.215.25:8800/hls/48/index.m3u8
-緯來精彩,https://smt.passwdword.xyz/Smart.php?id=videolandspecial_twn
-緯來綜合,https://smt.passwdword.xyz/Smart.php?id=videolandzonghe
 
-緯來體育,https://smt.passwdword.xyz/Smart.php?id=videolandsport
+
 蓮花衛視,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
-衛視電影臺,https://smt.passwdword.xyz/Smart.php?id=weishimovie_twn
 
-寰宇財經臺,https://smt.passwdword.xyz/Smart.php?id=huanyutaiwan_twn
 
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
-寰宇新聞臺,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
 
-龍祥時代,https://smt.passwdword.xyz/Smart.php?id=lungxiangtime_twn
 
 龍華日韓,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 
 龍華卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龍華洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-龍華洋片,https://smt.passwdword.xyz/Smart.php?id=lunghuawestern_twn
 龍華偶像,http://108.181.20.197/livehttpplay?channel_id=20023
 
 龍華偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龍華偶像,https://smt.passwdword.xyz/Smart.php?id=lunghuaidol_twn
 
 龍華經典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龍華經典,https://smt.passwdword.xyz/Smart.php?id=lunghuajingdian_twn
 
 龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龍華電影,https://smt.passwdword.xyz/Smart.php?id=xingwei_movie
 
 龍華戲劇,http://66.90.99.154:8278/lunghuaxiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=051b4915ad14d1352236c31f5d8ccce4
 龍華戲劇,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龍華戲劇,https://smt.passwdword.xyz/Smart.php?id=lunghuaxiju_twn
 環球電視,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-
 
 🇯🇵日本頻道,#genre#
 █████████████████████████████████████████████
