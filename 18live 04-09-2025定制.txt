@@ -1672,14 +1672,13 @@ CCTV4國際,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8
 CCTV4國際,http://120.202.94.181:9446/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4國際,http://36.136.38.87:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 
+cctv5體育,http://ddns.xryo.cn:8888/rtp/239.112.205.222:5140
 cctv5體育,http://112.27.235.94:8000/hls/5/index.m3u8
-cctv5體育,http://120.76.248.139/live/bfgd/4200000064.m3u8
 cctv5體育,http://183.11.239.36:808/hls/93/index.m3u8
 cctv5體育,http://183.222.242.31:8088/hls/5/index.m3u8
 cctv5體育,http://218.15.183.23:9901/tsfile/live/23022_1.m3u8
 cctv5體育,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 cctv5體育,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-cctv5體育,http://ddns.xryo.cn:8888/rtp/239.112.205.222:5140
 cctv5體育,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNS9pbmRleC5tM3U4
 cctv5體育,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2OS40Ny4xMDA6MTAwODEvaGxzLzUvaW5kZXgubTN1OA==
 cctv5體育,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2OS40Ny4xMDA6MTAwODEvaGxzLzYvaW5kZXgubTN1OA==
@@ -1688,8 +1687,6 @@ cctv5體育,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOy
 cctv5體育,http://tvtj.jxwltx.com:8003/cctv5.m3u8
 cctv5體育,http://www.cdnstv.com:6398/hls/5/index.m3u8
 cctv5體育,https://migu.188766.xyz/?migutoken=6c010aac56075e8e7fc4eaa2ac97e9f6&id=CCTV5&type=yy
-cctv5體育,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
-cctv5體育,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 cctv5體育,http://140.210.9.53:8800/SuanFaZhibo/live/cctvapi.php?id=CCTV54d61bd11c9a343b782b3381a3c3f6540H
 cctv5體育,http://61.184.46.85:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 cctv5體育,http://61.184.46.85:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
