@@ -1693,23 +1693,23 @@ cctv5體育,http://116.77.33.98:44330/tsfile/live/0005_1.m3u8
 cctv5體育,http://120.202.94.181:9446/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 cctv5體育,http://hsza.f3322.net:4000/rtp/238.1.78.171:7240
 
+CCTV5+賽事,http://ddns.xryo.cn:8888/udp/239.111.205.13:5140
 CCTV5+賽事,http://112.27.235.94:8000/hls/6/index.m3u8
 CCTV5+賽事,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8
 CCTV5+賽事,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+賽事,http://183.222.242.31:8088/hls/16/index.m3u8
 CCTV5+賽事,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+賽事,http://61.184.46.85:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+賽事,http://ddns.xryo.cn:8888/udp/239.111.205.13:5140
 CCTV5+賽事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzYvbGl2ZS5tM3U4
 CCTV5+賽事,https://migu.188766.xyz/?migutoken=1915fca4a1f830cf5cd444c1ae285b77&id=CCTV5p&type=yy
 CCTV5+賽事,http://113.26.202.52:1299/tsfile/live/0016_1.m3u8
 CCTV5+賽事,http://116.77.33.98:44330/tsfile/live/0006_1.m3u8
 CCTV5+賽事,http://hsza.f3322.net:4000/rtp/238.1.78.237:7768
 
+CCTV6電影,http://ddns.xryo.cn:8888/udp/239.112.205.223:5140
 CCTV6電影,http://112.27.235.94:8000/hls/7/index.m3u8
 CCTV6電影,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV6電影,http://183.222.242.31:8088/hls/6/index.m3u8
-CCTV6電影,http://ddns.xryo.cn:8888/udp/239.112.205.223:5140
 CCTV6電影,http://tvtj.jxwltx.com:8003/cctv6.m3u8
 CCTV6電影,http://www.cdnstv.com:6398/hls/6/index.m3u8
 CCTV6電影,https://migu.188766.xyz/?migutoken=fca843894918ef4a67882d56fdffc8d2&id=CCTV6&type=yy
