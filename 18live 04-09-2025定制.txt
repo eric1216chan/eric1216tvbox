@@ -1569,6 +1569,7 @@ MyZen TV,https://maldivesn.net/hilaytv/myzen4k
 
 🇨🇳中國CCTV,#genre#
 █████████████████████████████████████████████
+CCTV1綜合,http://tvtj.jxwltx.com:8003/cctv1.m3u8
 CCTV1綜合,http://140.210.9.53:8800/SuanFaZhibo/live/cctv.php?id=cctv1
 CCTV1綜合,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV1綜合,http://112.46.105.20:8009/hls/501/index.m3u8
@@ -1584,7 +1585,6 @@ CCTV1綜合,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOy
 CCTV1綜合,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDAvaW5kZXgubTN1OA==
 CCTV1綜合,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOC4yMy4xOTIuMzM6OTk5OS9uZXdsaXZlL2xpdmUvaGxzLzEvbGl2ZS5tM3U4
 CCTV1綜合,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1綜合,http://tvtj.jxwltx.com:8003/cctv1.m3u8
 CCTV1綜合,https://migu.188766.xyz/?migutoken=943071bebef362fdd5160e721017782a&id=CCTV1&type=yy
 CCTV1綜合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV1綜合,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
@@ -1595,9 +1595,9 @@ CCTV1綜合,http://113.26.202.52:1299/tsfile/live/0001_1.m3u8
 CCTV1綜合,http://116.77.33.98:44330/tsfile/live/0001_1.m3u8
 CCTV1綜合,http://36.136.38.87:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV2財經,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV2財經,http://140.210.9.53:8800/SuanFaZhibo/live/cctv.php?id=cctv2
 CCTV2財經,http://112.27.235.94:8000/hls/2/index.m3u8
-CCTV2財經,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV2財經,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV2財經,http://183.11.239.36:808/hls/20/index.m3u8
 CCTV2財經,http://183.222.242.31:8088/hls/2/index.m3u8
@@ -1623,20 +1623,14 @@ CCTV2財經,http://61.184.46.85:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1
 CCTV2財經,http://61.184.46.85:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-CCTV3綜藝,http://hsza.f3322.net:4000/rtp/238.1.78.170:7232
-CCTV3綜藝,http://183.11.239.36:808/hls/91/index.m3u8
-CCTV3綜藝,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMy9pbmRleC5tM3U4
-CCTV3綜藝,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2OS40Ny4xMDA6MTAwODEvaGxzLzMvaW5kZXgubTN1OA==
-CCTV3綜藝,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOC4yMy4xOTIuMzM6OTk5OS9uZXdsaXZlL2xpdmUvaGxzLzMvbGl2ZS5tM3U4
-CCTV3綜藝,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzMvbGl2ZS5tM3U4
-CCTV3綜藝,http://www.520345.xyz:8188/rtp/239.69.1.122:10370
+
 CCTV3綜藝,http://112.27.235.94:8000/hls/3/index.m3u8
 CCTV3綜藝,http://112.46.105.20:8009/hls/3/index.m3u8
 CCTV3綜藝,http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV3綜藝,http://ddns.xryo.cn:8888/udp/239.112.205.221:5140
 CCTV3綜藝,https://migu.188766.xyz/?migutoken=0fe86024a72d9f19b1e3c8eae9c84304&id=CCTV3&type=yy
 CCTV3綜藝,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-cctv3綜藝,http://218.92.37.174:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0%241920x1080
+CCTV3綜藝,http://218.92.37.174:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0%241920x1080
 CCTV3綜藝,http://223.241.247.214:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3綜藝,http://61.184.46.85:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3綜藝,http://61.184.46.85:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1646,22 +1640,21 @@ CCTV3綜藝,http://183.222.242.31:8088/hls/3/index.m3u8
 CCTV3綜藝,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV3綜藝,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 
-cctv4國際,http://140.210.9.53:8800/SuanFaZhibo/live/cctv.php?id=cctv4
-cctv4國際,http://112.27.235.94:8000/hls/4/index.m3u8
-cctv4國際,http://112.46.105.20:8009/hls/4/index.m3u8
-cctv4國際,http://120.76.248.139/live/bfgd/4200000063.m3u8
-cctv4國際,http://183.11.239.36:808/hls/22/index.m3u8
-cctv4國際,http://183.222.242.31:8088/hls/4/index.m3u8
-cctv4國際,http://218.92.37.174:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0%241920x1080
-cctv4國際,http://223.241.247.214:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-cctv4國際,http://ddns.xryo.cn:8888/udp/239.111.205.40:5140
-cctv4國際,http://ddns.xryo.cn:8888/udp/239.111.205.83:5140
-cctv4國際,http://ddns.xryo.cn:8888/udp/239.111.205.84:5140
-cctv4國際,http://ddns.xryo.cn:8888/udp/239.112.205.202:5140
-cctv4國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNC9pbmRleC5tM3U4
-cctv4國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2OS40Ny4xMDA6MTAwODEvaGxzLzQvaW5kZXgubTN1OA==
-cctv4國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOC4yMy4xOTIuMzM6OTk5OS9uZXdsaXZlL2xpdmUvaGxzLzQvbGl2ZS5tM3U4
-cctv4國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzQvbGl2ZS5tM3U4
+CCTV4國際,http://ddns.xryo.cn:8888/udp/239.111.205.83:5140
+CCTV4國際,http://112.27.235.94:8000/hls/4/index.m3u8
+CCTV4國際,http://112.46.105.20:8009/hls/4/index.m3u8
+CCTV4國際,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV4國際,http://183.11.239.36:808/hls/22/index.m3u8
+CCTV4國際,http://183.222.242.31:8088/hls/4/index.m3u8
+CCTV4國際,http://218.92.37.174:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0%241920x1080
+CCTV4國際,http://223.241.247.214:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4國際,http://ddns.xryo.cn:8888/udp/239.111.205.40:5140
+CCTV4國際,http://ddns.xryo.cn:8888/udp/239.111.205.84:5140
+CCTV4國際,http://ddns.xryo.cn:8888/udp/239.112.205.202:5140
+CCTV4國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNC9pbmRleC5tM3U4
+CCTV4國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2OS40Ny4xMDA6MTAwODEvaGxzLzQvaW5kZXgubTN1OA==
+CCTV4國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOC4yMy4xOTIuMzM6OTk5OS9uZXdsaXZlL2xpdmUvaGxzLzQvbGl2ZS5tM3U4
+CCTV4國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIxOS4xNDcuMy4xMDY6NDQ2Ni9uZXdsaXZlL2xpdmUvaGxzLzQvbGl2ZS5tM3U4
 CCTV4國際,http://tvtj.jxwltx.com:8003/cctv4.m3u8
 CCTV4國際,http://www.520345.xyz:8188/rtp/239.69.1.138:10466
 CCTV4國際,http://www.cdnstv.com:6398/hls/4/index.m3u8
