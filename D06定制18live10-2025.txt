@@ -9,24 +9,71 @@ N英超/sport:限付費會員,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 
 ⚽常用频道⚽,#genre#
 █████████████████████████████████████████████
-Sky英超 Sports PremierLeague FHD,https://7pal.short.gy/ssportspl
-
-
+TVB翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+TVB翡翠臺,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+TVB翡翠臺,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠臺,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠臺,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 TVB翡翠臺,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB翡翠臺,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠臺,http://r.jdshipin.com/62WM7
 TVB翡翠臺,http://r.jdshipin.com/qrfbg
-TVB翡翠臺,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-TVB翡翠臺,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+TVB翡翠臺,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8
+無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
-TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB無線新聞,http://r.jdshipin.com/CkuBd
+🇭🇰安博(香港),#genre#
+█████████████████████████████████████████████
+HOY77,https://cdn6.163189.xyz/163189/hoy
+HOY78,https://cdn.163189.xyz/163189/hoy78
+RTHK31,https://cdn.163189.xyz/163189/rthk31
+RTHK32,https://cdn.163189.xyz/163189/rthk32
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+ViuTV,https://cdn.163189.xyz/163189/viu
+千禧經典,http://o11.163189.xyz/stream/live/tvbc/
+天映頻道,https://o11.163189.xyz/stream/live/typd/
+明珠臺,http://cdn6.163189.xyz/163189/mzt
+無線新聞臺,https://cdn6.163189.xyz/163189/wxxw
+華麗翡翠臺,https://o11.163189.xyz/stream/live/hlt/
+翡翠臺,http://cdn6.163189.xyz/163189/fct
+鳳凰中文臺,https://cdn6.163189.xyz/163189/fhzw
+鳳凰香港臺,https://cdn6.163189.xyz/163189/fhhk
+鳳凰資訊臺,https://cdn6.163189.xyz/163189/fhzx
+鳳凰電影臺,http://www.liyajun.top:7088/udp/239.253.93.81:6247
 
-
+🇭🇰海燕(香港),#genre#
+█████████████████████████████████████████████
+NOW星影臺,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
+NOW星影臺,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
+NOW爆谷臺,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+SUPER FREE,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB功夫臺,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUUozK_Ksd89ERNm_NAUBu1-2KloEDbSnxQMhdxYThJ_6LbsKyNNJMwXn-v4ExhSVYAYpe90fGSiM5BW53IHKkDMMGREPxHKV30dVCx7Y9MdzaMQBGvniPzTaiAUAW5zJNvjWtXvkW_dDeVfcnSeK3KlxrrwYwNGyVJ0dfij06HLRT2ckA9eUdrDJjji4aBmxo9wE8V6AvQ9yIgsvBD3PXFfdxJIxduTZ-1H2ZjEXj_J8.m3u8?u=1756878715
+TVB功夫臺國語,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUUozK_Ksd89ERNm_NAUBu16A4cLsQI1PSl_5O77xEGGMmoK1bKIfd0W4-XoUhk6g_-ClaZeD2_uCh9wtZv6_R4uWrm16gDPabQzEbvP6BDrW5fAMXEZSo7mskImOREoRzvDErR7f-q5ehFokKtLzXSuhiIzfSwyf7_iQTUCMbZFCRNozz0s2AKITmI_p6n22XFW5nB2Mkc4-1QtOYifle-b2c6jMYQtcuF76Wx0xGqsk.m3u8?u=1756878715
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+TVB黃金華劇,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQjvVFeCCpIIGhOgkDXPg7MYz11wusehbcDMnpOMrO4J2kh0BiRIUI4PSi6oclQQxBEa3LWDPEk4alHzn4Ghlw7Ivy2lTajLtB0MZkQ024TiQMWZE-gnOi7sb615G5YK5_06gn4BIF1FZrDDmX-eioR2qBcLVRM2lcVafyXpNfAaMWuoZ4efura2yNaZy2YbITkWxN4XfxdFxzwV3rMZAdFXeAoMCwMCMdVUt8_zqJN0.m3u8?u=1756878715
+千禧經典,http://pull-vivek.speedws.com/live/aaamqxjd.flv
+亞洲劇臺,http://pull-vivek.speedws.com/live/aaayzjt.flv
+明珠臺,http://cdn6.163189.xyz/163189/mzt
+星空音樂,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空衛視,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+美亞電影臺,http://pull-vivek.speedws.com/live/aaamydy.flv
+重溫經典,http://ls.livcv.top/proxy/cibn/xgwm.php?id=12&token=93c7f6178a90895fc8028a8fd7d98b5a
+重溫經典,http://ls.livcv.top/proxy/cibn/xgwm.php?id=13&token=93c7f6178a90895fc8028a8fd7d98b5a
+無線新聞臺,https://cdn6.163189.xyz/163189/wxxw
+華語劇臺,http://pull-vivek.speedws.com/live/aaahyjt.flv
+黃金華劇臺,http://pull-vivek.speedws.com/live/aaahjhj.flv
+黃金翡翠臺,http://pull-vivek.speedws.com/live/aaahjfc.flv
+翡翠臺,http://cdn6.163189.xyz/163189/fct
+翡翠劇集臺,https://6.cdn.loc.cc/163189.php?id=tvbd
+鳳凰中文,https://cdn6.163189.xyz/163189/fhzw
+鳳凰香港,https://cdn6.163189.xyz/163189/fhhk
+鳳凰資訊,https://cdn6.163189.xyz/163189/fhzx
+鳳凰電影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+戲曲臺,http://pull-vivek.speedws.com/live/aaaxqt.flv
 
 極速港臺,#genre#
 █████████████████████████████████████████████
@@ -95,100 +142,260 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 🇭🇰MyTV|TVB,#genre#
 █████████████████████████████████████████████
 
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+翡翠臺,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠臺,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠臺,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠臺,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠臺,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+翡翠臺,http://67.220.67.246:2347/livehttpplay?channel_id=20124
+翡翠臺,http://67.220.67.246:2347/livehttpplay?channel_id=20127
+翡翠臺,http://67.220.67.246:2347/livehttpplay?channel_id=30025
+翡翠臺,http://74.91.26.218:82/live/jade.m3u8
+翡翠臺,http://iptv.4666888.xyz/iptv2A.php?id=34
+翡翠臺,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠臺,http://o11.163189.xyz/stream/tvb/fct/
+翡翠臺,http://r.jdshipin.com/62WM7
+翡翠臺,http://r.jdshipin.com/qrfbg
+翡翠臺,https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠臺,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
+翡翠臺,https://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠臺,https://o11.163189.xyz/stream/tvb/fct/
+翡翠臺,http://php.jdshipin.com/PLTV/iptv.php?id=fct
+翡翠臺,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+翡翠臺,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠臺,http://rihou.cc:555/tv/[Pd]无线翡翠
 
-TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-TVB無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB無線新聞,http://r.jdshipin.com/CkuBd
+TVB翡翠(美加·西岸時區),https://149.30.255.81/api.php?token=955800666&id=760309
+TVB翡翠(美加·東岸時區),https://149.30.255.81/api.php?token=955800666&id=760308
+TVB翡翠(英國時區),https://149.30.255.81/api.php?token=955800666&id=760311
+TVB翡翠(馬來),https://149.30.255.81/api.php?token=955800666&id=778876
+TVB翡翠(歐·新時區),https://149.30.255.81/api.php?token=955800666&id=760310
+TVB翡翠,https://149.30.255.81/api.php?token=955800666&id=778875
+TVB翡翠臺,https://149.30.255.81/api.php?token=955800666&id=742678
+TVB翡翠劇集,https://149.30.255.81/api.php?token=955800666&id=778886
 
-TVB明珠臺,https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB明珠臺,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
-TVB明珠臺,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-TVB明珠臺,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-TVB明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB明珠臺,http://php.jdshipin.com:8880/iptv.php?id=mzt
-TVB明珠臺,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
-TVB明珠臺,http://r.jdshipin.com/ZQ4kN
+翡翠臺4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠臺4K,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠臺4K,http://rihou.cc:555/tv/[Pd]无线翡4K
+無線新聞,http://74.91.26.218:82/live/inews.m3u8
+無線新聞,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+無線新聞,http://67.220.67.246:2347/livehttpplay?channel_id=20123
+無線新聞,http://67.220.67.246:2347/livehttpplay?channel_id=30024
+無線新聞,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+無線新聞,http://php.jdshipin.com/smt.php?id=inews_twn
+無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+無線新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無線新聞,http://r.jdshipin.com/CkuBd
+無線新聞,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+無線新聞,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+無線新聞,https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+無線新聞,http://rihou.cc:555/tv/[Pd]无线新闻
+無綫新聞,https://149.30.255.81/api.php?token=955800666&id=742681
 
+
+明珠臺,http://iptv.4666888.xyz/iptv2A.php?id=29
+明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠臺,https://mytv.cdn.loc.cc/o12.php?id=mzt
+明珠臺,http://67.220.67.246:2347/livehttpplay?channel_id=20125
+明珠臺,http://67.220.67.246:2347/livehttpplay?channel_id=30026
+明珠臺,http://mytv.cdn.loc.cc/o12.php?id=mzt
+明珠臺,http://o11.163189.xyz/stream/tvb/mzt/
+明珠臺,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+明珠臺,http://php.jdshipin.com:8880/iptv.php?id=mzt
+明珠臺,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+明珠臺,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠臺,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+明珠臺,http://r.jdshipin.com/ZQ4kN
+明珠臺,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+明珠臺,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
+明珠臺,https://o11.163189.xyz/stream/tvb/mzt/
+明珠臺,https://tvb.go-iptv.ggff.net/stream/tvb/null-3/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+明珠臺,http://rihou.cc:555/tv/[Pd]无线明珠
+
+Mytv黃金翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
+Mytv黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+Mytv黃金翡翠,http://67.220.67.246:2347/livehttpplay?channel_id=13024
+Mytv黃金翡翠,http://67.220.67.246:2347/livehttpplay?channel_id=13027
+
+TVB娛樂新聞,http://iptv.4666888.xyz/iptv2A.php?id=36
 TVB娛樂新聞,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB娛樂新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-TVB J1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
-TVB J1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
-TVB功夫粵,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+TVB娛樂新聞,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+TVB娛樂新聞,http://rihou.cc:555/tv/[PL]无线娱乐
 
-TVB星河粵,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-TVB星河粵,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河粵,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB星河粵,http://r.jdshipin.com/Voac4
+TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 
+星河(粵),http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 
+TVB星河(國),http://o11.163189.xyz/stream/live/tvbxh/
+TVB星河(國),http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB星河(國),http://rihou.cc:555/tv/[Pd]无线星河
+TVB星河(國),http://rihou.cc:555/tv/[PL]无线星河
+TVB星河(國),http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+TVB星河(國),http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+TVB星河(國),http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河(國),http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河(國),http://r.jdshipin.com/Voac4
+TVB星河(國),http://r.jdshipin.com/sXuuD
+TVB星河(國),https://o11.163189.xyz/stream/live/tvbxh/
 TVB 1,https://6.cdn.loc.cc/163189.php?id=tvb1
-TVB 1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+TVB J1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,https://6.cdn.loc.cc/163189.php?id=j1
 
-
+TVB J2,http://67.220.67.246:2347/livehttpplay?channel_id=20122
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
+TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB Plus,https://cdn6.163189.xyz/163189/tvbp
+TVB Plus,https://cdn9.163189.xyz/smt1.1.php?id=j2_twn
+TVB Plus,https://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
+TVB Plus,https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 
-TVB華麗翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-TVB華麗翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-TVB華麗翡翠臺,http://r.jdshipin.com/thuYX
-TVB翡翠劇集臺,https://6.cdn.loc.cc/163189.php?id=tvbd
+TVB,http://67.220.67.246:2347/livehttpplay?channel_id=30023
+TVB,http://67.220.67.246:2347/livehttpplay?channel_id=30030
+TVB華麗,http://rihou.cc:555/tv/[Pd]无线华丽
+TVB華麗,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+TVB華麗,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB華麗,http://r.jdshipin.com/thuYX
+TVB華麗,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+TVB華麗,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+TVB華麗,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
+TVB劇集臺,https://6.cdn.loc.cc/163189.php?id=tvbd
+TVB劇集臺,http://67.220.67.246:2347/livehttpplay?channel_id=13022
+TVB劇集臺,http://67.220.67.246:2347/livehttpplay?channel_id=13023
+TVB劇集臺,http://67.220.67.246:2347/livehttpplay?channel_id=13026
+TVB體育,http://67.220.67.246:2347/livehttpplay?channel_id=13025
+星空衛視,http://xhyx.gz.cn:1698/hls/35/index.m3u8
+星空衛視,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+美亞電影,http://67.220.67.246:2347/livehttpplay?channel_id=20197
 
-美亞電影(普),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亞電影(普),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亞電影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+MyTV重溫經典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+MyTV重溫經典,http://8.138.7.223/tv/cwjd.php
+MyTV重溫經典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+MyTV重溫經典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+MyTV重溫經典,http://rihou.cc:555/tv/[Pd]重温经典
+MyTV亞洲武俠,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+MyTV亞洲武俠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+MyTV亞洲武俠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+MyTV亞洲武俠,http://rihou.cc:555/tv/[Pd]无线功夫
+
+MyTV千禧經典臺,http://iptv.4666888.xyz/iptv2A.php?id=22
+MyTV千禧經典臺,http://o11.163189.xyz/stream/live/tvbc/
+MyTV千禧經典臺,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+MyTV千禧經典臺,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+MyTV千禧經典臺,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+MyTV千禧經典臺,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+MyTV千禧經典臺,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+MyTV千禧經典臺,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+MyTV千禧經典臺,https://o11.163189.xyz/stream/live/tvbc/
 
 
-TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
+MyTV華麗翡翠臺,http://rihou.cc:555/tv/[FY]无线华丽
+MyTV華麗翡翠臺,https://o11.163189.xyz/stream/live/hlt/
+MyTV華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
+MyTV華麗翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+MyTV華麗翡翠臺,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+MyTV華麗翡翠臺,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+MyTV華麗翡翠臺,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+MyTV華麗翡翠臺(馬來),http://cdn6.163189.xyz/163189/jade
+MyTV華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/
+MyTV華麗翡翠臺(新加坡),https://o11.163189.xyz/stream/live/jade/
 
-TVBS HD,https://smt.passwdword.xyz/Smart.php?id=tvbs
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
-TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『線路3』
-TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『線路2』
-TVBS亞洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『線路8』
-TVBS歡樂,https://smt.passwdword.xyz/Smart.php?id=tvbshuanle_twn
+
+
+myTV 直播足球2台,http://iptvpro.pw:35451//live/swtv123/87654321/137.m3u8
+myTV 直播足球3台,http://iptvpro.pw:35451//live/swtv123/87654321/138.m3u8
+myTV 直播足球4台,http://iptvpro.pw:35451//live/swtv123/87654321/139.m3u8
+myTV 直播足球5台,http://iptvpro.pw:35451//live/swtv123/87654321/140.m3u8
+myTV 直播足球6台,http://iptvpro.pw:35451//live/swtv123/87654321/141.m3u8
+
+
+
+
+
+
+TVB Asia,https://smt.goiptv.us.ci/Tvbasia/playlist.m3u8
+TVB Entertainment,https://smt.goiptv.us.ci/Tvbentertainment/playlist.m3u8
+TVB Classic,https://smt.goiptv.us.ci/Tvbclassic/playlist.m3u8
 
 🇭🇰Now|Viu|,#genre#
 █████████████████████████████████████████████
 Now財經,http://hls.168.us.kg/u/333/master.m3u8
 
+Now直播臺,http://hls.168.us.kg/u/331/master.m3u8
+Now直播臺,http://rihou.cc:555/tv/[Mt]Now直播
+
+
+
+Now新聞,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新聞,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+Now新聞,http://tv123.vvvv.ee/live.php/?ch=1dd8013a447
+Now新聞,https://cdn.163189.xyz/163189/now
+Now新聞,http://tv123.vvvv.ee/live.php/?ch=55e90a80283
+Now新聞,http://hls.168.us.kg/u/332/master.m3u8
+Now新聞,http://67.220.67.246:2347/livehttpplay?channel_id=13000
+Now新聞,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+Now新聞https://pccw-live-cdn-01.akamaized.net/Content/HLS_VOS1/Live/channel(VOS_CH332N)/index.m3u8
+
+Now新聞,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
+Now財經,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
+Now財經,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
+Now財經,http://tv123.vvvv.ee/live.php/?ch=ff4dc3a0284
+Now財經,http://67.220.67.246:2347/livehttpplay?channel_id=13000
+
 Now新聞,http://cdn.163189.xyz/163189/now
 Now新聞,http://hls.168.us.kg/u/332/master.m3u8
 
+Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
+Now Sports 精選,http://tv123.vvvv.ee/live.php/?ch=a3ed5a61285
+Now Sports PRIME(粵),http://hls.168.us.kg/u/630/master.m3u8
+Now Sports PRIME(粵),https://t.ttvb.eu.org/tvb/now-630/index.m3u8
+Now Sports PRIME(英),http://rihou.cc:555/tv/[Mt]Now体育
 
-
+ViuTV,http://rihou.cc:555/tv/[Cx]VIUTV粤
+ViuTV,http://67.220.67.246:2347/livehttpplay?channel_id=30032
+ViuTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTV,http://r.jdshipin.com/TcKr2
 ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,https://stream1.freetv.fun/viutv-9.ctv
-ViuTV,https://stream1.freetv.fun/viutv-13.ctv
-ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTV,https://cdn.163189.xyz/163189/viu
+ViuTV,https://cdn9.163189.xyz/smt1.1.php?id=viu1_twn
+ViuTV,https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
+ViuTV,https://stream1.freetv.fun/viutv-5.ctv
+ViuTV,https://stream1.freetv.fun/viutv-9.ctv
 
-ViuTV6, https://yang-1989.eu.org/live/ViuTVsix
+
+ViuTV6,http://67.220.67.246:2347/livehttpplay?channel_id=20132
+ViuTV6,http://67.220.67.246:2347/livehttpplay?channel_id=30033
+ViuTV6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
+ViuTV6,http://php.jdshipin.com/smt.php?id=viusix_twn
+ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+ViuTV6,https://cdn9.163189.xyz/smt1.1.php?id=viusix_twn
+ViuTV6,https://cdn9.163189.xyz/smt3.1.1.php?id=viusix_twn
 
 🇭🇰HOY|RTHK,#genre#
 █████████████████████████████████████████████
@@ -229,70 +436,439 @@ RTHK36,https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 
 🇭🇰香港鳳凰臺,#genre#
 █████████████████████████████████████████████
-
+香港衛視,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 鳳凰中文,http://ddns.xryo.cn:8888/udp/239.111.205.78:5140
+鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+鳳凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+鳳凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://r.jdshipin.com/cCCzW
+鳳凰中文,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
 鳳凰中文,http://www.520345.xyz:8188/rtp/239.69.2.20:11274
-鳳凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
-鳳凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-9.ctv
-
-
-鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-鳳凰香港,http://r.jdshipin.com/yDoTN
-鳳凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
-鳳凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang---wj-1.ctv
-
-
-鳳凰資訊,http://ddns.xryo.cn:8888/udp/239.111.205.82:5140
-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-鳳凰資訊,http://r.jdshipin.com/0Rp07
-鳳凰資訊,http://www.520345.xyz:8188/rtp/239.69.2.19:11268
-鳳凰資訊,https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
-
-
-⚽國際體育,#genre#
+鳳凰中文,https://cdn6.101.qzz.io/163189/fhzw
+鳳凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
+鳳凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文	
+鳳凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
+國際新聞,#genre#
 █████████████████████████████████████████████
-FIFA+,https://tglmp03.akamaized.net/out/v1/87d046be806149d29fafbca93f50858d/manifest.mpd
-TRACE Sport Stars,https://d29ecfnk3jwkp9.cloudfront.net/out/v1/ade3187e42db432eb46a7039498f0dd0/manifest.mpd
-Supersports 1,http://66.90.99.154:8278/Assp1/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c4eed9bd110fba1006a59b77d1fd7b5a
-Supersports 1,http://66.90.99.154:8278/go_assp1/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e77f981ee241b2c2324baeec50a4ae10
-Supersports 2,http://66.90.99.154:8278/go_assp2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9c9c39ed91bf3e5de6f4a6bfdf276bb8
-Supersports 3,http://66.90.99.154:8278/Assp3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=de86cd7e5dbe3d4345b6058ada2aa2f2
-Supersports 3,http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9884c973e847b74407759679e1343e17
-Supersports 4,http://66.90.99.154:8278/go_assp4/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7e9cc75c8626b166cba326dbb4d8c82b
-Supersports 5,http://66.90.99.154:8278/go_assp5/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6bc97f353c2bf8fc2ee076f1c243e7ad
-WWE,http://66.90.99.154:8278/Wwe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5f12cbe09bca3788cf041616bff437ac
-Astro Golf,http://66.90.99.154:8278/Agolf/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c801b7ebe40b1ea0130540c91cf2b5dd
+3SAT 🇩🇪,https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
+CA - A&E,http://portal5458.com:8080/live/mrrogers20/6872908947/48376.ts
+CA - ABC EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40782.ts
+CA - ABC WEST,http://portal5458.com:8080/live/mrrogers20/6872908947/40780.ts
+CA - ADDIK TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40778.ts
+CA - AMC,http://portal5458.com:8080/live/mrrogers20/6872908947/40776.ts
+CA - ANIMAL PLANET,http://portal5458.com:8080/live/mrrogers20/6872908947/40775.ts
+CA - APTN,http://portal5458.com:8080/live/mrrogers20/6872908947/40774.ts
+CA - ARTV,http://portal5458.com:8080/live/mrrogers20/6872908947/40773.ts
+CA - BBC WORLD NEWS,http://portal5458.com:8080/live/mrrogers20/6872908947/40770.ts
+CA - BNN,http://portal5458.com:8080/live/mrrogers20/6872908947/40768.ts
+CA - CANAL D,http://portal5458.com:8080/live/mrrogers20/6872908947/40765.ts
+CA - CANAL SAVOIR,http://portal5458.com:8080/live/mrrogers20/6872908947/40764.ts
+CA - CARTOON NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40763.ts
+CA - CASA,http://portal5458.com:8080/live/mrrogers20/6872908947/40762.ts
+CA - CBC CALGARY,http://portal5458.com:8080/live/mrrogers20/6872908947/40579.ts
+CA - CBC HALIFAX,http://portal5458.com:8080/live/mrrogers20/6872908947/40570.ts
+CA - CBC MONTREAL,http://portal5458.com:8080/live/mrrogers20/6872908947/40761.ts
+CA - CBC NEWS,http://portal5458.com:8080/live/mrrogers20/6872908947/40760.ts
+CA - CBC OTTAWA,http://portal5458.com:8080/live/mrrogers20/6872908947/40759.ts
+CA - CBC TORONTO,http://portal5458.com:8080/live/mrrogers20/6872908947/40758.ts
+CA - CBC VANCOUVER,http://portal5458.com:8080/live/mrrogers20/6872908947/40757.ts
+CA - CBS EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40756.ts
+CA - CBS WEST,http://portal5458.com:8080/live/mrrogers20/6872908947/40755.ts
+CA - CHCH,http://portal5458.com:8080/live/mrrogers20/6872908947/40754.ts
+CA - CINEPOP,http://portal5458.com:8080/live/mrrogers20/6872908947/40753.ts
+CA - CITY CALGARY,http://portal5458.com:8080/live/mrrogers20/6872908947/40578.ts
+CA - CITY MONTREAL,http://portal5458.com:8080/live/mrrogers20/6872908947/40598.ts
+CA - CITY TORONTO,http://portal5458.com:8080/live/mrrogers20/6872908947/40752.ts
+CA - CITY VANCOUVER,http://portal5458.com:8080/live/mrrogers20/6872908947/40751.ts
+CA - CMT CANADA,http://portal5458.com:8080/live/mrrogers20/6872908947/40750.ts
+CA - CNBC,http://portal5458.com:8080/live/mrrogers20/6872908947/40749.ts
+CA - CNN INTERNATIONAL,http://portal5458.com:8080/live/mrrogers20/6872908947/40747.ts
+CA - CNN,http://portal5458.com:8080/live/mrrogers20/6872908947/40748.ts
+CA - COMEDY EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40746.ts
+CA - COOKING CHANNEL,http://portal5458.com:8080/live/mrrogers20/6872908947/40743.ts
+CA - COTTAGE LIFE,http://portal5458.com:8080/live/mrrogers20/6872908947/40741.ts
+CA - CP24,http://portal5458.com:8080/live/mrrogers20/6872908947/40740.ts
+CA - CPAC FRENCH,http://portal5458.com:8080/live/mrrogers20/6872908947/40738.ts
+CA - CPAC,http://portal5458.com:8080/live/mrrogers20/6872908947/40739.ts
+CA - CRAVE 1 / TMN 1,http://portal5458.com:8080/live/mrrogers20/6872908947/40656.ts
+CA - CRAVE 2 / TMN 2,http://portal5458.com:8080/live/mrrogers20/6872908947/40655.ts
+CA - CRAVE 3 / TMN 3,http://portal5458.com:8080/live/mrrogers20/6872908947/40654.ts
+CA - CRAVE 4 / TMN 4,http://portal5458.com:8080/live/mrrogers20/6872908947/40653.ts
+CA - CRIME & INVESTIGATION,http://portal5458.com:8080/live/mrrogers20/6872908947/40737.ts
+CA - CTV 2 VANCOUVER,http://portal5458.com:8080/live/mrrogers20/6872908947/40736.ts
+CA - CTV CALGARY,http://portal5458.com:8080/live/mrrogers20/6872908947/40577.ts
+CA - CTV Drama,http://portal5458.com:8080/live/mrrogers20/6872908947/40766.ts
+CA - CTV HALIFAX,http://portal5458.com:8080/live/mrrogers20/6872908947/40595.ts
+CA - CTV MONTREAL,http://portal5458.com:8080/live/mrrogers20/6872908947/40585.ts
+CA - CTV NEWS NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40735.ts
+CA - CTV OTTAWA,http://portal5458.com:8080/live/mrrogers20/6872908947/40734.ts
+CA - CTV TORONTO,http://portal5458.com:8080/live/mrrogers20/6872908947/40733.ts
+CA - CTV VANCOUVER,http://portal5458.com:8080/live/mrrogers20/6872908947/40732.ts
+CA - CTV2 OTTAWA,http://portal5458.com:8080/live/mrrogers20/6872908947/40731.ts
+CA - CW 11,http://portal5458.com:8080/live/mrrogers20/6872908947/40730.ts
+CA - DAYSTAR TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40729.ts
+CA - DEJAVIEW,http://portal5458.com:8080/live/mrrogers20/6872908947/40728.ts
+CA - DISCOVERY SCIENCE,http://portal5458.com:8080/live/mrrogers20/6872908947/40726.ts
+CA - DISCOVERY,http://portal5458.com:8080/live/mrrogers20/6872908947/40727.ts
+CA - DISNEY JR,http://portal5458.com:8080/live/mrrogers20/6872908947/40723.ts
+CA - DISNEY,http://portal5458.com:8080/live/mrrogers20/6872908947/40725.ts
+CA - DIY NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40722.ts
+CA - DOCUMENTARY,http://portal5458.com:8080/live/mrrogers20/6872908947/40721.ts
+CA - DTOUR,http://portal5458.com:8080/live/mrrogers20/6872908947/40720.ts
+CA - E! CANADA,http://portal5458.com:8080/live/mrrogers20/6872908947/40719.ts
+CA - ENCORE 1 EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40718.ts
+CA - ENCORE 2 EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40717.ts
+CA - EVASION,http://portal5458.com:8080/live/mrrogers20/6872908947/40716.ts
+CA - FAMILY Channel,http://portal5458.com:8080/live/mrrogers20/6872908947/40714.ts
+CA - FAMILY CHRGD,http://portal5458.com:8080/live/mrrogers20/6872908947/40715.ts
+CA - FIGHT NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40711.ts
+CA - FOOD NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40710.ts
+CA - FOX EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40709.ts
+CA - FOX NEWS,http://portal5458.com:8080/live/mrrogers20/6872908947/40708.ts
+CA - FOX WEST,http://portal5458.com:8080/live/mrrogers20/6872908947/40707.ts
+CA - FX,http://portal5458.com:8080/live/mrrogers20/6872908947/48378.ts
+CA - FXX,http://portal5458.com:8080/live/mrrogers20/6872908947/48379.ts
+CA - Game Show Network,http://portal5458.com:8080/live/mrrogers20/6872908947/40700.ts
+CA - Game TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40704.ts
+CA - GLOBAL TORONTO,http://portal5458.com:8080/live/mrrogers20/6872908947/40703.ts
+CA - GLOBAL VANCOUVER,http://portal5458.com:8080/live/mrrogers20/6872908947/40702.ts
+CA - GOLF,http://portal5458.com:8080/live/mrrogers20/6872908947/40701.ts
+CA - GUSTO,http://portal5458.com:8080/live/mrrogers20/6872908947/40699.ts
+CA - HBO 1,http://portal5458.com:8080/live/mrrogers20/6872908947/40697.ts
+CA - HBO 2,http://portal5458.com:8080/live/mrrogers20/6872908947/40696.ts
+CA - HGTV,http://portal5458.com:8080/live/mrrogers20/6872908947/40695.ts
+CA - HISTORIO,http://portal5458.com:8080/live/mrrogers20/6872908947/40694.ts
+CA - History Channel 2,http://portal5458.com:8080/live/mrrogers20/6872908947/40698.ts
+CA - HISTORY,http://portal5458.com:8080/live/mrrogers20/6872908947/40693.ts
+CA - HLN,http://portal5458.com:8080/live/mrrogers20/6872908947/40692.ts
+CA - HOPE TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40593.ts
+CA - ICI MONTREAL,http://portal5458.com:8080/live/mrrogers20/6872908947/40691.ts
+CA - ICI VANCOUVER,http://portal5458.com:8080/live/mrrogers20/6872908947/40690.ts
+CA - Investigation Discovery,http://portal5458.com:8080/live/mrrogers20/6872908947/40689.ts
+CA - KNOWLEDGE KIDS,http://portal5458.com:8080/live/mrrogers20/6872908947/40687.ts
+CA - KTLA,http://portal5458.com:8080/live/mrrogers20/6872908947/40686.ts
+CA - LCN,http://portal5458.com:8080/live/mrrogers20/6872908947/40685.ts
+CA - LIFETIME,http://portal5458.com:8080/live/mrrogers20/6872908947/40684.ts
+CA - MAKEFUL,http://portal5458.com:8080/live/mrrogers20/6872908947/40597.ts
+CA - MAX,http://portal5458.com:8080/live/mrrogers20/6872908947/40683.ts
+CA - MEDIASET ITALIA CANADA,http://portal5458.com:8080/live/mrrogers20/6872908947/40581.ts
+CA - MIRACLE,http://portal5458.com:8080/live/mrrogers20/6872908947/40681.ts
+CA - MLB NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40596.ts
+CA - MOI CIE,http://portal5458.com:8080/live/mrrogers20/6872908947/40680.ts
+CA - MTIME,http://portal5458.com:8080/live/mrrogers20/6872908947/40679.ts
+CA - MUCH MUSIC,http://portal5458.com:8080/live/mrrogers20/6872908947/40676.ts
+CA - MUSIQUE PLUS,http://portal5458.com:8080/live/mrrogers20/6872908947/40675.ts
+CA - NAT GEO,http://portal5458.com:8080/live/mrrogers20/6872908947/40674.ts
+CA - NBA TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40601.ts
+CA - NBC EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40600.ts
+CA - NBC WEST,http://portal5458.com:8080/live/mrrogers20/6872908947/40599.ts
+CA - NFL NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40584.ts
+CA - NICK,http://portal5458.com:8080/live/mrrogers20/6872908947/40586.ts
+CA - NTV,http://portal5458.com:8080/live/mrrogers20/6872908947/40643.ts
+CA - OLN,http://portal5458.com:8080/live/mrrogers20/6872908947/40642.ts
+CA - OMNI 1,http://portal5458.com:8080/live/mrrogers20/6872908947/40641.ts
+CA - OMNI 2,http://portal5458.com:8080/live/mrrogers20/6872908947/40640.ts
+CA - ONE,http://portal5458.com:8080/live/mrrogers20/6872908947/40637.ts
+CA - OUTTV,http://portal5458.com:8080/live/mrrogers20/6872908947/40636.ts
+CA - PBS EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40634.ts
+CA - PEACH TREE,http://portal5458.com:8080/live/mrrogers20/6872908947/40632.ts
+CA - PRISE,http://portal5458.com:8080/live/mrrogers20/6872908947/40631.ts
+CA - RDI,http://portal5458.com:8080/live/mrrogers20/6872908947/40630.ts
+CA - RDS 2,http://portal5458.com:8080/live/mrrogers20/6872908947/40628.ts
+CA - RDS INFO,http://portal5458.com:8080/live/mrrogers20/6872908947/40627.ts
+CA - RDS,http://portal5458.com:8080/live/mrrogers20/6872908947/40629.ts
+CA - SERIS,http://portal5458.com:8080/live/mrrogers20/6872908947/40626.ts
+CA - SHOPPING,http://portal5458.com:8080/live/mrrogers20/6872908947/40625.ts
+CA - SHOWCASE EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40624.ts
+CA - SILVER SCREEN CLASSICS,http://portal5458.com:8080/live/mrrogers20/6872908947/40623.ts
+CA - SLICE,http://portal5458.com:8080/live/mrrogers20/6872908947/40622.ts
+CA - SMITHSONIAN,http://portal5458.com:8080/live/mrrogers20/6872908947/40621.ts
+CA - SPACE,http://portal5458.com:8080/live/mrrogers20/6872908947/40620.ts
+CA - SPORTSMAN CHANNEL CANADA,http://portal5458.com:8080/live/mrrogers20/6872908947/40575.ts
+CA - SPORTSNET 360,http://portal5458.com:8080/live/mrrogers20/6872908947/40618.ts
+CA - SPORTSNET EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40617.ts
+CA - SPORTSNET ONE,http://portal5458.com:8080/live/mrrogers20/6872908947/40616.ts
+CA - SPORTSNET ONTARIO,http://portal5458.com:8080/live/mrrogers20/6872908947/40615.ts
+CA - SPORTSNET PACIFIC,http://portal5458.com:8080/live/mrrogers20/6872908947/40614.ts
+CA - SPORTSNET WEST,http://portal5458.com:8080/live/mrrogers20/6872908947/40613.ts
+CA - SUPER ECRAN 1,http://portal5458.com:8080/live/mrrogers20/6872908947/40612.ts
+CA - SUPER ECRAN 2,http://portal5458.com:8080/live/mrrogers20/6872908947/40611.ts
+CA - SUPER ECRAN 3,http://portal5458.com:8080/live/mrrogers20/6872908947/40610.ts
+CA - SUPER ECRAN 4,http://portal5458.com:8080/live/mrrogers20/6872908947/40609.ts
+CA - TCM,http://portal5458.com:8080/live/mrrogers20/6872908947/40608.ts
+CA - TELE LATINO,http://portal5458.com:8080/live/mrrogers20/6872908947/40607.ts
+CA - TELE QUEBEC,http://portal5458.com:8080/live/mrrogers20/6872908947/40606.ts
+CA - TELE TOON EAST,http://portal5458.com:8080/live/mrrogers20/6872908947/40605.ts
+CA - TELE TOON FRENCH,http://portal5458.com:8080/live/mrrogers20/6872908947/40604.ts
+CA - TFO,http://portal5458.com:8080/live/mrrogers20/6872908947/40659.ts
+CA - THE WEATHER NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40658.ts
+CA - TLC CANADA,http://portal5458.com:8080/live/mrrogers20/6872908947/40657.ts
+CA - TRAVEL   ESCAPE,http://portal5458.com:8080/live/mrrogers20/6872908947/40580.ts
+CA - TREEHOUSE,http://portal5458.com:8080/live/mrrogers20/6872908947/40652.ts
+CA - TSN 1,http://portal5458.com:8080/live/mrrogers20/6872908947/40651.ts
+CA - TSN 2,http://portal5458.com:8080/live/mrrogers20/6872908947/40650.ts
+CA - TSN 3,http://portal5458.com:8080/live/mrrogers20/6872908947/40649.ts
+CA - TSN 4,http://portal5458.com:8080/live/mrrogers20/6872908947/40648.ts
+CA - TSN 5,http://portal5458.com:8080/live/mrrogers20/6872908947/40647.ts
+CA - TV5 QUEBEC,http://portal5458.com:8080/live/mrrogers20/6872908947/40646.ts
+CA - TVA SPORTS,http://portal5458.com:8080/live/mrrogers20/6872908947/40645.ts
+CA - TVO,http://portal5458.com:8080/live/mrrogers20/6872908947/40644.ts
+CA - UNIS TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40588.ts
+CA - VIE,http://portal5458.com:8080/live/mrrogers20/6872908947/40673.ts
+CA - VISION,http://portal5458.com:8080/live/mrrogers20/6872908947/40672.ts
+CA - VRAK TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40671.ts
+CA - W NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/40670.ts
+CA - WGN,http://portal5458.com:8080/live/mrrogers20/6872908947/40668.ts
+CA - Wild TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40667.ts
+CA - WSBK,http://portal5458.com:8080/live/mrrogers20/6872908947/40666.ts
+CA - YES TV,http://portal5458.com:8080/live/mrrogers20/6872908947/40665.ts
+CA - YTV E,http://portal5458.com:8080/live/mrrogers20/6872908947/40663.ts
+CA - YTV West,http://portal5458.com:8080/live/mrrogers20/6872908947/40662.ts
+CA - Z TELE,http://portal5458.com:8080/live/mrrogers20/6872908947/40661.ts
+CA - ZESTE,http://portal5458.com:8080/live/mrrogers20/6872908947/40660.ts
+Dongguan Life Information,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1729729688&ttl=3600&key=51bc3d05bf1a5bf32ebb25742b84d19f
+Dongguan News Summary,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1729661201&ttl=3600&key=efe2f59e0af760316837279011901742
+DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+HRT 1,https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
+HRT 2,https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd
+HRT 3,https://cdn1oiv.akamaized.net/hrtliveorigin/hrt3.smil/1/manifest.mpd
+RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+SpoTv Now,https://slive.mana2.my/SpotvNow/index.mpd
+US | ACC Network,http://portal5458.com:8080/live/mrrogers20/6872908947/46401.ts
+US | Altitude Sports,http://portal5458.com:8080/live/mrrogers20/6872908947/48335.ts
+US | AT&T SportsNet Pittsburgh,http://portal5458.com:8080/live/mrrogers20/6872908947/47473.ts
+US | Bein Sports En Español,http://portal5458.com:8080/live/mrrogers20/6872908947/46352.ts
+US | Bein Sports Xtra,http://portal5458.com:8080/live/mrrogers20/6872908947/48383.ts
+US | Bein Sports,http://portal5458.com:8080/live/mrrogers20/6872908947/15922.ts
+US | BIG TEN NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/23355.ts
+US | CBS Sports Network HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15944.ts
+US | Chicago Sports Network (CHSN),http://portal5458.com:8080/live/mrrogers20/6872908947/28741.ts
+US | ESPN 2,http://portal5458.com:8080/live/mrrogers20/6872908947/15950.ts
+US | ESPN HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15951.ts
+US | ESPN News HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15952.ts
+US | ESPN NEWS,http://portal5458.com:8080/live/mrrogers20/6872908947/23213.ts
+US | ESPN U HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15949.ts
+US | ESPN U,http://portal5458.com:8080/live/mrrogers20/6872908947/22536.ts
+US | Fight Network,http://portal5458.com:8080/live/mrrogers20/6872908947/15901.ts
+US | FOX DEPORTES,http://portal5458.com:8080/live/mrrogers20/6872908947/23316.ts
+US | Fox Soccer Plus,http://portal5458.com:8080/live/mrrogers20/6872908947/23315.ts
+US | Fox Sports 1 HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15948.ts
+US | Fox Sports 1,http://portal5458.com:8080/live/mrrogers20/6872908947/22526.ts
+US | Fox Sports 2 HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15947.ts
+US | Fox Sports 2,http://portal5458.com:8080/live/mrrogers20/6872908947/22525.ts
+US | Golf HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15943.ts
+US | MARQUEE SPORTS NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/47466.ts
+US | MAV TV,http://portal5458.com:8080/live/mrrogers20/6872908947/25946.ts
+US | MLB Network HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15904.ts
+US | MLB Network,http://portal5458.com:8080/live/mrrogers20/6872908947/22507.ts
+US | Monumental Sports Network,http://portal5458.com:8080/live/mrrogers20/6872908947/48523.ts
+US | MSG +,http://portal5458.com:8080/live/mrrogers20/6872908947/23289.ts
+US | MSG 2,http://portal5458.com:8080/live/mrrogers20/6872908947/48366.ts
+US | MSG,http://portal5458.com:8080/live/mrrogers20/6872908947/23290.ts
+US | NBA HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15946.ts
+US | NBA TV,http://portal5458.com:8080/live/mrrogers20/6872908947/22501.ts
+US | NBC Golf,http://portal5458.com:8080/live/mrrogers20/6872908947/22500.ts
+US | NESN,http://portal5458.com:8080/live/mrrogers20/6872908947/47467.ts
+US | NFL Channel HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15945.ts
+US | NFL Network HD,http://portal5458.com:8080/live/mrrogers20/6872908947/22491.ts
+US | NFL Network SD,http://portal5458.com:8080/live/mrrogers20/6872908947/22490.ts
+US | NHL Network HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15941.ts
+US | NLSE,http://portal5458.com:8080/live/mrrogers20/6872908947/23327.ts
+US | SEC NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/23258.ts
+US | Space City Home Network,http://portal5458.com:8080/live/mrrogers20/6872908947/47475.ts
+US | Sports Net 360 HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15938.ts
+US | SPORTSMAN CHANNEL,http://portal5458.com:8080/live/mrrogers20/6872908947/23204.ts
+US | SportsNet NY (SNY),http://portal5458.com:8080/live/mrrogers20/6872908947/46400.ts
+US | Sportsnet One,http://portal5458.com:8080/live/mrrogers20/6872908947/15930.ts
+US | SportsNet Ontario HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15937.ts
+US | Sportsnet West HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15903.ts
+US | Sportsnet World,http://portal5458.com:8080/live/mrrogers20/6872908947/15936.ts
+US | Tennis Channel HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15940.ts
+US | Tennis Channel,http://portal5458.com:8080/live/mrrogers20/6872908947/22467.ts
+US | TSN 1 HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15929.ts
+US | TSN 2 HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15928.ts
+US | TSN 3 HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15927.ts
+US | TSN 4 HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15926.ts
+US | TSN 5 HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15925.ts
+US | UNIVISION TUDN,http://portal5458.com:8080/live/mrrogers20/6872908947/23235.ts
+US | WORLD FISHING NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/23203.ts
+US | WWE,http://portal5458.com:8080/live/mrrogers20/6872908947/47642.ts
+US | YES NETWORK,http://portal5458.com:8080/live/mrrogers20/6872908947/23230.ts
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+US | ABC News,http://portal5458.com:8080/live/mrrogers20/6872908947/15967.ts
+US | AL JAZEERA NEWS ENGLISH HD,http://portal5458.com:8080/live/mrrogers20/6872908947/23361.ts
+US | Bloomberg,http://portal5458.com:8080/live/mrrogers20/6872908947/12739.ts
+US | CNN,http://portal5458.com:8080/live/mrrogers20/6872908947/23340.ts
+US | CNN HD,http://portal5458.com:8080/live/mrrogers20/6872908947/15934.ts
+US | FOX BUSINESS HD,http://portal5458.com:8080/live/mrrogers20/6872908947/23320.ts
+US | Fox News,http://portal5458.com:8080/live/mrrogers20/6872908947/22530.ts
+US | MS NOW (MSNBC),http://portal5458.com:8080/live/mrrogers20/6872908947/22506.ts
+US | NEWS 12 LONG ISLAND,http://portal5458.com:8080/live/mrrogers20/6872908947/23216.ts
+US | NEWS 12 NEW JERSEY,http://portal5458.com:8080/live/mrrogers20/6872908947/23215.ts
+US | RT NEWS,http://portal5458.com:8080/live/mrrogers20/6872908947/23259.ts
+US | The Weather Channel,http://portal5458.com:8080/live/mrrogers20/6872908947/22464.ts
+US | One American News,http://portal5458.com:8080/live/mrrogers20/6872908947/47551.ts
+US | Newsmax TV,http://portal5458.com:8080/live/mrrogers20/6872908947/47552.ts
+US | C-SPAN,http://portal5458.com:8080/live/mrrogers20/6872908947/48417.ts
 
-SPOTV 1 HD,http://66.90.99.154:8278/go_spotv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=43299c27380e462a538b4a7f0fcf2fc5
-Skysports F1,http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=288c43cdc92c04a9fcf69c16f2886982
-Skysports Cricket,http://66.90.99.154:8278/tiankongcricket/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f67c20bc2101ecd16ac171eaaa799269
-Skysports EPL,http://66.90.99.154:8278/tiankongepl/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=aaede1197f8b1439a21aea545a0ca0a7
-Skysports Golf,http://66.90.99.154:8278/tiankonggolf/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fafce60801da3614dc3ae753c9d57283
-Skysports Main Event,http://66.90.99.154:8278/tiankongmain/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=76b5525f10f5309a5e4285ca4ad8c3bd
-Skysports Racing,http://66.90.99.154:8278/tiankongracing/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=edd6a89d1c162ad9793d40a6fc32a3a3
-Skysports Mix,http://66.90.99.154:8278/tiankongmix/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8084b839dfeafca486e4a1094a5e1d5f
-CCTV-5,http://66.90.99.154:8278/cctv5/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cafe0387584f5baee0a014e85a028960
-CCTV-5+,http://66.90.99.154:8278/cctv5plus/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=34ded99800e7d73d06e6be3ac5c2bb02
-Rugby Pass TV,http://66.90.99.154:8278/Rugbypasstv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9619d005f7fe429ba09fb8bd97bfad9f
 
-Sport TV+,https://maldivesn.net/hilaytv/sporttvplus
-Sport TV 1,https://maldivesn.net/hilaytv/sporttv1
-Sport TV 2,https://maldivesn.net/hilaytv/sporttv2
-Sport TV 3,https://maldivesn.net/hilaytv/sporttv3
-Sport TV 4,https://maldivesn.net/hilaytv/sporttv4
-Sport TV 5,https://maldivesn.net/hilaytv/sporttv5
-Sport TV 6,https://maldivesn.net/hilaytv/sporttv6
-Abu Dhabi Sports 1,https://maldivesn.net/hilaytv/abudhabi1
-Abu Dhabi Sports 2,https://maldivesn.net/hilaytv/abudhabi2
+🏆國際體育,#genre#
+█████████████████████████████████████████████
+Arena Sport 2,https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
+BAHRAIN SPORTS 1 🇧🇭,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+BAHRAIN SPORTS 2 🇧🇭,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+Bein Sport 01,http://kstv.us:8080/live/N427DpynGE/7049166651/12554.ts
+Bein Sport 01,http://portal5458.com:8080/live/feef0CwPbG/0833299410/12554.m3u8
+Bein Sport 01,http://portal5458.com:8080/live/mrrogers20/6872908947/12554.ts
+Bein Sport 01,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+Bein Sport 02,http://kstv.us:8080/live/N427DpynGE/7049166651/12553.ts
+Bein Sport 02,http://portal5458.com:8080/live/feef0CwPbG/0833299410/12553.m3u8
+Bein Sport 04,http://kstv.us:8080/live/N427DpynGE/7049166651/12551.ts
+Bein Sport 04,http://portal5458.com:8080/live/feef0CwPbG/0833299410/12551.m3u8
+Bein Sport 04,http://portal5458.com:8080/live/mrrogers20/6872908947/12551.ts
+Bein Sport 05,http://kstv.us:8080/live/N427DpynGE/7049166651/12550.ts
+Bein Sport 05,http://portal5458.com:8080/live/feef0CwPbG/0833299410/12550.m3u8
+Bein Sport 05,http://portal5458.com:8080/live/mrrogers20/6872908947/12550.ts
+Bein Sport 06,http://kstv.us:8080/live/N427DpynGE/7049166651/12549.ts
+Bein Sport 06,http://portal5458.com:8080/live/feef0CwPbG/0833299410/12549.m3u8
+Bein Sport 07,http://kstv.us:8080/live/N427DpynGE/7049166651/12548.ts
+Bein Sport 07,http://portal5458.com:8080/live/feef0CwPbG/0833299410/12548.m3u8
+Bein Sport 09  XTRA 1,http://kstv.us:8080/live/N427DpynGE/7049166651/12546.ts
+Bein Sport 09  XTRA 1,http://portal5458.com:8080/live/feef0CwPbG/0833299410/12546.m3u8
+Bein Sport 09  XTRA 1,http://portal5458.com:8080/live/mrrogers20/6872908947/12546.ts
+Bein Sport 10 XTRA 2,http://portal5458.com:8080/live/mrrogers20/6872908947/12545.ts
+Bein Sport XTRA,https://jmp2.uk/stvp-USAJ4300001Q7
+Dewan Negara,https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
+DIRECTV SPORTS 2,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47094.m3u8
+DIRECTV SPORTS HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47096.m3u8
+English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+ESPN 2 MEXICO FHD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47098.m3u8
+ESPN 2 MEXICO,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47097.m3u8
+ESPN 2 SUR HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47100.m3u8
+ESPN 2 SUR,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47099.m3u8
+ESPN 3 SUR HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47104.m3u8
+ESPN 3 SUR,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47103.m3u8
+ESPN DEPORTES HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47105.m3u8
+ESPN MEXICO HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47107.m3u8
+ESPN MEXICO,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47106.m3u8
+ESPN NETWORK MEXICO,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47108.m3u8
+ESPN PLUS MEXICO HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47110.m3u8
+ESPN PLUS MEXICO,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47109.m3u8
+ESPN8: The Ocho,https://jmp2.uk/stvp-US34000040T
+EUROSPORT 1 HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47854.m3u8
+Eurosport 1,http://lunar.pm:8080/Mrdon/4782314540/20965
+Eurosport 2,http://lunar.pm:8080/Mrdon/4782314540/20966
+Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+FanDuel TV Extra,https://jmp2.uk/stvp-US1400012RF
+FIFA+,https://jmp2.uk/stvp-USBD12000255B
+FOX DEPORTES HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47115.m3u8
+FOX DEPORTES HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47116.m3u8
+Fox Sports 1 Premium Chile HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47117.m3u8
+FOX SPORTS 1,http://lunar.pm:8080/Mrdon/4782314540/9555
+FOX SPORTS 2 MEXICO HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47119.m3u8
+FOX SPORTS 2 MEXICO,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47118.m3u8
+FOX SPORTS 2 SUR HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47121.m3u8
+FOX SPORTS 2 SUR,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47120.m3u8
+FOX SPORTS 2,http://lunar.pm:8080/Mrdon/4782314540/9554
+FOX SPORTS 3 MEXICO HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47123.m3u8
+FOX SPORTS 3 MEXICO,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47122.m3u8
+FOX SPORTS 3 SUR,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47124.m3u8
+Fox Sports 504,https://7pal.short.gy/fox504au
+Fox Sports 506,https://7pal.short.gy/fox506au
+FOX SPORTS MEXICO HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47128.m3u8
+FOX SPORTS MEXICO,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47127.m3u8
+FOX SPORTS PREMIUM HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47129.m3u8
+FOX SPORTS SUR HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47131.m3u8
+FOX SPORTS SUR,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47130.m3u8
+FOX Sports,https://jmp2.uk/stvp-US2700001QY
+GOLF CHANNEL LATINO HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47133.m3u8
+GOLF CHANNEL SUR,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47135.m3u8
+Horror Channel,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47781.m3u8
+Hub Premier 1,https://7pal.short.gy/HPremier1
+Hub Premier 4 HD,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
+Hub Premier 6 HD,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
+Hub Premier 7 HD,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
+Hub Premier 8 HD,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
+Hub Sports 2,https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+Hub Sports 3,https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+LFC TV,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47857.m3u8
+MLB Network,http://lunar.pm:8080/Mrdon/4782314540/9548
+MSG SportsZone,https://jmp2.uk/stvp-USBD300021B8
+NBC SPORTS (BAY AREA) HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/28744.m3u8
+NBC SPORTS (BOSTON) HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/28743.m3u8
+NBC Sports (California) HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/28742.m3u8
+NBC Sports (Philadelphia) HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/28738.m3u8
+NBC Sports NOW,https://jmp2.uk/stvp-USBD420002446
+Nova Sport 1,https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT1_Portable.ism/playlist.mpd
+Nova Sport 2,https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT2_Portable.ism/playlist.mpd
+ON O2TV,https://freem3u.xyz/api/live/play.m3u8?vid=136
+ON Vie DRAMAS,https://freem3u.xyz/api/live/play.m3u8?vid=177
+Premier Sport 1,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47858.m3u8
+Premier Sport 2,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47859.m3u8
+Racing TV,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47860.m3u8
+Rangers TV,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47861.m3u8
+RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+Sport 1,https://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd
+SPORTSNET 360,http://lunar.pm:8080/Mrdon/4782314540/67077
+Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
+TNT Sports 1,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47850.m3u8
+TNT Sports 1,https://7pal.short.gy/tntspts1
+TNT Sports 1,https://7pal.short.gy/tsn1ca
+TNT Sports 2,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47851.m3u8
+TNT Sports 2,https://7pal.short.gy/tsn2ca
+TNT Sports 3,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47852.m3u8
+TNT Sports 3,https://7pal.short.gy/tntspts3
+TNT Sports 3,https://7pal.short.gy/tsn3ca
+TNT Sports 4,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47853.m3u8
+TNT Sports 4,https://7pal.short.gy/tsn4ca
+TNT Sports 5,https://7pal.short.gy/tsn5ca
+TNT-BT Sport 1,http://lunar.pm:8080/Mrdon/4782314540/100775
+TNT-BT Sport 2,http://lunar.pm:8080/Mrdon/4782314540/100776
+TNT-BT Sport 3,http://lunar.pm:8080/Mrdon/4782314540/100777
+TNT-BT Sport 4,http://lunar.pm:8080/Mrdon/4782314540/100778
+TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+TSN 1,http://1tv41.icu:8080/Vzy4FT/617102/47440
+TSN 1,http://1tv41.icu:8080/Vzy4FT/617102/57292
+TSN 1,http://lunar.pm:8080/Mrdon/4782314540/67052
+TSN 1,http://portal5458.com:8080/live/feef0CwPbG/0833299410/40651.m3u8
+TSN 2,http://1tv41.icu:8080/Vzy4FT/617102/16129
+TSN 2,http://1tv41.icu:8080/Vzy4FT/617102/47442
+TSN 2,http://lunar.pm:8080/Mrdon/4782314540/67050
+TSN 2,http://portal5458.com:8080/live/feef0CwPbG/0833299410/40650.m3u8
+TSN 3,http://1tv41.icu:8080/Vzy4FT/617102/10389
+TSN 3,http://1tv41.icu:8080/Vzy4FT/617102/47444
+TSN 3,http://lunar.pm:8080/Mrdon/4782314540/67048
+TSN 3,http://portal5458.com:8080/live/feef0CwPbG/0833299410/40649.m3u8
+TSN 4,http://1tv41.icu:8080/Vzy4FT/617102/66783
+TSN 4,http://lunar.pm:8080/Mrdon/4782314540/67046
+TSN 4,http://portal5458.com:8080/live/feef0CwPbG/0833299410/40648.m3u8
+TSN 5,http://1tv41.icu:8080/Vzy4FT/617102/16131
+TSN 5,http://1tv41.icu:8080/Vzy4FT/617102/57295
+TSN 5,http://1tv41.icu:8080/Vzy4FT/617102/57467
+TSN 5,http://portal5458.com:8080/live/feef0CwPbG/0833299410/40647.m3u8
+TUDN HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47140.m3u8
+TVB VIỆT NAM,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+TVC DEPORTES MEXICO HD,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47141.m3u8
+TVP Sport,https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
+UK - SKY SPORTS ARENA,http://2k.tstvs.com/691eba43db76f/d07ee0f057/577944.ts
+UK - SKY SPORTS DARTS,http://2k.tstvs.com/691eba43db76f/d07ee0f057/577942.ts
+UK-ASTRO SPORTS 1 HD,http://2k.tstvs.com/691eba43db76f/d07ee0f057/828098.ts
+UK-ASTRO SPORTS 2 HD,http://2k.tstvs.com/691eba43db76f/d07ee0f057/828097.ts
+UK-ASTRO SPORTS 3 HD,http://2k.tstvs.com/691eba43db76f/d07ee0f057/828096.ts
+UK-ASTRO SPORTS 4 HD,http://2k.tstvs.com/691eba43db76f/d07ee0f057/828095.ts
+UK-ASTRO SPORTS 5 HD,http://2k.tstvs.com/691eba43db76f/d07ee0f057/828094.ts
+UK-BEIN SPORTS 1 HD,http://2k.tstvs.com/691eba43db76f/d07ee0f057/828072.ts
+UK-BEIN SPORTS 2 HD,http://2k.tstvs.com/691eba43db76f/d07ee0f057/828071.ts
+UK-BEIN SPORTS 3 HD,http://2k.tstvs.com/691eba43db76f/d07ee0f057/828070.ts
+UK-SKY SPORTS MAIN EVENT,http://2k.tstvs.com/691eba43db76f/d07ee0f057/577947.ts
+UK-SKY SPORTS PREMIER LEAGUE,http://2k.tstvs.com/691eba43db76f/d07ee0f057/577946.ts
+VTV,http://portal5458.com:8080/live/feef0CwPbG/0833299410/47142.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
 
 
 🇭🇰Astro|娛樂,#genre#
@@ -308,47 +884,162 @@ Astro 歡喜臺,http://php.jdshipin.com/smt.php?id=Huahee
 Astro 愛奇斯特,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 亞洲武俠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-🇭🇰香港|地區,#genre#
+🇭🇰香港|CHC,#genre#
 █████████████████████████████████████████████
+ATV,http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
 Love Nature HD,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+八度空間,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+八度空間,http://php.jdshipin.com/smt.php?id=TV8
+八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
+八度空間,http://rihou.cc:555/tv/[Pd]八度空间
+
+
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-星光院線,http://zqh2333.top:2222/rtp/239.93.24.139:5140
+邵氏影院,http://jiaojirentv.top/2020/dy.php?id=4246519
+珍珠臺,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
+珍珠臺,https://smt.goiptv.us.ci/pearl_twn/playlist.m3u8
+
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-香港C+,https://stream1.freetv.fun/c-plus-3.m3u8
-香港C+,https://stream1.freetv.fun/xiang-gang-c-plus-1.m3u8
 唯心電視,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
-
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
+番薯臺,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 華藏衛視,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
-環球電視,http://utv1.hqtvzb.com:9999/hls/world.m3u
+環球電視,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 環球電視,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+第壹財經,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
+CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
+CH5,http://rihou.cc:555/tv/[Pd]CH5综合
+
+CH8,http://rihou.cc:555/tv/[Pd]CH8综合
+CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+
+CHU,http://rihou.cc:555/tv/[Pd]CHU综合
+CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 
 
 🇲🇴澳門頻道,#genre#
-█████████████████████████████████████████████
-澳門Mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-澳門Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳門資訊,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-澳門蓮花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-澳門蓮花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳視葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-澳視葡文,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-澳視葡語,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-澳視資訊,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-澳視綜藝,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
-澳視衛星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳視澳門,http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
-澳視澳門,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-澳視澳門,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+████████████████████████████████████████████
+澳視Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳視Mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+澳視Mac,http://php.jdshipin.com/TVOD/iptv.php?id=as
+
+
+澳視澳門,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳視澳門,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳視澳門,http://r.jdshipin.com/n2YZI
+澳視澳門,https://cdn6.101.qzz.io/163189/asam
+澳視澳門,http://fenghuang.tv12.xyz/181.m3u8
+澳視澳門,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳視澳門,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+澳視澳門,http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
+澳視澳門,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+
+澳門資訊,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+澳門資訊,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+
+澳門綜藝,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳門綜藝,http://cdn6.163189.xyz/163189/amzy
+澳門綜藝,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳門綜藝,http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
+
+澳門蓮花,http://rihou.cc:555/tv/[Pd]澳门莲花
+澳門蓮花,http://cdn6.163189.xyz/163189/amlh
+澳門蓮花,http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
+
+
+
+澳門體育,http://rihou.cc:555/tv/[Pd]澳门体育
+澳門體育,http://cdn6.163189.xyz/163189/amty
+澳門體育,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+澳視體育,http://fenghuang.tv12.xyz/184.m3u8
 澳視體育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 
+澳視葡文,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳視葡文,http://fenghuang.tv12.xyz/182.m3u8
+澳視葡文,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳視葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+
+澳視資訊,http://fenghuang.tv12.xyz/185.m3u8
+澳視資訊,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+
+澳視綜藝,http://fenghuang.tv12.xyz/186.m3u8
+澳視綜藝,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+
+澳視衛星,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳視衛星,http://r.jdshipin.com/QFhCq
+澳視衛星,http://fenghuang.tv12.xyz/183.m3u8
+澳視衛星,http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+澳視衛星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+
+🌸海燕(台灣),#genre#
+█████████████████████████████████████████████
+NEXT Movie,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dGT2xIMkpxZGU2dmtVODJiRG9hMURwTHllclJRbGUwZFZwdENoMWZLOExiZGFHYUNXcU45MEh6WVctN0pfOHhzaTVONktiTW13ZXFNeWhzam1idmlIVzdGVlI3WUNnN0NNc3NnbHFnRnN2bUh1YXFIcUdicDNRM0FHNkVXRmNfVkxLQU00Sk14LTlTQ0lVR0V6eC1NVzlwSy13OFdub0ItZG1KVHR4a21Zdktlci1GSHJjbUVzbHpqWHQybVlMRkdjWFpCRG5DcVZuOTVIR0g0Um9KLVBRLm0zdTg/dT0xNzU3MTIzODE5
+PopC,http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
+PopC電影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
+PopC電影,http://pull-vivek.speedws.com/live/aaapopc.flv
+PopC電影,http://tl.061833.xyz/tl/popc
+TVBS G HD,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0czTWVrY2toLTNMYnh1TEZKMlhHWmFWNWZvam5vN3RkNVFQdEpfdmttY01CZ1hfZ1RHVXY4bXpWUjU1NkdkYnhpRDNwT1lqMzdTU00xNEFxUFpyQ2VmTS01YWRkQTh4V2Y0dF9NRXBoYVNjN3BRRnUyVUVMWnV3c2FCWjVMSWFCa29TYUUzVHZnZmcyRThLTWNyUFVQWWw5Sk1JclNkRFNKcDRvTVhOZ2c3YnAzV1JBRGhnZldfd29WdkJ0Y0U4M1o2ZlZOWXliM0ctV3otTk92RV9QSVZRLm0zdTg/dT0xNzU3MTIzODE5
+TVBS HD,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGs8ZkpFx0ZzZqjEHuo2Itiv4FbhPO_a9MawRpjPFqO5rLG_M9KndZoq4pTwzN5YsgEJPtQiQvRftrRQv-970k7XxHRiAgRok3wpXwm44QOjCzi60kzyU72IA4XMGV3cpwLP3xveQPxQs8SaUOt3zoRLh8D8S5aZxUG9GDpjglkotL29bTkgAdSn-34M4Uk3vu3wSJU4wqvjtykbUdu1UOSQ.m3u8?u=1757123819
+TVBS 新聞 HD,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0c4OEthamotTmx6cTJab3Q0aUtXbFFNckF1ekx5VzFnd3VQWmRad2dTY3p1X2xZY3llTmp5NW1VdEJUblduNl9SUmpXMXlTdk9UcWVJUmpkUTRSQ1JVWnZCa3Y5Q01wU1hyQlhLWU1PbVNUaW90Zy12blp2TUQ3eExFbEhDMTNQaHVoZDRDNzJNWWZsUnBwTkNTTXBkLWt4T2NGRVRyb21ZMVIySmtmOTQwMlBDM2t0OEdxTEVyY2V3ZXBzVW16cV9WcE1rWlg1SWY5UzN3OVBHcVJvenVnLm0zdTg/dT0xNzU3MTIzODE5
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+小公視,http://74.91.26.218:82/live/ptsse.m3u8
+中天新聞臺,http://222.128.55.152:9080/live/fc.m3u8
+中視,http://74.91.26.218:82/live/ctv.m3u8
+中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
+中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
+公視,http://74.91.26.218:82/live/pts.m3u8
+公視臺語臺,http://74.91.26.218:82/live/ptsty.m3u8
+天映經典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+天映頻道,http://pull-vivek.speedws.com/live/aaatypd.flv
+民視,http://74.91.26.218:82/live/ftv.m3u8
+民視第壹臺,http://74.91.26.218:82/live/ftvdy.m3u8
+民視新聞臺,http://74.91.26.218:82/live/ftvnews.m3u8
+民視臺灣臺,http://74.91.26.218:82/live/ftvtw.m3u8
+年代新聞臺,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
+壹電視新聞,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0d0cXZhWFhidGE5NS1xWDZSVEJOek5kWE15NlBZWVBWR2I3d0pFc19JX2Y1VXBkS05Ua2ZReU5xYmVIM2RERXE3RnlIamxhTTkxZTYtUGpiYzRBSnZYbGlaa05TeWstVkZ1NXV2NjZwaWtQc1NDTW1MeVJzN3lsbHlJWTBFNmVwZ2ViYmhBQUJ5WFFzcTdRRk1rVmN1QlBmSWl2WG9HbV9TT1ZUTTBfZ2ZxSG1kdTk1V3pza0JKcElCdlphdTdwZkVRMXA1WnZzMFJJcVo1OXhqNUF4TV9BLm0zdTg/dT0xNzU3MTIzODE5
+壹電視綜合,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dEajZZYU15NUwxQVQzbnpBd080MzB3WEt4WXJTMU5WVThJa0Rud0Q1V2N1R2xkaThWWEIwUnNwNGN6TGM0X1duSjJhejNxYUZteEIzTjJzYmUya3g3eWxZcEQtQ0dvcVA2MlVGNkhFdGZLN3dvY2JyTjBYb0JfNlpKb3R3MDRhREY5UWdMaEtRVWZCWWI2YU5ZaDhJZFd2Rk80ODF1TFNqY3NRZ2ZQdWtQdkgtaWxLU3pMUkZyV1M3V1ZvWkItbHhELXJuZWotSFpqQk1sY0JUN3IzV3NBLm0zdTg/dT0xNzU3MTIzODE5
+華視,http://74.91.26.218:82/live/cts.m3u8
+華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+華視新聞資訊,http://74.91.26.218:82/live/ctsnews.m3u8
+靖天日本,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0diSnNRWkVESWVoTkpsUkFvTU9oR2g4MDdjRW9yb21Ta0dWUHhBckFTOHdRSWpPWkh1T3lyR21rUF8wTGpkcnB6eFpCUW5vU3pfZUZjbktVOGV4NGdlU29PTnExSFNxb3d6OUdZVjBsTFBQVnpuY2RaMWFHQzR2TDhjZE5jb2VNTDlsTDNVRW9TaGgxTC02WVgtRm5JZ3FjTmg1eHMzX3VQeEVSdGJBMGZ0SmN5VkFnb19wM0RmWmdYbWtlbUpnQmgtRVBRV0hlSFJqaWFLZUc2N3JMRktnLm0zdTg/dT0xNzU3MTIzODE5
+靖天卡通,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dXSmxMUnQxYjRUMzdaUGYyMUhNNTZJY1JXVjBQeFdXSy1CNWNhU25jaGZZcTZSUFRGMUdOeUE0WFhhN1N0OHBad1ppZEVPMVB1OGh4Mi0zUjZaejc4UUJPd1pncXgyeE96T0NEajR0RmI4aVZCeFgycC1GRk5tVXRUU0hHVmZHTjctSmsxREVHR0lwMEloNXhtOERvQ3JIc3RJR0ZsYlNfRnNHLUExcHJDeWdqc1RaY1p6NUNRTnlOX1RzcU03QlJQSFhlQnFtS2N2T2dhU0d0SEluc1JBLm0zdTg/dT0xNzU3MTIzODE5
+靖天育樂,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dvUEoyOGw3U05ERTRZanZKTmNFMmM5R2FobkRQSnBxVHIxSWUyLW90aGc4Z1VFRzFkV2NMXzI0YVpqOTVOWUdObk9pS0FiTTVEdWwxMXp5OFpmM3laYU9RSnJ2VlhCVGJVMEd6OXhZTmZVb3IwSTd1blVodkc1VW5TYWpmTldhdDk4S1RidE1xejhNUWNhbFpFbUhZRTZJN2NlZXB5c2tCNGthSlJOZGZraW0ydzlVeUstdk96MVdzS1YtV2Y4THhRVTdOUUNHVEhuNjZyR3BadUoxNmpBLm0zdTg/dT0xNzU3MTIzODE5
+靖天映畫,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dEWHYxU2ZaMU1oaHRMRHZNZFp0U2lkcU8xWVBXdXUwMFphQXpfYjBJaGJiN1E1MU9reU5mczJEOE5FclFVQjUtWkRIVDZaa2tmNEh3MjhveGV1WFBRelhhYXlFMHpWY0E5YjRBY0JQUWd0MFlzTGs2NHdjdjkxU2EtR2swbkRURV9SUDNxZ1lNcFVOcFRUVExpVEdLT1hTZHllNVhtbElqYmlwYXRkMlFhVE0xeWx4THl0Tno3Yk1KUEMyaERhYkFIcWJ0TzlEWlotNER1TXZZZk1OR2JnLm0zdTg/dT0xNzU3MTIzODE5
+靖天國際,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dobU5qYURLVFBISkkyb1lSdy1vZEFZR2FPemsyUkV6cnJmLXpRRmRKZlo0bHlKcG1FZG81TVVaUXZlb0ltSEh0bGI2RlZMenplWTU3bWZ6THAwdEZPNlJyM0k3TDl3ZGxtcTVnNlVBZ291cVJWNmtpMzdsZU9xOGRvaFFZSldRNEFVV0QxekVycnc2enZLTmpBUnlnVEpKeE5zRXpuX2hiVVZNZDJzcUZqaW1NMkt5YVF6czZ5eEFZRnVnSExZbkdrdzloY3VwYmxiZ3ZrbjFLWHo3N3lnLm0zdTg/dT0xNzU3MTIzODE5
+靖天資訊,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dNMnkzU2xVZjBKbjNSWXBET1UzM0plT21QQlZtSVhlXzN1QVhueFdyS1ptcGJzSWxQbkNSVHlwZHgycGVwNWUxN05udjNFcW56d2RkcUNLenQzWWpsVS1pTmpkdVlQWTlkZTFMc1BTams1c0RkaEQ3OHhiWkxGeDRWTlQtVldRYjlKN196VVNmcHY5TTBETXh5VEhxTzNjd05mT0t3WkJZRkZzR0pVaFBMYWdOdEpqZWcta3BYM0czLWxBZ1cxU1BwOUhtd2RTOWFPNVJleXcyb1htMGFnLm0zdTg/dT0xNzU3MTIzODE5
+靖天電影,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dJVnlES1FvOFQxWjh4dEhwU2ZYQTRmQTR0Z0wtMXJGdU4tc25YUHg5WF9LRHJzZXZpaTE0aktETVMzWUFOWUlaOGloSm9wajI1aVhFVnJqaG1PWERxX19YRjU0T0lKdTFPMjJRWEdBcmRzRDRQYjlOdnAzZGpUVm1EWWdUamVlaWluSUJtS2VqaklrZFE4OVc3U2VCNzdoak1xbDhSbzFxaWtyVklsR3FaYkxGMXVNdjVQNmtQc1c0QkhqaFZiQ2Q3RXkzeVk2VEdidW9fdFJvc3FwWUFRLm0zdTg/dT0xNzU3MTIzODE5
+靖天綜合,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dVMF9OMlFjeUdrdURKSlV3NE9BRkJ4Vk5IZm9CcnRkTk15THlybzNMM1NqUEhoTm8xU1RvTXBXSWZENUJiUG5ZOG44MlhfNWhobmF6ODctaEVLWWYzUGxOMmpXZU5TUEtvYzNMMDF6cmo3VTJ2VXhVSW4xMUU3OXEwMlJLV2tEdDcxM2dQclYyMG5TWHVZMjVEMlZyVDFIWldQRC15aks5M2M5TF9PX0VTdHdPX2k5UHRXS1N5WXB5X09KSXdTU29XZ3ZLQXY2c2FKMFZDbGJza3U4YlFnLm0zdTg/dT0xNzU3MTIzODE5
+靖天戲劇,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dTR2lEZUVQcUlFSlZ4M3VzMjZrbUxGYURtMEtDQzBxSXIxWHJvczh6R29FUE5IYUZ6WFFMQWlGQmxicjZxU3ZNTjVaN3l6R3FOd0VDT09hVm9YeHRnY19JZEhLclBiNEZHbWpwU2tzakU0WWlJQjR6U1NFeHZuSTg0MEZiQ2h2TTZudVg1ZlRFSnZITnpQVjJwQU1oLVFKRWZhc21wejVCM2x2aUNYOU1XTWRYYUFvOGxUMXBqWFlEOGJPckFFTDFhSklyYjYwRl9Wb2p0RjlDM2J0dkVRLm0zdTg/dT0xNzU3MTIzODE5
+靖天歡樂,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0doMWJNMzYwWFcyZzFPcWhqamt1SjdtdHlwZ1cyLUVGaXNhTXBqbjh3OU5KQzVVbzlCRlRCQmxDR01haURQZ0VBWmNhSHVZcXN5V0M2OWRMdDg2TW43LXZuVldrcFlTWnpCeFp6ZjF4cmRJemxFRDVoRkRJS3h0WFh6Q3R5SW1rdGFDbzRVUC16dHQyN1JtdDlVUWNFc3hYdmR2RmhPNV9mU1ZoOV9OTVFGdERqRm1YV1oxSUNTMFVVUm1RQ3ZuYmQyOEF4LUdiUVRBUjVTaDhlS0toTS1RLm0zdTg/dT0xNzU3MTIzODE5
+臺視,http://74.91.26.218:82/live/ttv.m3u8
+臺視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+臺視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+臺視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+寰宇新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715
+寰宇新聞臺灣,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdt63uRz89giBm7SDjL0rvx6mPFYFBkkZvn9WFnIWrnrmw-PJg94VdaIFjhKLLslS3hVgt8K1Gxhccp_R67ZRq_HQNtWBy3po4j7bv2IwqnZT9T8D5Ef3z7y9ybvoYR_r9iPLH8ejARDMhF9S1XKesCvpRSuc2dxQIegka38FuTXru3e7plTyOLICLjP8wL2__-kVV5BF8U8VV7BewaGHGdqMycRKCnq0nX0iQk4S_Kk.m3u8?u=1756878715
+龍華日韓,http://cdn8.163189.xyz/163189/lhrh
+龍華卡通,http://cdn8.163189.xyz/163189/lhkt
+龍華偶像,http://cdn8.163189.xyz/163189/lhox
+龍華經典,http://cdn8.163189.xyz/163189/lhjd
+龍華電影,http://cdn8.163189.xyz/163189/lhdy
+龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
 
 
 🌸臺灣,#genre#
