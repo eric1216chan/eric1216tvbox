@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="未分组" ,CCTV1港澳版
+https://cdn6.cc.cd/163189/cctv1
 #EXTINF:-1 group-title="未分组" ,CCTV-1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 #EXTINF:-1 group-title="未分组" ,CCTV-2
@@ -45,3 +47,5 @@ http://bztv.tvbus.cc:8081/cdnlive/fyzq.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
 #EXTINF:-1 group-title="未分组" ,CCTV-高尔夫网球
 http://bztv.tvbus.cc:8081/cdnlive/gefwq.m3u8
+#EXTINF:-1 group-title="未分组" ,CGTN2
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
