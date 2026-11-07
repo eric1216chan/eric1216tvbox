@@ -87,7 +87,7 @@ https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
 https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
 #EXTINF:-1 group-title="香港",無綫新聞臺
 https://php.946985.filegear-sg.me/tvbnews.php?id=inews
-#EXTINF:-1 group-title="香港",無線新聞臺
+#EXTINF:-1 group-title="香港",無綫新聞臺
 https://cdn6.cc.cd/163189/wxxwt
 #EXTINF:-1 group-title="香港",華藏衛視
 https://5ddce30eb4b55.streamlock.net/HZTV/HZTV/playlist.m3u8
@@ -95,8 +95,6 @@ https://5ddce30eb4b55.streamlock.net/HZTV/HZTV/playlist.m3u8
 https://cdn6.cc.cd/163189/hlfct
 #EXTINF:-1 group-title="香港",華麗翡翠臺
 https://cdn6.cc.cd/163189/jade
-#EXTINF:-1 group-title="香港",翡翠臺
-http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="香港",翡翠臺
 http://183.239.248.218:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="香港",翡翠臺
@@ -113,12 +111,6 @@ https://cdn6.cc.cd/163189/fct
 https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8
 #EXTINF:-1 group-title="香港",翡翠劇集臺
 https://cdn6.cc.cd/163189/tvbd無綫新聞臺,https://php.946985.filegear-sg.me/tvbnews.php?id=c
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://120.198.84.146:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="香港",鳳凰中文
 http://156.238.224.170:7001/fhx.php?id=cn
 #EXTINF:-1 group-title="香港",鳳凰中文
