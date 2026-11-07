@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="德國",DW臺
+http://125.227.210.55:42534/VideoInput/play.ts
