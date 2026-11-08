@@ -8,25 +8,35 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 #EXTINF:-1 group-title="香港",GOODTV
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 group-title="香港",HOY TV
+https://cc.123.rr.kg/163189/hoy
+#EXTINF:-1 group-title="香港",HOY國際財經臺
+https://cdn11.163189.xyz/163189/hoy76
+#EXTINF:-1 group-title="香港",HOY資訊臺
+https://fast.hidns.vip/163189/hoy78
+#EXTINF:-1 group-title="香港",RTHK31
+https://fast.hidns.vip/163189/rthk31
+#EXTINF:-1 group-title="香港",RTHK32
+https://fast.hidns.vip/163189/rthk32
+#EXTINF:-1 group-title="香港",HOY TV
 https://cdn6.cc.cd/163189/hoy
 #EXTINF:-1 group-title="香港",HOY
 http://cdn6.123.rr.kg/163189/hoy
-#EXTINF:-1 group-title="香港",HOY76
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7tad3n
-#EXTINF:-1 group-title="香港",HOY78
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=38q53s
 #EXTINF:-1 group-title="香港",HOY國際財經臺
 https://cdn11.163189.xyz/163189/hoy76
 #EXTINF:-1 group-title="香港",NHK
-http://125.227.210.55:35802/VideoInput/play.tsTVB亞洲武俠,https://cdn6.cc.cd/163189/yzwx
+http://125.227.210.55:35802/VideoInput/play.ts
+#EXTINF:-1 group-title="香港",NOW新聞臺
+https://fast.hidns.vip/163189/now
 #EXTINF:-1 group-title="香港",NOW星影
 http://124.244.129.167:7003/1.ts
-#EXTINF:-1 group-title="香港",NOW星影
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=07jkor
 #EXTINF:-1 group-title="香港",NOW爆谷
 http://124.244.129.167:7007/1.ts
-#EXTINF:-1 group-title="香港",NOW爆谷
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=h7kw14
+#EXTINF:-1 group-title="香港",ViuTV
+https://10.fast.hidns.vip/163189/viu/
+#EXTINF:-1 group-title="香港",ViuTVsix
+https://10.fast.hidns.vip/163189/viu6/
+#EXTINF:-1 group-title="香港",TVB亞洲武俠
+https://cdn6.cc.cd/163189/yzwx
 #EXTINF:-1 group-title="香港",TVB
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 #EXTINF:-1 group-title="香港",TVB1
@@ -56,7 +66,13 @@ https://cdn6.cc.cd/163189/hlfct
 #EXTINF:-1 group-title="香港",華麗翡翠臺
 https://cdn6.cc.cd/163189/jade
 #EXTINF:-1 group-title="香港",翡翠臺
-翡翠台,http://cc.123.rr.kg/163189/fct
+https://10.fast.hidns.vip/163189/fct/
+#EXTINF:-1 group-title="香港",翡翠臺
+https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 group-title="香港",翡翠臺
+https://cdn3.indevs.in/stream/tvb/fct4k/
+#EXTINF:-1 group-title="香港",翡翠臺
+http://cc.123.rr.kg/163189/fct
 #EXTINF:-1 group-title="香港",翡翠臺
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="香港",翡翠劇集臺

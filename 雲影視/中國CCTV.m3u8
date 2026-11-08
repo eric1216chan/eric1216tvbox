@@ -1,51 +1,119 @@
 #EXTM3U
-#EXTINF:-1 group-title="中國CCTV",CCTV1港澳版
-https://cdn6.cc.cd/163189/cctv1
+#EXTINF:-1 group-title="中國CCTV",CCTV-1
+http://107.150.60.122/live/cctv1hd.m3u8#http://192.151.150.154/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 #EXTINF:-1 group-title="中國CCTV",CCTV-2
 http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-2HD
+http://107.150.60.122/live/cctv2hd.m3u8#http://192.151.150.154/live/cctv2hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-3
 http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-3HD
+http://107.150.60.122/live/cctv3hd.m3u8#http://192.151.150.154/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-4
 http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-4
+http://107.150.60.122/live/cctv4hd.m3u8#http://192.151.150.154/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-4K
+http://107.150.60.122/live/cctv4k.m3u8#http://192.151.150.154/live/cctv4k.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-5+HD
+http://107.150.60.122/live/cctv5p.m3u8#http://192.151.150.154/live/cctv5p.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-5HD
+http://107.150.60.122/live/cctv5hd.m3u8#http://192.151.150.154/live/cctv5hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-6
 http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-6
+http://107.150.60.122/live/cctv6hd.m3u8#http://192.151.150.154/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-7
+http://107.150.60.122/live/cctv7hd.m3u8#http://192.151.150.154/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-8
 http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-8
+http://107.150.60.122/live/cctv8hd.m3u8#http://192.151.150.154/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-8k
+http://107.150.60.122/live/cctv8k.m3u8#http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-9
+http://107.150.60.122/live/cctv9hd.m3u8#http://192.151.150.154/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-10
+http://107.150.60.122/live/cctv10hd.m3u8#http://192.151.150.154/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-11
+http://107.150.60.122/live/cctv11hd.m3u8#http://192.151.150.154/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-12
+http://107.150.60.122/live/cctv12hd.m3u8#http://192.151.150.154/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-13
+http://107.150.60.122/live/cctv13hd.m3u8#http://192.151.150.154/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-14
 http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-14
+http://107.150.60.122/live/cctv14hd.m3u8#http://192.151.150.154/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-15
 http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-15
+http://107.150.60.122/live/cctv15hd.m3u8#http://192.151.150.154/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-16
 http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-16
+http://107.150.60.122/live/cctv16hd.m3u8#http://192.151.150.154/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-17
 http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-17
+http://107.150.60.122/live/cctv17hd.m3u8#http://192.151.150.154/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-女性時尚
+http://107.150.60.122/live/nxss.m3u8#http://192.151.150.154/live/nxss.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-女性時尚
+http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-世界地理
+http://107.150.60.122/live/sjdl.m3u8#http://192.151.150.154/live/sjdl.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-世界地理
 http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-央視文化精品
+http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-央視臺球
+http://107.150.60.122/live/ystq.m3u8#http://192.151.150.154/live/ystq.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-央視臺球
+http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-兵器科技
+http://107.150.60.122/live/gfjs.m3u8#http://192.151.150.154/live/gfjs.m3u8
 #EXTINF:-1 group-title="中國CCTV",CCTV-兵器科技
 http://bztv.tvbus.cc:8081/cdnlive/gfjs.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-卫生健康
-http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-央视台球
-http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-央视文化精品
-http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-女性时尚
-http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-怀旧剧场
-http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-电视指南
-http://bztv.tvbus.cc:8081/cdnlive/dszn.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-第一剧场
-http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-风云剧场
-http://bztv.tvbus.cc:8081/cdnlive/fyjc.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-风云足球
+#EXTINF:-1 group-title="中國CCTV",CCTV-風雲足球
+http://107.150.60.122/live/fyzq.m3u8#http://192.151.150.154/live/fyzq.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-風雲足球
 http://bztv.tvbus.cc:8081/cdnlive/fyzq.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-风云音乐
+#EXTINF:-1 group-title="中國CCTV",CCTV-風雲音樂
+http://107.150.60.122/live/fyyy.m3u8#http://192.151.150.154/live/fyyy.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-風雲音樂
 http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
-#EXTINF:-1 group-title="中國CCTV",CCTV-高尔夫网球
+#EXTINF:-1 group-title="中國CCTV",CCTV-風雲劇場
+http://107.150.60.122/live/fyjc.m3u8#http://192.151.150.154/live/fyjc.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-風雲劇場
+http://bztv.tvbus.cc:8081/cdnlive/fyjc.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-高爾夫網球
+http://107.150.60.122/live/gefwq.m3u8#http://192.151.150.154/live/gefwq.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-高爾夫網球
 http://bztv.tvbus.cc:8081/cdnlive/gefwq.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-第壹劇場
+http://107.150.60.122/live/dyjc.m3u8#http://192.151.150.154/live/dyjc.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-第壹劇場
+http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-電視指南
+http://107.150.60.122/live/dszn.m3u8#http://192.151.150.154/live/dszn.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-電視指南
+http://bztv.tvbus.cc:8081/cdnlive/dszn.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-衛生健康
+http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-懷舊劇場
+http://107.150.60.122/live/hjjc.m3u8#http://192.151.150.154/live/hjjc.m3u8
+#EXTINF:-1 group-title="中國CCTV",CCTV-懷舊劇場
+http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
 #EXTINF:-1 group-title="中國CCTV",CGTN2
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 group-title="中國CCTV",CHC家庭影院
+http://107.150.60.122/live/chcjt.m3u8#http://192.151.150.154/live/chcjt.m3u8
+#EXTINF:-1 group-title="中國CCTV",CHC動作電影
+http://107.150.60.122/live/chcdz.m3u8#http://192.151.150.154/live/chcdz.m3u8
+#EXTINF:-1 group-title="中國CCTV",CHC影迷電影
+http://107.150.60.122/live/chchd.m3u8#http://192.151.150.154/live/chchd.m3u8
+#EXTINF:-1 group-title="中國CCTV",重溫經典
+http://107.150.60.122/live/cwjd.m3u8#http://192.151.150.154/live/cwjd.m3u8
