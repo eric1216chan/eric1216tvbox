@@ -1,3 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="德國",DW臺
 http://125.227.210.55:42534/VideoInput/play.ts
+#EXTINF:-1 group-title="德國",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="德國",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/1080p-en/index.m3u8
+

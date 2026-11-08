@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="美國",Mystery TV
+https://aenetworks-mysterytv-rakuten.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="美國",beIN Sports Xtra
+https://bein-xtra-bein.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="美國",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 group-title="美國",Tennis Channel International
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="美國",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="美國",Estrella TV
+https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="美國",Pac-12 Insider
+https://pac12-firetv.amagi.tv/1080p-en-cc/index.m3u8
+#EXTINF:-1 group-title="美國",ACCDN
+https://raycom-accdn-firetv.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="美國",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
