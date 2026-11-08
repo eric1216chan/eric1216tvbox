@@ -43,6 +43,24 @@ https://cdn6.cc.cd/163189/wxxw
 http://124.244.129.167:9004/0.ts
 #EXTINF:-1 group-title="香港",有線18臺
 http://qingyi.7766.org:9004/0.ts
+#EXTINF:-1 group-title="香港",無綫新聞臺
+https://php.946985.filegear-sg.me/tvbnews.php?id=inews
+#EXTINF:-1 group-title="香港",無綫新聞臺
+https://php.946985.filegear-sg.me/tvbnews.php?id=c
+#EXTINF:-1 group-title="香港",無綫新聞臺
+https://cdn6.cc.cd/163189/wxxwt
+#EXTINF:-1 group-title="香港",華藏衛視
+https://5ddce30eb4b55.streamlock.net/HZTV/HZTV/playlist.m3u8
+#EXTINF:-1 group-title="香港",華麗翡翠臺
+https://cdn6.cc.cd/163189/hlfct
+#EXTINF:-1 group-title="香港",華麗翡翠臺
+https://cdn6.cc.cd/163189/jade
+#EXTINF:-1 group-title="香港",翡翠臺
+翡翠台,http://cc.123.rr.kg/163189/fct
+#EXTINF:-1 group-title="香港",翡翠臺
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 group-title="香港",翡翠劇集臺
+https://cdn6.cc.cd/163189/tvbd
 #EXTINF:-1 group-title="香港",有線新聞
 http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 #EXTINF:-1 group-title="香港",有線新聞
@@ -85,20 +103,6 @@ http://player4.juyun.tv/camera/158562106.m3u8
 https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
 #EXTINF:-1 group-title="香港",香港電臺第五臺
 https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
-#EXTINF:-1 group-title="香港",無綫新聞臺
-https://php.946985.filegear-sg.me/tvbnews.php?id=inews
-#EXTINF:-1 group-title="香港",無綫新聞臺
-https://cdn6.cc.cd/163189/wxxwt
-#EXTINF:-1 group-title="香港",華藏衛視
-https://5ddce30eb4b55.streamlock.net/HZTV/HZTV/playlist.m3u8
-#EXTINF:-1 group-title="香港",華麗翡翠臺
-https://cdn6.cc.cd/163189/hlfct
-#EXTINF:-1 group-title="香港",華麗翡翠臺
-https://cdn6.cc.cd/163189/jade
-#EXTINF:-1 group-title="香港",翡翠臺
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 group-title="香港",翡翠劇集臺
-https://cdn6.cc.cd/163189/tvbd無綫新聞臺,https://php.946985.filegear-sg.me/tvbnews.php?id=c
 #EXTINF:-1 group-title="香港",鳳凰中文
 http://156.238.224.170:7001/fhx.php?id=cn
 #EXTINF:-1 group-title="香港",鳳凰中文
