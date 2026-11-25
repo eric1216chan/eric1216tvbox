@@ -81,17 +81,17 @@ https://pac12-firetv.amagi.tv/1080p-en-cc/index.m3u8
 http://179.60.51.134:8888/RT/index.m3u8
 #EXTINF:-1 group-title="未分组" ,SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="未分组" ,Stingray Classic Rock
+#EXTINF:-1 group-title="美國" ,Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="未分组" ,Stingray CMusic
+#EXTINF:-1 group-title="美國" ,Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="未分组" ,Stingray Easy Listening
+#EXTINF:-1 group-title="美國" ,Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="未分组" ,Stingray Everything '80s
+#EXTINF:-1 group-title="美國" ,Stingray Everything '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="未分组" ,Stingray Flashback 70's
+#EXTINF:-1 group-title="美國" ,Stingray Flashback 70's
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="未分组" ,Stingray Nothin' But 90s
+#EXTINF:-1 group-title="美國" ,Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="未分组" ,Tennis Channel International
+#EXTINF:-1 group-title="美國" ,Tennis Channel International
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8

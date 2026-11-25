@@ -7,34 +7,34 @@ https://lds-timeline-rakuten.amagi.tv/1080p-cc/index.m3u8
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 group-title="英國",Sky Racing 2
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,ABC NEWS LIVE
+#EXTINF:-1 group-title="英國" ,ABC NEWS LIVE
 http://ky-tv.cc/live/brendan1/brendan1/648323.ts
-#EXTINF:-1 group-title="未分组" ,ACCU WEATHER
+#EXTINF:-1 group-title="英國" ,ACCU WEATHER
 http://ky-tv.cc/live/brendan1/brendan1/175785.ts
-#EXTINF:-1 group-title="未分组" ,ALJAZEERA
+#EXTINF:-1 group-title="英國" ,ALJAZEERA
 http://ky-tv.cc/live/brendan1/brendan1/499315.ts
-#EXTINF:-1 group-title="未分组" ,BBC WORLD NEWS
+#EXTINF:-1 group-title="英國" ,BBC WORLD NEWS
 http://ky-tv.cc/live/brendan1/brendan1/1847083.ts
-#EXTINF:-1 group-title="未分组" ,BLOOMBERG
+#EXTINF:-1 group-title="英國" ,BLOOMBERG
 http://ky-tv.cc/live/brendan1/brendan1/1852103.ts
-#EXTINF:-1 group-title="未分组" ,CNBC
+#EXTINF:-1 group-title="英國" ,CNBC
 http://ky-tv.cc/live/brendan1/brendan1/943540.ts
-#EXTINF:-1 group-title="未分组" ,CNN
+#EXTINF:-1 group-title="英國" ,CNN
 http://ky-tv.cc/live/brendan1/brendan1/1846753.ts
-#EXTINF:-1 group-title="未分组" ,FOX BUSINESS
+#EXTINF:-1 group-title="英國" ,FOX BUSINESS
 http://ky-tv.cc/live/brendan1/brendan1/2209769.ts
-#EXTINF:-1 group-title="未分组" ,FOX NEWS
+#EXTINF:-1 group-title="英國" ,FOX NEWS
 http://ky-tv.cc/live/brendan1/brendan1/648545.ts
-#EXTINF:-1 group-title="未分组" ,FOX WEATHER
+#EXTINF:-1 group-title="英國" ,FOX WEATHER
 http://ky-tv.cc/live/brendan1/brendan1/2567237.ts
-#EXTINF:-1 group-title="未分组" ,FRANCE 24
+#EXTINF:-1 group-title="英國" ,FRANCE 24
 http://ky-tv.cc/live/brendan1/brendan1/189950.ts
-#EXTINF:-1 group-title="未分组" ,MSNBC
+#EXTINF:-1 group-title="英國" ,MSNBC
 http://ky-tv.cc/live/brendan1/brendan1/228579.ts
-#EXTINF:-1 group-title="未分组" ,RTE NEWS
+#EXTINF:-1 group-title="英國" ,RTE NEWS
 http://ky-tv.cc/live/brendan1/brendan1/189995.ts
-#EXTINF:-1 group-title="未分组" ,SKY NEWS
+#EXTINF:-1 group-title="英國" ,SKY NEWS
 http://ky-tv.cc/live/brendan1/brendan1/1383051.ts
-#EXTINF:-1 group-title="未分组" ,THE WEATHER CHANNEL
+#EXTINF:-1 group-title="英國" ,THE WEATHER CHANNEL
 http://ky-tv.cc/live/brendan1/brendan1/175945.ts
 
