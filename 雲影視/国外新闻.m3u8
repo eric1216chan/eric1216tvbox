@@ -1,176 +1,176 @@
-📰国外新闻,#genre#
+📰国外新闻
 #EXTM3U
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,BBS Buddhist Broadcasting (1080p)
+#EXTINF:-1 group-title="📰国外新闻" ,BBS Buddhist Broadcasting (1080p)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,ABC News Australia
+#EXTINF:-1 group-title="📰国外新闻" ,ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Arirang Radio (720p)
+#EXTINF:-1 group-title="📰国外新闻" ,Arirang Radio (720p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Arirang Radio
+#EXTINF:-1 group-title="📰国外新闻" ,Arirang Radio
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Arirang
+#EXTINF:-1 group-title="📰国外新闻" ,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Arirang
+#EXTINF:-1 group-title="📰国外新闻" ,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Arirang
+#EXTINF:-1 group-title="📰国外新闻" ,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Arirang
+#EXTINF:-1 group-title="📰国外新闻" ,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Arirang
+#EXTINF:-1 group-title="📰国外新闻" ,Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,BBC EARTH
+#EXTINF:-1 group-title="📰国外新闻" ,BBC EARTH
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,BBC Earth
+#EXTINF:-1 group-title="📰国外新闻" ,BBC Earth
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,BBS
+#EXTINF:-1 group-title="📰国外新闻" ,BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,BBS佛教广播
+#EXTINF:-1 group-title="📰国外新闻" ,BBS佛教广播
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,C
+#EXTINF:-1 group-title="📰国外新闻" ,C
 http://112.175.51.214:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,CJB
+#EXTINF:-1 group-title="📰国外新闻" ,CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,CNA 亚洲
+#EXTINF:-1 group-title="📰国外新闻" ,CNA 亚洲
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS 2
+#EXTINF:-1 group-title="📰国外新闻" ,EBS 2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS+2
+#EXTINF:-1 group-title="📰国外新闻" ,EBS+2
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS-KIDS
+#EXTINF:-1 group-title="📰国外新闻" ,EBS-KIDS
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS1
+#EXTINF:-1 group-title="📰国外新闻" ,EBS1
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS1
+#EXTINF:-1 group-title="📰国外新闻" ,EBS1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS1
+#EXTINF:-1 group-title="📰国外新闻" ,EBS1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS2
+#EXTINF:-1 group-title="📰国外新闻" ,EBS2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBSe
+#EXTINF:-1 group-title="📰国外新闻" ,EBSe
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBSi
+#EXTINF:-1 group-title="📰国外新闻" ,EBSi
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS少儿
+#EXTINF:-1 group-title="📰国外新闻" ,EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EWTN Africa Asia (720p)
+#EXTINF:-1 group-title="📰国外新闻" ,EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,GCN24 Korean (720p)
+#EXTINF:-1 group-title="📰国外新闻" ,GCN24 Korean (720p)
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,GCN教会
+#EXTINF:-1 group-title="📰国外新闻" ,GCN教会
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,JTV
+#EXTINF:-1 group-title="📰国外新闻" ,JTV
 http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,KCTV
+#EXTINF:-1 group-title="📰国外新闻" ,KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,KCTV
+#EXTINF:-1 group-title="📰国外新闻" ,KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,KCTV
+#EXTINF:-1 group-title="📰国外新闻" ,KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,KCTV
+#EXTINF:-1 group-title="📰国外新闻" ,KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,MBN
+#EXTINF:-1 group-title="📰国外新闻" ,MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,NHK_World
+#EXTINF:-1 group-title="📰国外新闻" ,NHK_World
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,News max
+#EXTINF:-1 group-title="📰国外新闻" ,News max
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,SBS CJB (540p) [Not 24/7]
+#EXTINF:-1 group-title="📰国外新闻" ,SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,SBS JTV (406p) [Not 24/7]
+#EXTINF:-1 group-title="📰国外新闻" ,SBS JTV (406p) [Not 24/7]
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,TVB-星河频道
+#EXTINF:-1 group-title="📰国外新闻" ,TVB-星河频道
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,TVBS
+#EXTINF:-1 group-title="📰国外新闻" ,TVBS
 http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,TVBS新聞
+#EXTINF:-1 group-title="📰国外新闻" ,TVBS新聞
 http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Wild TV (1080p)
+#EXTINF:-1 group-title="📰国外新闻" ,Wild TV (1080p)
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,[HD]alba xxx 1
+#EXTINF:-1 group-title="📰国外新闻" ,[HD]alba xxx 1
 https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,[HD]ช่อง exxxotica
+#EXTINF:-1 group-title="📰国外新闻" ,[HD]ช่อง exxxotica
 https://stream1.freetv.fun/491d04a16e4ced5b63201f8c225f2a89fa1551ec686c4863e90a0e9cb94ab072.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,cgtn西语
+#EXTINF:-1 group-title="📰国外新闻" ,cgtn西语
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,cgtn阿语
+#EXTINF:-1 group-title="📰国外新闻" ,cgtn阿语
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,tvN1
+#EXTINF:-1 group-title="📰国外新闻" ,tvN1
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,tvN2
+#EXTINF:-1 group-title="📰国外新闻" ,tvN2
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,tvN5
+#EXTINF:-1 group-title="📰国外新闻" ,tvN5
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,cgtn记录
+#EXTINF:-1 group-title="📰国外新闻" ,cgtn记录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,CMC 音乐台
+#EXTINF:-1 group-title="📰国外新闻" ,CMC 音乐台
 https://stream1.freetv.fun/california-music-channel-1.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,SAGA 音乐台
+#EXTINF:-1 group-title="📰国外新闻" ,SAGA 音乐台
 https://stream1.freetv.fun/saga-music-1.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,TVBS 新闻
+#EXTINF:-1 group-title="📰国外新闻" ,TVBS 新闻
 https://stream1.freetv.fun/tvbs-news-1.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,4 music
+#EXTINF:-1 group-title="📰国外新闻" ,4 music
 https://stream1.freetv.fun/4music-2.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Wion News
+#EXTINF:-1 group-title="📰国外新闻" ,Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,ALJAZEERA
+#EXTINF:-1 group-title="📰国外新闻" ,ALJAZEERA
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/960/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,BBC NEWS
+#EXTINF:-1 group-title="📰国外新闻" ,BBC NEWS
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/545/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,CGTN
+#EXTINF:-1 group-title="📰国外新闻" ,CGTN
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/830/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,CNBC
+#EXTINF:-1 group-title="📰国外新闻" ,CNBC
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/962/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,CNN
+#EXTINF:-1 group-title="📰国外新闻" ,CNN
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/6499/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,CNN INTL
+#EXTINF:-1 group-title="📰国外新闻" ,CNN INTL
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/31301/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,FOX NEWS
+#EXTINF:-1 group-title="📰国外新闻" ,FOX NEWS
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/19147/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,FRANCE 24
+#EXTINF:-1 group-title="📰国外新闻" ,FRANCE 24
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/31318/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,RT NEWS
+#EXTINF:-1 group-title="📰国外新闻" ,RT NEWS
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/840/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,SKY NEWS
+#EXTINF:-1 group-title="📰国外新闻" ,SKY NEWS
 http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/2475/index.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,TVBS HD
+#EXTINF:-1 group-title="📰国外新闻" ,TVBS HD
 https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS1
+#EXTINF:-1 group-title="📰国外新闻" ,EBS1
 http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBS2
+#EXTINF:-1 group-title="📰国外新闻" ,EBS2
 http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EBSe
+#EXTINF:-1 group-title="📰国外新闻" ,EBSe
 http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,14
+#EXTINF:-1 group-title="📰国外新闻" ,14
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,ANTV
+#EXTINF:-1 group-title="📰国外新闻" ,ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,CPBC
+#EXTINF:-1 group-title="📰国外新闻" ,CPBC
 http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,NHK
+#EXTINF:-1 group-title="📰国外新闻" ,NHK
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,NewKID2
+#EXTINF:-1 group-title="📰国外新闻" ,NewKID2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,NewKID4
+#EXTINF:-1 group-title="📰国外新闻" ,NewKID4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,NewKID4
+#EXTINF:-1 group-title="📰国外新闻" ,NewKID4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,RNA
+#EXTINF:-1 group-title="📰国外新闻" ,RNA
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,TV
+#EXTINF:-1 group-title="📰国外新闻" ,TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,TV1
+#EXTINF:-1 group-title="📰国外新闻" ,TV1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,TV3
+#EXTINF:-1 group-title="📰国外新闻" ,TV3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,fujitv4
+#EXTINF:-1 group-title="📰国外新闻" ,fujitv4
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTINF:-1 group-title="📰国外新闻" ,EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Gugbang TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="📰国外新闻" ,Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,News24(392p)[Not24/7]
+#EXTINF:-1 group-title="📰国外新闻" ,News24(392p)[Not24/7]
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,movie sphere
+#EXTINF:-1 group-title="📰国外新闻" ,movie sphere
 https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
-#EXTINF:-1 group-title="📰国外新闻,#genre#" ,Home & Shopping (720p)
+#EXTINF:-1 group-title="📰国外新闻" ,Home & Shopping (720p)
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
