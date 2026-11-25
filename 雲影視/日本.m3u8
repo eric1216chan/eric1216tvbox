@@ -1,273 +1,273 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分组" ,日テレNEWS
+#EXTINF:-1 group-title="日本" ,日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,FNNプライムオンライン
+#EXTINF:-1 group-title="日本" ,FNNプライムオンライン
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,MBSニュース
+#EXTINF:-1 group-title="日本" ,MBSニュース
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,日テレNEWSセレクト
+#EXTINF:-1 group-title="日本" ,日テレNEWSセレクト
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,共同通信News
+#EXTINF:-1 group-title="日本" ,共同通信News
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,NewsWorld
+#EXTINF:-1 group-title="日本" ,NewsWorld
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,オリコンニュース
+#EXTINF:-1 group-title="日本" ,オリコンニュース
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,STOCK VOICE
+#EXTINF:-1 group-title="日本" ,STOCK VOICE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,Bloomberg TV+
+#EXTINF:-1 group-title="日本" ,Bloomberg TV+
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,Euronews
+#EXTINF:-1 group-title="日本" ,Euronews
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,Reuters 60
+#EXTINF:-1 group-title="日本" ,Reuters 60
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,ビジネス・プレミアム (FAST)
+#EXTINF:-1 group-title="日本" ,ビジネス・プレミアム (FAST)
 https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
-#EXTINF:-1 group-title="未分组" ,エンタメニュース (FAST)
+#EXTINF:-1 group-title="日本" ,エンタメニュース (FAST)
 https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
-#EXTINF:-1 group-title="未分组" ,NHK World-Japan
+#EXTINF:-1 group-title="日本" ,NHK World-Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="未分组" ,TOP BARÇA
+#EXTINF:-1 group-title="日本" ,TOP BARÇA
 https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,NTV Pro Wrestling
+#EXTINF:-1 group-title="日本" ,NTV Pro Wrestling
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,刺激ストロングSPORTS
+#EXTINF:-1 group-title="日本" ,刺激ストロングSPORTS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,FUEL TV
+#EXTINF:-1 group-title="日本" ,FUEL TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,GOLF LIFE (FAST)
+#EXTINF:-1 group-title="日本" ,GOLF LIFE (FAST)
 https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
-#EXTINF:-1 group-title="未分组" ,ムビドラTV
+#EXTINF:-1 group-title="日本" ,ムビドラTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,時代劇TV (FAST)
+#EXTINF:-1 group-title="日本" ,時代劇TV (FAST)
 https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
-#EXTINF:-1 group-title="未分组" ,LeminoTV (FAST)
+#EXTINF:-1 group-title="日本" ,LeminoTV (FAST)
 https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
-#EXTINF:-1 group-title="未分组" ,エンタメ・アジア (FAST)
+#EXTINF:-1 group-title="日本" ,エンタメ・アジア (FAST)
 https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
-#EXTINF:-1 group-title="未分组" ,手塚プロダクションTV
+#EXTINF:-1 group-title="日本" ,手塚プロダクションTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,キッズ
+#EXTINF:-1 group-title="日本" ,キッズ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,アニマックス FREE (FAST)
+#EXTINF:-1 group-title="日本" ,アニマックス FREE (FAST)
 https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
-#EXTINF:-1 group-title="未分组" ,that’s 90s00s
+#EXTINF:-1 group-title="日本" ,that’s 90s00s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,that’s Rock
+#EXTINF:-1 group-title="日本" ,that’s Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,ペットTV (FAST)
+#EXTINF:-1 group-title="日本" ,ペットTV (FAST)
 https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
-#EXTINF:-1 group-title="未分组" ,キャンプ・アウトドア (FAST)
+#EXTINF:-1 group-title="日本" ,キャンプ・アウトドア (FAST)
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
-#EXTINF:-1 group-title="未分组" ,今日のごはんなに? (FAST)
+#EXTINF:-1 group-title="日本" ,今日のごはんなに? (FAST)
 https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
-#EXTINF:-1 group-title="未分组" ,観るたび (FAST)
+#EXTINF:-1 group-title="日本" ,観るたび (FAST)
 https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
-#EXTINF:-1 group-title="未分组" ,囲碁・将棋ライト
+#EXTINF:-1 group-title="日本" ,囲碁・将棋ライト
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,麻雀
+#EXTINF:-1 group-title="日本" ,麻雀
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,パチンコ・パチスロ
+#EXTINF:-1 group-title="日本" ,パチンコ・パチスロ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,ぷれいば！
+#EXTINF:-1 group-title="日本" ,ぷれいば！
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,ワンニャンチャンネル
+#EXTINF:-1 group-title="日本" ,ワンニャンチャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,九州・沖縄　街ネタ
+#EXTINF:-1 group-title="日本" ,九州・沖縄　街ネタ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,丸ごと九州 (FAST)
+#EXTINF:-1 group-title="日本" ,丸ごと九州 (FAST)
 https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
-#EXTINF:-1 group-title="未分组" ,ぴあ落語ざんまい (FAST)
+#EXTINF:-1 group-title="日本" ,ぴあ落語ざんまい (FAST)
 https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
-#EXTINF:-1 group-title="未分组" ,FASHIONPLUS (FAST)
+#EXTINF:-1 group-title="日本" ,FASHIONPLUS (FAST)
 https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
-#EXTINF:-1 group-title="未分组" ,囲碁・将棋ライト (FAST)
+#EXTINF:-1 group-title="日本" ,囲碁・将棋ライト (FAST)
 https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
-#EXTINF:-1 group-title="未分组" ,丸ごと北海道 (FAST)
+#EXTINF:-1 group-title="日本" ,丸ごと北海道 (FAST)
 https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
-#EXTINF:-1 group-title="未分组" ,東海ロキポ (FAST)
+#EXTINF:-1 group-title="日本" ,東海ロキポ (FAST)
 https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
-#EXTINF:-1 group-title="未分组" ,エンタメ～テレDEEP
+#EXTINF:-1 group-title="日本" ,エンタメ～テレDEEP
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,韓流チャンネル (FAST)
+#EXTINF:-1 group-title="日本" ,韓流チャンネル (FAST)
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
-#EXTINF:-1 group-title="未分组" ,GSTV
+#EXTINF:-1 group-title="日本" ,GSTV
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-#EXTINF:-1 group-title="未分组" ,セクシーエンタメチャンネル
+#EXTINF:-1 group-title="日本" ,セクシーエンタメチャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,刺激ストロング
+#EXTINF:-1 group-title="日本" ,刺激ストロング
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,映画（年齢制限あり）
+#EXTINF:-1 group-title="日本" ,映画（年齢制限あり）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,NHK G
+#EXTINF:-1 group-title="日本" ,NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
-#EXTINF:-1 group-title="未分组" ,NHK E
+#EXTINF:-1 group-title="日本" ,NHK E
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
-#EXTINF:-1 group-title="未分组" ,TBS
+#EXTINF:-1 group-title="日本" ,TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
-#EXTINF:-1 group-title="未分组" ,TV Tokyo
+#EXTINF:-1 group-title="日本" ,TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
-#EXTINF:-1 group-title="未分组" ,Fuji TV
+#EXTINF:-1 group-title="日本" ,Fuji TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
-#EXTINF:-1 group-title="未分组" ,Tokyo MX1
+#EXTINF:-1 group-title="日本" ,Tokyo MX1
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
-#EXTINF:-1 group-title="未分组" ,Tokyo MX2
+#EXTINF:-1 group-title="日本" ,Tokyo MX2
 https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,BS NTV
+#EXTINF:-1 group-title="日本" ,BS NTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
-#EXTINF:-1 group-title="未分组" ,BS Asahi
+#EXTINF:-1 group-title="日本" ,BS Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
-#EXTINF:-1 group-title="未分组" ,BS TBS
+#EXTINF:-1 group-title="日本" ,BS TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
-#EXTINF:-1 group-title="未分组" ,BS 12
+#EXTINF:-1 group-title="日本" ,BS 12
 https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,NHK BS4K
+#EXTINF:-1 group-title="日本" ,NHK BS4K
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
-#EXTINF:-1 group-title="未分组" ,WOWOW Prime
+#EXTINF:-1 group-title="日本" ,WOWOW Prime
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
-#EXTINF:-1 group-title="未分组" ,WOWOW Cinema
+#EXTINF:-1 group-title="日本" ,WOWOW Cinema
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
-#EXTINF:-1 group-title="未分组" ,BS 10 Premium
+#EXTINF:-1 group-title="日本" ,BS 10 Premium
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
-#EXTINF:-1 group-title="未分组" ,JSport 1
+#EXTINF:-1 group-title="日本" ,JSport 1
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
-#EXTINF:-1 group-title="未分组" ,JSport 2
+#EXTINF:-1 group-title="日本" ,JSport 2
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
-#EXTINF:-1 group-title="未分组" ,JSport 3
+#EXTINF:-1 group-title="日本" ,JSport 3
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
-#EXTINF:-1 group-title="未分组" ,Green Channel
+#EXTINF:-1 group-title="日本" ,Green Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
-#EXTINF:-1 group-title="未分组" ,Animax
+#EXTINF:-1 group-title="日本" ,Animax
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
-#EXTINF:-1 group-title="未分组" ,Nihon Eiga Senmon
+#EXTINF:-1 group-title="日本" ,Nihon Eiga Senmon
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
-#EXTINF:-1 group-title="未分组" ,WOWOW Plus
+#EXTINF:-1 group-title="日本" ,WOWOW Plus
 https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Disney Channel
+#EXTINF:-1 group-title="日本" ,Disney Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
-#EXTINF:-1 group-title="未分组" ,Jcom BS
+#EXTINF:-1 group-title="日本" ,Jcom BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
-#EXTINF:-1 group-title="未分组" ,BS Yoshimoto
+#EXTINF:-1 group-title="日本" ,BS Yoshimoto
 https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,GAORA
+#EXTINF:-1 group-title="日本" ,GAORA
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs17
-#EXTINF:-1 group-title="未分组" ,MTV
+#EXTINF:-1 group-title="日本" ,MTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
-#EXTINF:-1 group-title="未分组" ,V Paradise
+#EXTINF:-1 group-title="日本" ,V Paradise
 https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,The Cinema
+#EXTINF:-1 group-title="日本" ,The Cinema
 https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Kayo Pops
+#EXTINF:-1 group-title="日本" ,Kayo Pops
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs13
-#EXTINF:-1 group-title="未分组" ,NTV Plus
+#EXTINF:-1 group-title="日本" ,NTV Plus
 https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Family Gekijo
+#EXTINF:-1 group-title="日本" ,Family Gekijo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
-#EXTINF:-1 group-title="未分组" ,Mondo TV
+#EXTINF:-1 group-title="日本" ,Mondo TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs21
-#EXTINF:-1 group-title="未分组" ,TBS Channel 1
+#EXTINF:-1 group-title="日本" ,TBS Channel 1
 https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,TBS Channel 2
+#EXTINF:-1 group-title="日本" ,TBS Channel 2
 https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,TV Asahi Channel 1
+#EXTINF:-1 group-title="日本" ,TV Asahi Channel 1
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,TV Asahi Channel 2
+#EXTINF:-1 group-title="日本" ,TV Asahi Channel 2
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Fuji TV One
+#EXTINF:-1 group-title="日本" ,Fuji TV One
 https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Fuji TV Two
+#EXTINF:-1 group-title="日本" ,Fuji TV Two
 https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Fuji TV Next
+#EXTINF:-1 group-title="日本" ,Fuji TV Next
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs26
-#EXTINF:-1 group-title="未分组" ,Neco Channel
+#EXTINF:-1 group-title="日本" ,Neco Channel
 https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Dlife
+#EXTINF:-1 group-title="日本" ,Dlife
 https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Toei Channel
+#EXTINF:-1 group-title="日本" ,Toei Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
-#EXTINF:-1 group-title="未分组" ,Fighting TV Samurai
+#EXTINF:-1 group-title="日本" ,Fighting TV Samurai
 https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Me-Tele Next
+#EXTINF:-1 group-title="日本" ,Me-Tele Next
 https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Sport live plus
+#EXTINF:-1 group-title="日本" ,Sport live plus
 https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Shogi Channel
+#EXTINF:-1 group-title="日本" ,Shogi Channel
 https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Home Drama Channel
+#EXTINF:-1 group-title="日本" ,Home Drama Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
-#EXTINF:-1 group-title="未分组" ,Channel Ginga
+#EXTINF:-1 group-title="日本" ,Channel Ginga
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
-#EXTINF:-1 group-title="未分组" ,Tabi Channel
+#EXTINF:-1 group-title="日本" ,Tabi Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
-#EXTINF:-1 group-title="未分组" ,Tetsudo Channel
+#EXTINF:-1 group-title="日本" ,Tetsudo Channel
 https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Music On!
+#EXTINF:-1 group-title="日本" ,Music On!
 https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Music Air
+#EXTINF:-1 group-title="日本" ,Music Air
 https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Action Channel
+#EXTINF:-1 group-title="日本" ,Action Channel
 https://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Mystery Channel
+#EXTINF:-1 group-title="日本" ,Mystery Channel
 https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,GSTV
+#EXTINF:-1 group-title="日本" ,GSTV
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-#EXTINF:-1 group-title="未分组" ,Jidaigeki Senmon
+#EXTINF:-1 group-title="日本" ,Jidaigeki Senmon
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
-#EXTINF:-1 group-title="未分组" ,Eisei Gekijo
+#EXTINF:-1 group-title="日本" ,Eisei Gekijo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
-#EXTINF:-1 group-title="未分组" ,Movie Plus
+#EXTINF:-1 group-title="日本" ,Movie Plus
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
-#EXTINF:-1 group-title="未分组" ,Golf Network
+#EXTINF:-1 group-title="日本" ,Golf Network
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs03
-#EXTINF:-1 group-title="未分组" ,LaLa TV
+#EXTINF:-1 group-title="日本" ,LaLa TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs19
-#EXTINF:-1 group-title="未分组" ,Sky Stage
+#EXTINF:-1 group-title="日本" ,Sky Stage
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
-#EXTINF:-1 group-title="未分组" ,National Geographic
+#EXTINF:-1 group-title="日本" ,National Geographic
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
-#EXTINF:-1 group-title="未分组" ,Disney Junior
+#EXTINF:-1 group-title="日本" ,Disney Junior
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
-#EXTINF:-1 group-title="未分组" ,Discovery
+#EXTINF:-1 group-title="日本" ,Discovery
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
-#EXTINF:-1 group-title="未分组" ,Animal Planet
+#EXTINF:-1 group-title="日本" ,Animal Planet
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
-#EXTINF:-1 group-title="未分组" ,History Channel
+#EXTINF:-1 group-title="日本" ,History Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
-#EXTINF:-1 group-title="未分组" ,NTV News24
+#EXTINF:-1 group-title="日本" ,NTV News24
 https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,CNNj
+#EXTINF:-1 group-title="日本" ,CNNj
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs16
-#EXTINF:-1 group-title="未分组" ,BBC News
+#EXTINF:-1 group-title="日本" ,BBC News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
-#EXTINF:-1 group-title="未分组" ,TBS News
+#EXTINF:-1 group-title="日本" ,TBS News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
-#EXTINF:-1 group-title="未分组" ,that’s 70s
+#EXTINF:-1 group-title="日本" ,that’s 70s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,that’s 80s
+#EXTINF:-1 group-title="日本" ,that’s 80s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,NHK G
+#EXTINF:-1 group-title="日本" ,NHK G
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
-#EXTINF:-1 group-title="未分组" ,フジテレビ
+#EXTINF:-1 group-title="日本" ,フジテレビ
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="未分组" ,NHK 総合
+#EXTINF:-1 group-title="日本" ,NHK 総合
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 group-title="未分组" ,TBS (备用)
+#EXTINF:-1 group-title="日本" ,TBS (备用)
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="未分组" ,ショップチャンネル
+#EXTINF:-1 group-title="日本" ,ショップチャンネル
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="未分组" ,QVC
+#EXTINF:-1 group-title="日本" ,QVC
 https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-#EXTINF:-1 group-title="未分组" ,BS 10
+#EXTINF:-1 group-title="日本" ,BS 10
 https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,BS 11
+#EXTINF:-1 group-title="日本" ,BS 11
 https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,AT-X
+#EXTINF:-1 group-title="日本" ,AT-X
 https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Mnet
+#EXTINF:-1 group-title="日本" ,Mnet
 https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="未分组" ,Shop Channel
+#EXTINF:-1 group-title="日本" ,Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="未分组" ,QVC
+#EXTINF:-1 group-title="日本" ,QVC
 https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-#EXTINF:-1 group-title="未分组" ,KNTV
+#EXTINF:-1 group-title="日本" ,KNTV
 https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
