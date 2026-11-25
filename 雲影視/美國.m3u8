@@ -1,85 +1,85 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分组" ,ACCDN
+#EXTINF:-1 group-title="美國" ,ACCDN
 https://raycom-accdn-firetv.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 group-title="未分组" ,ALJAZEERA
+#EXTINF:-1 group-title="美國" ,ALJAZEERA
 http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/255.ts
-#EXTINF:-1 group-title="未分组" ,ALJAZEERA
+#EXTINF:-1 group-title="美國" ,ALJAZEERA
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/960/index.m3u8
-#EXTINF:-1 group-title="未分组" ,BBC WORLD NEWS
+#EXTINF:-1 group-title="美國" ,BBC WORLD NEWS
 http://23.237.104.106:8080/USA_BBC_NEWS/mpegts
-#EXTINF:-1 group-title="未分组" ,beIN SPORTS XTRA en Espanol
+#EXTINF:-1 group-title="美國" ,beIN SPORTS XTRA en Espanol
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,beIN Sports Xtra
+#EXTINF:-1 group-title="美國" ,beIN Sports Xtra
 https://bein-xtra-bein.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="未分组" ,CCTV+
+#EXTINF:-1 group-title="美國" ,CCTV+
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,CCTV+
+#EXTINF:-1 group-title="美國" ,CCTV+
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,CGTN DOCUMENTARY
+#EXTINF:-1 group-title="美國" ,CGTN DOCUMENTARY
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="未分组" ,CGTN DOCUMENTARY
+#EXTINF:-1 group-title="美國" ,CGTN DOCUMENTARY
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 group-title="未分组" ,CGTN
+#EXTINF:-1 group-title="美國" ,CGTN
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/830/index.m3u8
-#EXTINF:-1 group-title="未分组" ,CGTN
+#EXTINF:-1 group-title="美國" ,CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="未分组" ,CNBC
+#EXTINF:-1 group-title="美國" ,CNBC
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6482/index.m3u8
-#EXTINF:-1 group-title="未分组" ,CNN INTL
+#EXTINF:-1 group-title="美國" ,CNN INTL
 http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/253.ts
-#EXTINF:-1 group-title="未分组" ,CNN INTL
+#EXTINF:-1 group-title="美國" ,CNN INTL
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31301/index.m3u8
-#EXTINF:-1 group-title="未分组" ,CNN INTL
+#EXTINF:-1 group-title="美國" ,CNN INTL
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
-#EXTINF:-1 group-title="未分组" ,CNN
+#EXTINF:-1 group-title="美國" ,CNN
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6499/index.m3u8
-#EXTINF:-1 group-title="未分组" ,CNN
+#EXTINF:-1 group-title="美國" ,CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 group-title="未分组" ,Court TV
+#EXTINF:-1 group-title="美國" ,Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,CP 24 CA
+#EXTINF:-1 group-title="美國" ,CP 24 CA
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6501/index.m3u8
-#EXTINF:-1 group-title="未分组" ,Documentary+
+#EXTINF:-1 group-title="美國" ,Documentary+
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,Estrella TV
+#EXTINF:-1 group-title="美國" ,Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="未分组" ,FOX BUSINESS
+#EXTINF:-1 group-title="美國" ,FOX BUSINESS
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 group-title="未分组" ,FRANCE 24
+#EXTINF:-1 group-title="美國" ,FRANCE 24
 http://103.213.31.111/France24/index.m3u8
-#EXTINF:-1 group-title="未分组" ,FRANCE 24
+#EXTINF:-1 group-title="美國" ,FRANCE 24
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31318/index.m3u8
-#EXTINF:-1 group-title="未分组" ,FRANCE 24
+#EXTINF:-1 group-title="美國" ,FRANCE 24
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,FS1 US
+#EXTINF:-1 group-title="美國" ,FS1 US
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
-#EXTINF:-1 group-title="未分组" ,FS2 US
+#EXTINF:-1 group-title="美國" ,FS2 US
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
-#EXTINF:-1 group-title="未分组" ,KNBC
+#EXTINF:-1 group-title="美國" ,KNBC
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
-#EXTINF:-1 group-title="未分组" ,KTTV
+#EXTINF:-1 group-title="美國" ,KTTV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,LIVENOW FROM FOX
+#EXTINF:-1 group-title="美國" ,LIVENOW FROM FOX
 http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/252.ts
-#EXTINF:-1 group-title="未分组" ,MSNBC
+#EXTINF:-1 group-title="美國" ,MSNBC
 http://41.223.30.230/MSNBC/index.m3u8
-#EXTINF:-1 group-title="未分组" ,Mystery TV
+#EXTINF:-1 group-title="美國" ,Mystery TV
 https://aenetworks-mysterytv-rakuten.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="未分组" ,NOW 70s
+#EXTINF:-1 group-title="美國" ,NOW 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,NOW 70s
+#EXTINF:-1 group-title="美國" ,NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,NOW 80s
+#EXTINF:-1 group-title="美國" ,NOW 80s
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,Now 80s
+#EXTINF:-1 group-title="美國" ,Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="未分组" ,Now 90s
+#EXTINF:-1 group-title="美國" ,Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="未分组" ,Pac-12 Insider
+#EXTINF:-1 group-title="美國" ,Pac-12 Insider
 https://pac12-firetv.amagi.tv/1080p-en-cc/index.m3u8
-#EXTINF:-1 group-title="未分组" ,RT NEWS
+#EXTINF:-1 group-title="美國" ,RT NEWS
 http://179.60.51.134:8888/RT/index.m3u8
-#EXTINF:-1 group-title="未分组" ,SportsGrid
+#EXTINF:-1 group-title="美國" ,SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="美國" ,Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
