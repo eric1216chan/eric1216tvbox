@@ -1,12 +1,81 @@
 #EXTM3U
-#EXTINF:-1 group-title="新加坡",CNA
+#EXTINF:-1 group-title="未分组" ,ACCU WEATHER
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=469342
+#EXTINF:-1 group-title="未分组" ,ALJAZEERA
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=281652
+#EXTINF:-1 group-title="未分组" ,BBC WORLD NEWS
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551984
+#EXTINF:-1 group-title="未分组" ,FOX BUSINESS
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551968
+#EXTINF:-1 group-title="未分组" ,FOX NEWS
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551982
+#EXTINF:-1 group-title="未分组" ,FRANCE 24
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551983
+#EXTINF:-1 group-title="未分组" ,MSNBC
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551986
+#EXTINF:-1 group-title="未分组" ,SKY NEWS
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=577229
+#EXTINF:-1 group-title="未分组" ,THE WEATHER CHANNEL
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=469343
+#EXTINF:-1 group-title="未分组" ,TRT WORLD
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=577212
+#EXTINF:-1 group-title="未分组" ,CBSN LOS ANGELES
+http://ky-tv.cc/live/brendan1/brendan1/399827.ts
+#EXTINF:-1 group-title="未分组" ,KABC
+http://ky-tv.cc/live/brendan1/brendan1/517452.ts
+#EXTINF:-1 group-title="未分组" ,KABC
+http://bgdc.live:25461/rodneyb5777/5777/215925
+#EXTINF:-1 group-title="未分组" ,KABC
+http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/215925
+#EXTINF:-1 group-title="未分组" ,KCAL
+http://line.smootvone.vip/play/live.php?extension=ts&mac=A0:BB:3E:00:03:3d&stream=986800
+#EXTINF:-1 group-title="未分组" ,KCAL
+http://ky-tv.cc/live/brendan1/brendan1/517581.ts
+#EXTINF:-1 group-title="未分组" ,KCAL
+http://ky-tv.cc/live/brendan1/brendan1/648417.ts
+#EXTINF:-1 group-title="未分组" ,KCBS
+http://ky-tv.cc/live/brendan1/brendan1/517519.ts
+#EXTINF:-1 group-title="未分组" ,KCBS
+http://ky-tv.cc/live/brendan1/brendan1/648418.ts
+#EXTINF:-1 group-title="未分组" ,KTTV
+http://ky-tv.cc/live/brendan1/brendan1/517267.ts
+#EXTINF:-1 group-title="未分组" ,KTTV
+http://ky-tv.cc/live/brendan1/brendan1/648521.ts
+#EXTINF:-1 group-title="未分组" ,KTTV
+http://bgdc.live:25461/rodneyb5777/5777/215728
+#EXTINF:-1 group-title="未分组" ,KNBC
+http://ky-tv.cc/live/brendan1/brendan1/517814.ts
+#EXTINF:-1 group-title="未分组" ,KNBC
+http://ky-tv.cc/live/brendan1/brendan1/648649.ts
+#EXTINF:-1 group-title="未分组" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="新加坡",CNR香港之聲1-Voice
+#EXTINF:-1 group-title="未分组" ,CNR香港之聲1-Voice
 https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
-#EXTINF:-1 group-title="新加坡",CH5
+#EXTINF:-1 group-title="未分组" ,CH5
 https://cdn6.cc.cd/163189/ch5
-#EXTINF:-1 group-title="新加坡",CH8
+#EXTINF:-1 group-title="未分组" ,CH8
 https://cdn6.cc.cd/163189/ch8
-#EXTINF:-1 group-title="新加坡",CHU
+#EXTINF:-1 group-title="未分组" ,CHU
 https://cdn6.cc.cd/163189/chu
-
+#EXTINF:-1 group-title="未分组" ,CBS NEWS 24/7
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551996
+#EXTINF:-1 group-title="未分组" ,CBS NEWS 24/7
+http://ky-tv.cc/live/brendan1/brendan1/517979.ts
+#EXTINF:-1 group-title="未分组" ,KABC
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=548980
+#EXTINF:-1 group-title="未分组" ,KCBS
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=549636
+#EXTINF:-1 group-title="未分组" ,KCAL
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=760122
+#EXTINF:-1 group-title="未分组" ,KNBC
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=550382
+#EXTINF:-1 group-title="未分组" ,KTLA
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=469336
+#EXTINF:-1 group-title="未分组" ,KTTV
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=549875
+#EXTINF:-1 group-title="未分组" ,CNN
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=552000
+#EXTINF:-1 group-title="未分组" ,CNBC
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551993
+#EXTINF:-1 group-title="未分组" ,TVG
+http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=487634
