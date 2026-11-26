@@ -82,18 +82,6 @@ http://player4.juyun.tv/camera/158562106.m3u8
 https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
 #EXTINF:-1 group-title="香港",香港電臺第五臺
 https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://156.238.224.170:7001/fhx.php?id=cn
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://31.43.191.125:8080/restream/restream/34629
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://cdn6.123.rr.kg/163189/fhzw
-#EXTINF:-1 group-title="香港",鳳凰中文
-https://cdn6.cc.cd/163189/fhzw
 #EXTINF:-1 group-title="香港",鳳凰香港
 http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 group-title="香港",鳳凰香港
