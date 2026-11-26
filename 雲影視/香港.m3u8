@@ -89,10 +89,6 @@ http://cdn6.123.rr.kg/163189/fhhk
 #EXTINF:-1 group-title="香港",鳳凰香港
 https://cdn6.cc.cd/163189/fhhk
 #EXTINF:-1 group-title="香港",鳳凰資訊
-http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="香港",鳳凰資訊
-http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="香港",鳳凰資訊
 http://31.43.191.125:8080/restream/restream/34641
 #EXTINF:-1 group-title="香港",鳳凰資訊
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
